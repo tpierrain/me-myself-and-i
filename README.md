@@ -3,6 +3,11 @@ Thomas PIERRAIN (aka [use case driven](https://twitter.com/tpierrain) on twitter
 
 ## In 2016 
 
+I started by trying to reboot Domain Driven Design (DDD) with Jérémy GRODZISKI (Devoxx then NCrafts.io). Our main objective was to make DDD wisdom more mainstream. This year, I also continued to promote Software Craftsmanship during mainstream events with my mate Bruno BOUCARD (at Microsoft France, at Paris JUG, during the MS experiences'16, etc.). Lots of fun around that. After that, I've been asked to co-animate a serie of 3 sessions during the first MS exeriences event in Paris (the new version of MS tech days in the *Palais des congrès*): one which was a huge Event Storming introduction (more than 60 people), and the other about CQRS pattern which led me to build a fake app in dotnet core few days before.
+
+Last but not least, I'm very proud of the [Legacy Club]() session we built with Bruno. A mix of inspirational storytelling, live-code and advanced techniques of refactoring. We played it once at Agile Tour Lille (with great feedback), and I hope that we will have many other occasions to meet people with it.
+
+
 ### Agile Tour Lille
 - Legacy Club, with Bruno Boucard
 
