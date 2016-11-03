@@ -20,14 +20,14 @@ Last but not least, I'm very proud of the [Legacy Club]() session we built with 
     - [slides](http://fr.slideshare.net/ThomasPierrain/decouvrir-cqrs-par-la-pratique-67526638) 
 
 ### DDDx London 
-- Let's reboot DDD! (improvised during the unconf part, but in the big room ;-) with Jérémie GRODZISKI
+- Let's reboot DDD! (improvised during the unconf part, but in the big room ;-) with Jérémie GRODZISKI ![uk](uk.jpg)
     - [slides](http://fr.slideshare.net/ThomasPierrain/ddd-reboot-english-version)
 
 ### Agile France
 - DDD: et si on reprenait l'histoire par le bon bout ? with Jérémie GRODZISKI
 
 ### NCrafts.io
-- [Let's reboot DDD!](https://vimeo.com/167722768) with Jérémie GRODZISKI
+- [Let's reboot DDD!](https://vimeo.com/167722768) with Jérémie GRODZISKI ![uk](uk.jpg)
 
 ### Paris JUG
 - [Soirée Software Craftsmanship](https://www.youtube.com/watch?v=Cov4MGzozSA) with Bruno Boucard, Diego Lemos and myself. (pics [here](https://www.parisjug.org/xwiki/wiki/oldversion/view/Meeting/20160209)) 
@@ -48,7 +48,7 @@ Last but not least, I'm very proud of the [Legacy Club]() session we built with 
 - [Si le TDD est mort, alors pratiquons une autopsie](http://fr.slideshare.net/brunoboucard/si-le-tdd-est-mort-alors-mix-it) with Bruno Boucard
 
 ### NCraft.io
-- [TDD is dead?!? Let's do an autospy](http://videos.ncrafts.io/video/130256612) with Bruno Boucard
+- [TDD is dead?!? Let's do an autospy](http://videos.ncrafts.io/video/130256612) with Bruno Boucard ![uk](uk.jpg)
 
 ### Agile France
 - Si le TDD est mort, alors pratiquons une autopsie, with Bruno Boucard
