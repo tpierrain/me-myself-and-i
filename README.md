@@ -11,18 +11,19 @@ __Thomas PIERRAIN__ (aka __[use case driven](https://twitter.com/tpierrain)__ on
 ## In 2016 
 
 ### DDD, Craftsmanship & Legacy code (+ few technical talks here and there)
-This year, I started trying __[to reboot Domain Driven Design](http://domain-driven-design.eu/reboot)__ (DDD) with [Jérémy GRODZISKI](https://twitter.com/jgrodziski) (at DevoxxFR, then NCrafts.io). Our main objective was to make DDD wisdom & efficiency more __mainstream__. We had lots of fun to make it live but I have to admit that I'm very happy to see that this subject has met its target audience at the end of the day (being [one of the most viewed video from the last Devoxx FR](https://www.youtube.com/watch?v=o3thkx3EuiA))
+This year, I started trying __[to reboot Domain Driven Design](http://domain-driven-design.eu/reboot)__ (DDD) with [Jérémy GRODZISKI](https://twitter.com/jgrodziski) (at DevoxxFR, then NCrafts.io). Our main objective was to make DDD wisdom & efficiency __more mainstream__. We had lots of fun to make it live but I have to admit that I'm very happy to see that this subject has met its target audience at the end of the day (being [one of the most viewed video from the last Devoxx FR](https://www.youtube.com/watch?v=o3thkx3EuiA))
 
-This year, I also continued __to promote Software Craftsmanship__ during mainstream events with my mate [Bruno BOUCARD](https://twitter.com/brunoboucard) (at Paris JUG, during the MS experiences'16, etc.). Lots of fun around that. The climax being the __Microsoft experiences'16__ event in Paris (i.e. the new version of MS tech days in the *Palais des congrès*). After the success of our previous *Learn to craft* event at MS France last year (with [Jean-Laurent](https://twitter.com/morlhon)), Bruno and I were offered the animation of 3 sessions related to *Software Craftsmanship*. We then decided to illustrate the wide spectrum of it: from the business requirements (via Event Storming), to the app implementation (using CQRS and hexagonal architecture), including the deployment (with Docker). The CQRS session was an opportunity for me to discover *dotnetcore* (to allow Docker deployment) and to drop [a sample CQRS app on github](https://github.com/tpierrain/CQRS) few days before. Putting it to github was really an interesting move since I got very interesting feedbacks from friends and experts just before the MS event.
+Another intense moment for me at DevoxxFR was the 3 hours talk of *network mechanical sympathy* we've made with [Raphaël Luta](https://twitter.com/raphaelluta) and my friend [Cyrille Dupuydauby](https://twitter.com/Cyrdup): [Pourquoi il ne suffira pas de faire du HTTP 2.0 pour faire des applications performantes](https://www.youtube.com/watch?v=GL-euKX5XEk). We didn't have too much time to prepare it (I was very busy with the elaboration of the DDD reboot talk) but *explaining how TCP works with post-its, buckets and the audience -as the network- was really fun*. Preparing this talk, I was very impressed by Raphaël's knowledge about network and performance.
 
-Another intense moment for me was the 3 hours talk we've made at Devoxx FR about the *network mechanical sympathy* with [Raphaël Luta](https://twitter.com/raphaelluta) and my friend [Cyrille Dupuydauby](https://twitter.com/Cyrdup). We didn't have too much time to prepare it (I was very busy with the elaboration of the DDD reboot talk) but *explaining how TCP works with post-its, buckets and the audience -as the network- was really fun*. Working with him to prepare this talk, I was also very impressed by Raphaël knowledge about the network in all its form.
+This year, I also continued __to promote Software Craftsmanship__ during mainstream events with my mate [Bruno BOUCARD](https://twitter.com/brunoboucard) (at Paris JUG, during the MS experiences'16, etc.). Lots of interesting interactions with people. The climax being the __Microsoft experiences'16__ event in Paris (i.e. the new version of MS tech days in the *Palais des congrès*). After the success of our previous *Learn to craft* event at MS France last year (with [Jean-Laurent](https://twitter.com/morlhon)), Bruno and I were offered the animation of 3 sessions related to *Software Craftsmanship*. We then decided to illustrate the wide spectrum of it: from the business requirements (via Event Storming), to the app implementation (using CQRS and hexagonal architecture), including the deployment (with Docker). We also decided to ask some help to [Tomasz Jaskula](https://twitter.com/tjaskula) for the animation (he was a great *domain expert* for the Event Storming). The CQRS session was an opportunity for me to discover ASP.NET MVC with *dotnetcore* (to allow Docker deployment) and to drop [a sample CQRS app on github](https://github.com/tpierrain/CQRS) few days before. Putting it to github was really an interesting move since I got feedbacks from friends and experts just before the MS event.
 
-Last but not least, I'm very proud of the __[Legacy Club](https://twitter.com/tpierrain/status/786848848660553728)__ session we built with Bruno. __A mix of inspirational storytelling, live-code and advanced techniques of refactoring__. We played it once at Agile Tour Lille (with great feedback), and I hope that we will have many other occasions to meet people with it again. We've been invited to play it at Lean Kanban France (we will slightly remaster it for the occasion; i.e. reducing the live-coding parts in order to improve the storytelling one).
+Last but not least, I'm very proud of the __[Legacy Club](https://twitter.com/tpierrain/status/786848848660553728)__ session we built with Bruno. __A mix of inspirational storytelling, live-code and advanced techniques of refactoring__. We played it once at Agile Tour Lille (with [nice feedbacks](https://twitter.com/antoniolopezg/status/786856429386948609)), and I hope that we will have many other occasions to meet people with it again. We've been invited to play it at Lean Kanban France (we will slightly remaster it for the occasion; i.e. reducing the live-coding parts in order to improve the storytelling one).
 
 ### 2016 in details:
 
 #### Agile Tour Lille
-- __[Legacy Club](https://twitter.com/tpierrain/status/786848848660553728)__, with Bruno Boucard.
+- __[Legacy Club](https://twitter.com/tpierrain/status/786848848660553728)__, with Bruno Boucard
+- DDD: et si on reprenait l'histoire par le bon bout ? with Jérémie Grodziski 
 
 #### MS Experiences '16 
     
@@ -33,20 +34,20 @@ Last but not least, I'm very proud of the __[Legacy Club](https://twitter.com/tp
     - [slides](http://fr.slideshare.net/ThomasPierrain/decouvrir-cqrs-par-la-pratique-67526638) 
 
 #### DDDx London 
-- Let's reboot DDD! (improvised during the unconf part, but in the big room ;-) with Jérémie GRODZISKI ![uk](uk.jpg)
+- Let's reboot DDD! (improvised during the unconf part, but in the big room ;-) with Jérémie Grodziski ![uk](uk.jpg)
     - [slides](http://fr.slideshare.net/ThomasPierrain/ddd-reboot-english-version)
 
 #### Agile France
-- DDD: et si on reprenait l'histoire par le bon bout ? with Jérémie GRODZISKI
+- DDD: et si on reprenait l'histoire par le bon bout ? with Jérémie Grodziski
 
 #### NCrafts.io
-- [Let's reboot DDD!](https://vimeo.com/167722768) with Jérémie GRODZISKI ![uk](uk.jpg)
+- [Let's reboot DDD!](https://vimeo.com/167722768) with Jérémie Grodziski ![uk](uk.jpg)
 
 #### Paris JUG
 - [Soirée Software Craftsmanship](https://www.youtube.com/watch?v=Cov4MGzozSA) with Bruno Boucard, Diego Lemos and myself. (pics [here](https://www.parisjug.org/xwiki/wiki/oldversion/view/Meeting/20160209)) 
 
 #### Devoxx FR
-- [DDD: et si on reprenait l'histoire par le bon bout ?](https://www.youtube.com/watch?v=o3thkx3EuiA) with Jérémie GRODZISKI 
+- [DDD: et si on reprenait l'histoire par le bon bout ?](https://www.youtube.com/watch?v=o3thkx3EuiA) with Jérémie Grodziski 
 - [Pourquoi il ne suffira pas de faire du HTTP 2.0 pour faire des applications performantes](https://www.youtube.com/watch?v=GL-euKX5XEk) with Raphaël LUTA & Cyrille DUPUYDAUBY
 
 ---
