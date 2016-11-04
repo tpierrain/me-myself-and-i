@@ -33,6 +33,7 @@ Last but not least, I'm very proud of the __[Legacy Club](https://twitter.com/tp
     
 - [Découvrir son sujet grâce à l'EventStorming](https://experiences.microsoft.fr/Event/session/atelier-1-decouvrir-son-sujet-grace-a-levent/2a6658ef-4074-e611-80c3-000d3a2229a6) with Bruno Boucard, Tomasz JASKULA & Eric Vernié
     - [slides](http://fr.slideshare.net/ThomasPierrain/decouvrir-son-sujet-grace-levent-storming)
+    - [Pics](https://twitter.com/tpierrain/status/783678783106740224)
 
 - [Découvrir CQRS par la pratique](https://experiences.microsoft.fr/Event/session/atelier-2-decouvrir-cqrs-par-la-pratique/6d4195a5-4174-e611-80c3-000d3a2229a6#UcdWr4guZXZ7HlAB.97) with Bruno Boucard, Tomasz JASKULA & Eric Vernié
     - [slides](http://fr.slideshare.net/ThomasPierrain/decouvrir-cqrs-par-la-pratique-67526638) 
