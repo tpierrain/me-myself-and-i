@@ -47,12 +47,16 @@ Last but not least, I'm very proud of the __[Legacy Club](https://twitter.com/tp
 
 ## In 2015
 
-### 2015 in details:
-
 #### TDD, Hexagonal architecture & Craftsmanship
-I started the year with a 3 hours talk at Devoxx FR about *Hexagonal Architecture* with [Cyrille Martraire](https://twitter.com/cyriux). Few monthes before, Cyrille and I had already made a thirty minutes talk to push this architecture style at Société Générale, but I have to admit that doing this 3 hours *university* format was probably the most stressing experience of my speaker carreer (due to the lack of time we had to prepare it). Anyway. We add some great time and __have probably animated the biggest architecture dojo of all time (with more than 800 people in the room)__. During Devoxx, I've also made a [Culture Craft](http://fr.slideshare.net/ThomasPierrain/culture-craft-humantalks) lightning talk that resonates a lot with the audience (with tips and tricks on how to wake-up and change your team or organisation's culture).
+I started the year with a 3 hours talk at Devoxx FR about *Hexagonal Architecture* with [Cyrille Martraire](https://twitter.com/cyriux). I know the topic, I've written blog posts on it, Cyrille and I have already made a thirty minutes talk in Société Générale in order to push this architecture style, but I have to admit that doing this 3 hours *university* format was probably the most stressing experience of my speaker carreer (due to the lack of time we had to prepare it). Anyway. We add some great time and __have probably animated the biggest architecture dojo of all time (with more than 800 people in the room)__. 
 
-The second part of the year was dedicated to TDD with my friend Bruno Boucard. Initially motivated to talk about our developper's mental models, we end-up with a talk about TDD, trying to explain the big picture of it and giving tips and tricks for people to successfully retry the experience (note: being exclusively practicing TDD since 2005, I've probably made all possible errors with it ;-) We played it a lot to conferences or during Brown Bag Lunch sessions, and the feedback on it was very positive. We end up by writing a serie of french article about TDD in Programmez (see. [Le TDD comme rempart contre nos biais](TDDCommeRempartContreNosBiais-Programmez.pdf)) 
+During Devoxx, I've also made a [Culture Craft](http://fr.slideshare.net/ThomasPierrain/culture-craft-humantalks) lightning talk that resonates a lot with the audience (with tips and tricks on how to wake-up and change your team or organisation's culture). This is the very same talk I've played afterwards during a human talk evening hosted in SocGen.
+
+The second part of the year was dedicated to TDD with my friend Bruno Boucard. Initially motivated to talk about our developper's mental models, we end-up with a talk about TDD, trying to explain the big picture of it and giving tips and tricks for people to successfully retry the experience (note: being exclusively practicing TDD since 2005, I've probably made all possible errors with it ;-) We played it a lot to conferences or during Brown Bag Lunch sessions, and the feedback on it was very positive. 
+
+We end up by writing a serie of french article about TDD in Programmez (see. __[Le TDD comme rempart contre nos biais](TDDCommeRempartContreNosBiais-Programmez.pdf)__) 
+
+### 2015 in details:
 
 ### Devoxx FR 
 - [Coder sans la peur du changement avec la -même pas mal- architecture hexagonale](https://www.youtube.com/watch?v=wZ7cxcU4iPE) avec Cyrille Martraire - University format (3 hours)
@@ -83,7 +87,6 @@ Some feedbacks (in french) are available [here](http://www.softfluent.fr/blog/ex
 ### Lean Kanban France
 - __Si le TDD est mort, alors pratiquons une autopsie__, with Bruno Boucard
 
-
 ### Humantalks Paris
 - [Culture Craft (lightning talk)](http://fr.slideshare.net/ThomasPierrain/culture-craft-humantalks)
 
@@ -94,6 +97,10 @@ Some feedbacks (in french) are available [here](http://www.softfluent.fr/blog/ex
 ---
 
 ## In 2014
+
+First year for me as a public speaker, I've studied a lot and trained very hard to make it work (verbal, non-verbal). Discovering by chance what I consider the best book ever written for public speakers (*Resonate*, by Nancy Duarte), I was thrilled to share this discovery with my mate [Cyrille Dupuydauby](https://twitter.com/Cyrdup) and to use it together in order to build our "[Basses latences, hauts débits : les secrets de la finance pour avoir des systèmes réactifs](https://www.youtube.com/watch?v=SHptUbGxXMU)" talk. Considering the warm feedbacks we had and the number of time we played this talk about Reactive Programming (the core concepts, not the trendy libraries), this was a really good investment ;-)
+
+Loving to live-code, I was also pleased to play [Refactoring de code legacy avec des trucs en "N"](http://www.programmez.com/actualites/mug-lyon-refactoring-de-code-legacy-avec-des-trucs-en-n-21635) here and there. Thrilled by [David Gageot](https://twitter.com/dgageot) performance and Golden Master usage to refactor legacy code in Java, I had decided to make a .NET ecosystem version of it to share it with a-priori non-java audience.     
 
 ### 2014 in details:
 
