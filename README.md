@@ -6,7 +6,7 @@ Liking to speak with others and to live-code on stage, I'm a big fan of [Nancy D
 
 This is a sum-up of all my public intervention & covered topics over the last years:
 
- - __[2016](#in-2016)__ - DDD, Network, Craftsmanship & Legacy code
+ - __[2016](#in-2016)__ - DDD, Network, Craftsmanship & Legacy
  - __[2015](#in-2015)__ - TDD, Hexagonal architecture & Craftsmanship
  - __[2014](#in-2014)__ - Reactive programming, & Refactoring techniques
 
@@ -14,7 +14,7 @@ This is a sum-up of all my public intervention & covered topics over the last ye
 
 ## In 2016 
 
-### DDD, Network, Craftsmanship & Legacy code
+### DDD, Network, Craftsmanship & Legacy
 This year, I started trying __[to reboot Domain Driven Design](http://domain-driven-design.eu/reboot)__ (DDD) with [Jérémy GRODZISKI](https://twitter.com/jgrodziski) (at DevoxxFR, then NCrafts.io). Our main objective was to make DDD wisdom & efficiency __more mainstream__. We had lots of fun to make it live but I have to admit that I'm very happy to see that this subject has met its target audience at the end of the day (being [one of the most viewed video from the last Devoxx FR](https://www.youtube.com/watch?v=o3thkx3EuiA))
 
 Another intense moment for me at DevoxxFR was the 3 hours talk of *network mechanical sympathy* we've made with [Raphaël Luta](https://twitter.com/raphaelluta) and my friend [Cyrille Dupuydauby](https://twitter.com/Cyrdup): [Pourquoi il ne suffira pas de faire du HTTP 2.0 pour faire des applications performantes](https://www.youtube.com/watch?v=GL-euKX5XEk). We didn't have too much time to prepare it (I was very busy with the elaboration of the DDD reboot talk) but *explaining how TCP works with post-its, buckets and the audience -as the network- was really fun*. While preparing this talk, I was very impressed by Raphaël's knowledge about network and performance.
