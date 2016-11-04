@@ -2,6 +2,10 @@
 
 __Thomas PIERRAIN__ (aka __[use case driven](https://twitter.com/tpierrain)__ on twitter)
 
+Liking to speak with others and to live-code on stage, I'm a big fan of [Nancy Duarte's Resonate](http://www.duarte.com/book/resonate-legacy/). As a speaker, I try to *mainstream* things I do at work (DDD, Software Craftsmanship, Reactive Programming, multithreading, low latency, CQRS, messaging, ...).
+
+This is a sum-up of all my public intervention over the last years:
+
  - __[2016](#in-2016)__
  - __[2015](#in-2015)__
  - __[2014](#in-2014)__
@@ -105,8 +109,8 @@ Some feedbacks (in french) are available [here](http://www.softfluent.fr/blog/ex
 
 ## In 2014
 
-### Reactive programming and Refactoring techniques
-First year for me as a public speaker, I've studied a lot and trained very hard to make it work (verbal, non-verbal). Discovering by chance what I consider the best book ever written for public speakers (*Resonate*, by Nancy Duarte), I was thrilled to share this discovery with my mate [Cyrille Dupuydauby](https://twitter.com/Cyrdup) and to use it together in order to build our "[Basses latences, hauts débits : les secrets de la finance pour avoir des systèmes réactifs](https://www.youtube.com/watch?v=SHptUbGxXMU)" talk. Considering the warm feedbacks we had and the number of time we played this talk about Reactive Programming over the years (the core concepts, not the trendy libraries), this was a really good investment ;-)
+### Reactive programming, & Refactoring techniques
+First year for me as a public speaker, I've studied a lot and trained very hard to make it work (verbal, non-verbal). Discovering by chance what I consider the best book ever written for public speakers (*Resonate*, by Nancy Duarte), I was thrilled to share this discovery with my mate [Cyrille Dupuydauby](https://twitter.com/Cyrdup) and to use it with him in order to build our "[Basses latences, hauts débits : les secrets de la finance pour avoir des systèmes réactifs](https://www.youtube.com/watch?v=SHptUbGxXMU)" talk. Considering the warm feedbacks we had and the number of time we played this talk about Reactive Programming over the years (the core concepts, not the trendy libraries), this was a really good investment ;-)
 
 Loving to live-code, I was also pleased to play [Refactoring de code legacy avec des trucs en "N"](http://www.programmez.com/actualites/mug-lyon-refactoring-de-code-legacy-avec-des-trucs-en-n-21635) here and there. Impressed by [David Gageot](https://twitter.com/dgageot)' usage of Golden Master to refactor legacy code in Java, I had decided to make a .NET ecosystem version of it to share it with non-java audience.
 
