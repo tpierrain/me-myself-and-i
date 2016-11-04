@@ -53,7 +53,7 @@ Last but not least, I'm very proud of the __[Legacy Club](https://twitter.com/tp
 
 ## In 2015
 
-#### TDD, Hexagonal architecture & Craftsmanship
+### TDD, Hexagonal architecture & Craftsmanship
 I started the year with a 3 hours talk at Devoxx FR about *Hexagonal Architecture* with [Cyrille Martraire](https://twitter.com/cyriux). I know the topic, I've written blog posts on it, Cyrille and I have already made a thirty minutes talk in Société Générale in order to push this architecture style, but I have to admit that doing this 3 hours *university* format was probably the most stressing experience of my speaker carreer (due to the lack of time we had to prepare it). Anyway. We add some great time and __have probably animated the biggest architecture dojo of all time (with more than 800 people in the room)__. 
 
 During Devoxx, I've also made a [Culture Craft](http://fr.slideshare.net/ThomasPierrain/culture-craft-humantalks) lightning talk that resonates a lot with the audience (with tips and tricks on how to wake-up and change your team or organisation's culture). This is the very same talk I've played afterwards during a human talk evening hosted in SocGen.
