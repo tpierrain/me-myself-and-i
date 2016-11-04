@@ -1,11 +1,16 @@
 # Talks track record
-Thomas PIERRAIN (aka [use case driven](https://twitter.com/tpierrain) on twitter)
+__Thomas PIERRAIN__ (aka __[use case driven](https://twitter.com/tpierrain)__ on twitter)
 
 ## In 2016 
 
-I started by trying to __reboot Domain Driven Design__ (DDD) with Jérémy GRODZISKI (at DevoxxFR,  then NCrafts.io). Our main objective was to make DDD wisdom more mainstream. This year, I also continued __to promote Software Craftsmanship__ during mainstream events with my mate Bruno BOUCARD (at Microsoft France, at Paris JUG, during the MS experiences'16, etc.). Lots of fun around that. After that, I've been asked to co-animate a serie of 3 sessions during the first MS exeriences event in Paris (the new version of MS tech days in the *Palais des congrès*): one which was a huge __Event Storming__ introduction (more than 60 people), and the other about __CQRS__ (but without Event Sourcing) which led me to build [a sample CQRS app](https://github.com/tpierrain/CQRS) in dotnet core few days before.
+### DDD, Craftsmanship & technical talks
+This year, I started trying __[to reboot Domain Driven Design](http://domain-driven-design.eu/reboot)__ (DDD) with [Jérémy GRODZISKI](https://twitter.com/jgrodziski) (at DevoxxFR, then NCrafts.io). Our main objective was to make DDD wisdom & efficiency more __mainstream__. We had lots of fun to make it live but I have to admit that I'm very happy to see that this subject has interested lots of people (one of the last Devoxx FR most viewed session on youtube). 
 
-Last but not least, I'm very proud of the __[Legacy Club](https://twitter.com/tpierrain/status/786848848660553728)__ session we built with Bruno. A mix of inspirational storytelling, live-code and advanced techniques of refactoring. We played it once at Agile Tour Lille (with great feedback), and I hope that we will have many other occasions to meet people with it.
+This year, I also continued __to promote Software Craftsmanship__ during mainstream events with my mate Bruno BOUCARD (at Microsoft France, at Paris JUG, during the MS experiences'16, etc.). Lots of fun around that. One of the climax for me was the Microsoft experiences'16 in Paris (the new version of MS tech days in the *Palais des congrès*). After the success of our *Learn to craft* event at MS France last year (with [Jean-Laurent](https://twitter.com/morlhon)), Bruno Boucard and I were proposed to animate 3 sessions related to Software Craftsmanship. We the decided to illustrate the wide spectrum of it: from the business requirements (via Event Storming), to app implementation (using CQRS and hexagonal architecture), including the deployment (with Docker). The CQRS session was an opportunity for me to discover dotnetcore (for Docker deployment) and to drop [a sample CQRS app on github](https://github.com/tpierrain/CQRS) few days before. Putting it to github was really an interesting move since I got very interesting feedbacks from friends and experts just before the MS event.
+
+Another intense moment for me was the 3 hours talk we've made at Devoxx FR about the *network mechanical sympathy* with Raphaël Luta and my friend Cyrille Dupuydauby. We didn't have too much time to prepare it (I was very busy with the elaboration of the DDD reboot talk) but explaining how TCP works with post-its, buckets and the audience as the network was really fun. I was also very impressed by Raphaël's network knowledge in all its form (HTTP 2 in particular).
+
+Last but not least, I'm very proud of the __[Legacy Club](https://twitter.com/tpierrain/status/786848848660553728)__ session we built with Bruno. __A mix of inspirational storytelling, live-code and advanced techniques of refactoring__. We played it once at Agile Tour Lille (with great feedback), and I hope that we will have many other occasions to meet people with it. Next for it is Lean Kanban France, with a version slightly remastered for the occasion (i.e. reducing the live-coding parts to improve the storytelling ones).
 
 ### 2016 in details:
 
@@ -60,7 +65,7 @@ Last but not least, I'm very proud of the __[Legacy Club](https://twitter.com/tp
 - Si le TDD est mort, alors pratiquons une autopsie, with Bruno Boucard
 - [Diamond kata coding dojo](http://fr.slideshare.net/brunoboucard/diamond-kata-agile-tour-lille) with Bruno Boucard
 
-### L'après-midi du Software Craftsmanship chez microsoft
+### Learn to craft: l'après-midi du Software Craftsmanship chez microsoft
 With [Bruno Boucard, Jean-Laurent de Morlhon and myself](https://brunoboucard.com/2015/09/02/laprs-midi-du-software-craftsmanship-pour-les-dveloppeurs-net-ou-pas/)
 
 - TDD and pair programming in a nutshell (live coding session) with Bruno Boucard
