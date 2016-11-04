@@ -2,7 +2,7 @@
 
 __Thomas PIERRAIN__ (aka __[use case driven](https://twitter.com/tpierrain)__ on twitter)
 
-Liking to speak with others and to live-code on stage, I'm a big fan of [Nancy Duarte's Resonate](http://www.duarte.com/book/resonate-legacy/). As a speaker, I try to *mainstream* things I do at work (DDD, Software Craftsmanship, Reactive Programming, multithreading, low latency, CQRS, messaging, ...).
+Liking to speak with others and to live-code on stage, I'm a big fan of [Nancy Duarte's Resonate](http://www.duarte.com/book/resonate-legacy/). As a speaker, I try to *mainstream* things I do at work (DDD, Software Craftsmanship, Reactive Programming, multithreading, low latency, CQRS, SOA, messaging, ...).
 
 This is a sum-up of all my public intervention over the last years:
 
@@ -59,9 +59,9 @@ Last but not least, I'm very proud of the __[Legacy Club](https://twitter.com/tp
 ## In 2015
 
 ### TDD, Hexagonal architecture & Craftsmanship
-I started the year with a 3 hours talk at Devoxx FR about *Hexagonal Architecture* with [Cyrille Martraire](https://twitter.com/cyriux). Despite the fact that I know the topic, that I've written blog posts on it, and that Cyrille and I had already made a 30 minutes talk on it at Société Générale... I have to admit that this 3 hours *university* format was probably the most stressing experience of my entire speaker carreer (due to the lack of time we had to prepare it). At the end of the day it was some kind of Miracle ;-) We had great time and __have probably animated the biggest architecture dojo ever ;-) with more than 800 people in the room)__. 
+I started the year with a 3 hours talk at Devoxx FR about *Hexagonal Architecture* with [Cyrille Martraire](https://twitter.com/cyriux). Despite the fact that i) I know the topic, ii) I've written blog posts on it, and iii) Cyrille and I have already made a 30 minutes talk on it at Société Générale... I have to admit that this 3 hours *university* format was probably the most stressing experience of my entire speaker carreer (due to the lack of time we had to prepare it). At the end of the day it was some kind of Miracle ;-) We had great time and __have probably successfuly animated the biggest architecture dojo ever ;-) with more than 800 people in the room)__. 
 
-During Devoxx, I've also made a [Culture Craft](http://fr.slideshare.net/ThomasPierrain/culture-craft-humantalks) lightning talk that resonates a lot with the audience (with tips and tricks on how to wake-up and change your team or organisation's culture). This is the very same talk I've played afterwards during a human talk evening hosted in SocGen.
+During Devoxx this year, I also made a [Culture Craft](http://fr.slideshare.net/ThomasPierrain/culture-craft-humantalks) lightning talk that has resonate a lot with the audience (in a nutshell, I provide tips and tricks on how to wake-up and change your team or organisation's culture). This is the very same talk I've played afterwards during a human talk evening hosted in SocGen.
 
 The second part of the year was dedicated to TDD with my friend Bruno Boucard. Initially motivated to talk about our developper's mental models, we end-up with a talk about TDD, trying to explain the big picture of it and giving tips and tricks for people to successfully retry the experience (note: being exclusively practicing TDD since 2005, I've probably made all possible errors with it ;-) We played it a lot to conferences or during Brown Bag Lunch sessions, and the feedback on it was very positive. 
 
