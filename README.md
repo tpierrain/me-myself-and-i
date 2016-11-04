@@ -1,16 +1,17 @@
-# Talks track record
+# Track record (for my talks)
+
 __Thomas PIERRAIN__ (aka __[use case driven](https://twitter.com/tpierrain)__ on twitter)
 
 ## In 2016 
 
-### DDD, Craftsmanship & technical talks
-This year, I started trying __[to reboot Domain Driven Design](http://domain-driven-design.eu/reboot)__ (DDD) with [Jérémy GRODZISKI](https://twitter.com/jgrodziski) (at DevoxxFR, then NCrafts.io). Our main objective was to make DDD wisdom & efficiency more __mainstream__. We had lots of fun to make it live but I have to admit that I'm very happy to see that this subject has interested lots of people (one of the last Devoxx FR most viewed session on youtube). 
+### DDD, Craftsmanship & Legacy (+ few technical talks here and there)
+This year, I started trying __[to reboot Domain Driven Design](http://domain-driven-design.eu/reboot)__ (DDD) with [Jérémy GRODZISKI](https://twitter.com/jgrodziski) (at DevoxxFR, then NCrafts.io). Our main objective was to make DDD wisdom & efficiency more __mainstream__. We had lots of fun to make it live but I have to admit that I'm very happy to see that this subject has met its target audience at the end of the day (being [one of the most viewed video from the last Devoxx FR](https://www.youtube.com/watch?v=o3thkx3EuiA))
 
-This year, I also continued __to promote Software Craftsmanship__ during mainstream events with my mate Bruno BOUCARD (at Microsoft France, at Paris JUG, during the MS experiences'16, etc.). Lots of fun around that. One of the climax for me was the Microsoft experiences'16 in Paris (the new version of MS tech days in the *Palais des congrès*). After the success of our *Learn to craft* event at MS France last year (with [Jean-Laurent](https://twitter.com/morlhon)), Bruno Boucard and I were proposed to animate 3 sessions related to Software Craftsmanship. We the decided to illustrate the wide spectrum of it: from the business requirements (via Event Storming), to app implementation (using CQRS and hexagonal architecture), including the deployment (with Docker). The CQRS session was an opportunity for me to discover dotnetcore (for Docker deployment) and to drop [a sample CQRS app on github](https://github.com/tpierrain/CQRS) few days before. Putting it to github was really an interesting move since I got very interesting feedbacks from friends and experts just before the MS event.
+This year, I also continued __to promote Software Craftsmanship__ during mainstream events with my mate [Bruno BOUCARD](https://twitter.com/brunoboucard) (at Paris JUG, during the MS experiences'16, etc.). Lots of fun around that. The climax being the __Microsoft experiences'16__ in Paris (the new version of MS tech days in the *Palais des congrès*). After the success of our previous *Learn to craft* event at MS France last year (with [Jean-Laurent](https://twitter.com/morlhon)), Bruno and I were offered the animation of 3 sessions related to *Software Craftsmanship*. We then decided to illustrate the wide spectrum of it: from the business requirements (via Event Storming), to app implementation (using CQRS and hexagonal architecture), including the deployment (with Docker). The CQRS session was an opportunity for me to discover *dotnetcore* (to allow Docker deployment) and to drop [a sample CQRS app on github](https://github.com/tpierrain/CQRS) few days before. Putting it to github was really an interesting move since I got very interesting feedbacks from friends and experts just before the MS event.
 
-Another intense moment for me was the 3 hours talk we've made at Devoxx FR about the *network mechanical sympathy* with Raphaël Luta and my friend Cyrille Dupuydauby. We didn't have too much time to prepare it (I was very busy with the elaboration of the DDD reboot talk) but explaining how TCP works with post-its, buckets and the audience as the network was really fun. I was also very impressed by Raphaël's network knowledge in all its form (HTTP 2 in particular).
+Another intense moment for me was the 3 hours talk we've made at Devoxx FR about the *network mechanical sympathy* with [Raphaël Luta](https://twitter.com/raphaelluta) and my friend [Cyrille Dupuydauby](https://twitter.com/Cyrdup). We didn't have too much time to prepare it (I was very busy with the elaboration of the DDD reboot talk) but *explaining how TCP works with post-its, buckets and the audience -as the network- was really fun*. Working with him to prepare this talk, I was also very impressed by Raphaël knowledge about the network in all its form (HTTP 2 in particular).
 
-Last but not least, I'm very proud of the __[Legacy Club](https://twitter.com/tpierrain/status/786848848660553728)__ session we built with Bruno. __A mix of inspirational storytelling, live-code and advanced techniques of refactoring__. We played it once at Agile Tour Lille (with great feedback), and I hope that we will have many other occasions to meet people with it. Next for it is Lean Kanban France, with a version slightly remastered for the occasion (i.e. reducing the live-coding parts to improve the storytelling ones).
+Last but not least, I'm very proud of the __[Legacy Club](https://twitter.com/tpierrain/status/786848848660553728)__ session we built with Bruno. __A mix of inspirational storytelling, live-code and advanced techniques of refactoring__. We played it once at Agile Tour Lille (with great feedback), and I hope that we will have many other occasions to meet people with it. We've been invited to play it at Lean Kanban France (we will slightly remaster it for the occasion; i.e. reducing the live-coding parts in order to improve the storytelling ones).
 
 ### 2016 in details:
 
@@ -48,6 +49,11 @@ Last but not least, I'm very proud of the __[Legacy Club](https://twitter.com/tp
 
 ### 2015 in details:
 
+#### TDD, Hexagonal architecture & Craftsmanship
+I started the year with a 3 hours talk at Devoxx FR about *Hexagonal Architecture* with [Cyrille Martraire](https://twitter.com/cyriux). Few monthes before, Cyrille and I had already made a thirty minutes talk to push this architecture style at Société Générale, but I have to admit that doing this 3 hours *university* format was probably the most stressing experience of my speaker carreer (due to the lack of time we had to prepare it). Anyway. We add some great time and __have probably animated the biggest architecture dojo of all time (with more than 800 people in the room)__. During Devoxx, I've also made a [Culture Craft](http://fr.slideshare.net/ThomasPierrain/culture-craft-humantalks) lightning talk that resonates a lot with the audience (with tips and tricks on how to wake-up and change your team or organisation's culture).
+
+The second part of the year was dedicated to TDD with my friend Bruno Boucard. Initially motivated to talk about our developper's mental models, we end-up with a talk about TDD, trying to explain the big picture of it and giving tips and tricks for people to successfully retry the experience (note: being exclusively practicing TDD since 2005, I've probably made all possible errors with it ;-) We played it a lot to conferences or during Brown Bag Lunch sessions, and the feedback on it was very positive. We end up by writing a serie of french article about TDD in Programmez (see. [Le TDD comme rempart contre nos biais](TDDCommeRempartContreNosBiais-Programmez.pdf)) 
+
 ### Devoxx FR 
 - [Coder sans la peur du changement avec la -même pas mal- architecture hexagonale](https://www.youtube.com/watch?v=wZ7cxcU4iPE) avec Cyrille Martraire - University format (3 hours)
 - [Culture Crafts](http://fr.slideshare.net/ThomasPierrain/culture-craft-devoxx2015) - lightning talk (15 minutes) 
@@ -79,7 +85,7 @@ Some feedbacks (in french) are available [here](http://www.softfluent.fr/blog/ex
 
 
 ### Humantalks Paris
-- [Culture Crafts (lightning talk)](http://fr.slideshare.net/ThomasPierrain/culture-craft-humantalks)
+- [Culture Craft (lightning talk)](http://fr.slideshare.net/ThomasPierrain/culture-craft-humantalks)
 
 ### Brown Bag Lunchs
 - a lot... (at Betclic, Ullink, Criteo, Air France, Université Paris XIII,...)
