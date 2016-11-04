@@ -2,16 +2,22 @@
 
 __Thomas PIERRAIN__ (aka __[use case driven](https://twitter.com/tpierrain)__ on twitter)
 
+ - __[2016](#in-2016)__
+ - __[2015](#in-2015)__
+ - __[2014](#in-2014)__
+
+---
+
 ## In 2016 
 
-### DDD, Craftsmanship & Legacy (+ few technical talks here and there)
+### DDD, Craftsmanship & Legacy code (+ few technical talks here and there)
 This year, I started trying __[to reboot Domain Driven Design](http://domain-driven-design.eu/reboot)__ (DDD) with [Jérémy GRODZISKI](https://twitter.com/jgrodziski) (at DevoxxFR, then NCrafts.io). Our main objective was to make DDD wisdom & efficiency more __mainstream__. We had lots of fun to make it live but I have to admit that I'm very happy to see that this subject has met its target audience at the end of the day (being [one of the most viewed video from the last Devoxx FR](https://www.youtube.com/watch?v=o3thkx3EuiA))
 
-This year, I also continued __to promote Software Craftsmanship__ during mainstream events with my mate [Bruno BOUCARD](https://twitter.com/brunoboucard) (at Paris JUG, during the MS experiences'16, etc.). Lots of fun around that. The climax being the __Microsoft experiences'16__ in Paris (the new version of MS tech days in the *Palais des congrès*). After the success of our previous *Learn to craft* event at MS France last year (with [Jean-Laurent](https://twitter.com/morlhon)), Bruno and I were offered the animation of 3 sessions related to *Software Craftsmanship*. We then decided to illustrate the wide spectrum of it: from the business requirements (via Event Storming), to app implementation (using CQRS and hexagonal architecture), including the deployment (with Docker). The CQRS session was an opportunity for me to discover *dotnetcore* (to allow Docker deployment) and to drop [a sample CQRS app on github](https://github.com/tpierrain/CQRS) few days before. Putting it to github was really an interesting move since I got very interesting feedbacks from friends and experts just before the MS event.
+This year, I also continued __to promote Software Craftsmanship__ during mainstream events with my mate [Bruno BOUCARD](https://twitter.com/brunoboucard) (at Paris JUG, during the MS experiences'16, etc.). Lots of fun around that. The climax being the __Microsoft experiences'16__ event in Paris (i.e. the new version of MS tech days in the *Palais des congrès*). After the success of our previous *Learn to craft* event at MS France last year (with [Jean-Laurent](https://twitter.com/morlhon)), Bruno and I were offered the animation of 3 sessions related to *Software Craftsmanship*. We then decided to illustrate the wide spectrum of it: from the business requirements (via Event Storming), to the app implementation (using CQRS and hexagonal architecture), including the deployment (with Docker). The CQRS session was an opportunity for me to discover *dotnetcore* (to allow Docker deployment) and to drop [a sample CQRS app on github](https://github.com/tpierrain/CQRS) few days before. Putting it to github was really an interesting move since I got very interesting feedbacks from friends and experts just before the MS event.
 
-Another intense moment for me was the 3 hours talk we've made at Devoxx FR about the *network mechanical sympathy* with [Raphaël Luta](https://twitter.com/raphaelluta) and my friend [Cyrille Dupuydauby](https://twitter.com/Cyrdup). We didn't have too much time to prepare it (I was very busy with the elaboration of the DDD reboot talk) but *explaining how TCP works with post-its, buckets and the audience -as the network- was really fun*. Working with him to prepare this talk, I was also very impressed by Raphaël knowledge about the network in all its form (HTTP 2 in particular).
+Another intense moment for me was the 3 hours talk we've made at Devoxx FR about the *network mechanical sympathy* with [Raphaël Luta](https://twitter.com/raphaelluta) and my friend [Cyrille Dupuydauby](https://twitter.com/Cyrdup). We didn't have too much time to prepare it (I was very busy with the elaboration of the DDD reboot talk) but *explaining how TCP works with post-its, buckets and the audience -as the network- was really fun*. Working with him to prepare this talk, I was also very impressed by Raphaël knowledge about the network in all its form.
 
-Last but not least, I'm very proud of the __[Legacy Club](https://twitter.com/tpierrain/status/786848848660553728)__ session we built with Bruno. __A mix of inspirational storytelling, live-code and advanced techniques of refactoring__. We played it once at Agile Tour Lille (with great feedback), and I hope that we will have many other occasions to meet people with it. We've been invited to play it at Lean Kanban France (we will slightly remaster it for the occasion; i.e. reducing the live-coding parts in order to improve the storytelling ones).
+Last but not least, I'm very proud of the __[Legacy Club](https://twitter.com/tpierrain/status/786848848660553728)__ session we built with Bruno. __A mix of inspirational storytelling, live-code and advanced techniques of refactoring__. We played it once at Agile Tour Lille (with great feedback), and I hope that we will have many other occasions to meet people with it again. We've been invited to play it at Lean Kanban France (we will slightly remaster it for the occasion; i.e. reducing the live-coding parts in order to improve the storytelling one).
 
 ### 2016 in details:
 
@@ -98,6 +104,7 @@ Some feedbacks (in french) are available [here](http://www.softfluent.fr/blog/ex
 
 ## In 2014
 
+### Reactive programming and Refactoring techniques
 First year for me as a public speaker, I've studied a lot and trained very hard to make it work (verbal, non-verbal). Discovering by chance what I consider the best book ever written for public speakers (*Resonate*, by Nancy Duarte), I was thrilled to share this discovery with my mate [Cyrille Dupuydauby](https://twitter.com/Cyrdup) and to use it together in order to build our "[Basses latences, hauts débits : les secrets de la finance pour avoir des systèmes réactifs](https://www.youtube.com/watch?v=SHptUbGxXMU)" talk. Considering the warm feedbacks we had and the number of time we played this talk about Reactive Programming (the core concepts, not the trendy libraries), this was a really good investment ;-)
 
 Loving to live-code, I was also pleased to play [Refactoring de code legacy avec des trucs en "N"](http://www.programmez.com/actualites/mug-lyon-refactoring-de-code-legacy-avec-des-trucs-en-n-21635) here and there. Thrilled by [David Gageot](https://twitter.com/dgageot) performance and Golden Master usage to refactor legacy code in Java, I had decided to make a .NET ecosystem version of it to share it with a-priori non-java audience.     
