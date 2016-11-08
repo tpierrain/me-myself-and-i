@@ -2,7 +2,7 @@
 
 __Thomas PIERRAIN__ (aka __[use case driven](https://twitter.com/tpierrain)__ on twitter)
 
-Liking to speak with others and to live-code on stage, I'm a big fan of [Nancy Duarte's Resonate](http://www.duarte.com/book/resonate-legacy/). As a speaker, I try to *mainstream* things I do at work (DDD, Software Craftsmanship practices, Reactive Programming and low latency stuffs, Architecture, etc.).
+Loving to speak with others and to live-code on stage, I'm a big fan of [Nancy Duarte's Resonate](http://www.duarte.com/book/resonate-legacy/). As a speaker, I try to *mainstream* things I do at work (DDD, Software Craftsmanship practices, Reactive Programming and low latency stuffs, Architecture, etc.).
 
 This is a sum-up of all my public intervention & covered topics over the last years:
 
