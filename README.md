@@ -23,12 +23,12 @@ I also continued __to promote Software Craftsmanship__ this year during mainstre
 
 Last but not least, I'm very proud of the __[Legacy Club](https://twitter.com/tpierrain/status/786848848660553728)__ session we built with Bruno. __A mix of inspirational storytelling, live-code and advanced techniques of refactoring__. We played it once at Agile Tour Lille (with [nice feedbacks](https://twitter.com/antoniolopezg/status/786856429386948609)), and I hope that we will have many other occasions to meet people with it again. We've been invited to play it at Lean Kanban France (we will slightly remaster it for the occasion; i.e. reducing the live-coding parts in order to improve the storytelling one).
 
-Just before XMas, I also made a 30 minutes talk about [MS Async-Await and its related pitfalls](www.slideshare.net/ThomasPierrain/async-awaitoh-wait) at alt.net meetup.
+Just before XMas, I also made a 30 minutes talk about [MS Async-Await and its related pitfalls](http://www.slideshare.net/ThomasPierrain/async-awaitoh-wait) at alt.net meetup.
 
 ### 2016 in details:
 
 #### AltNet.FR
- - [Async, Await, oh...wait!](www.slideshare.net/ThomasPierrain/async-awaitoh-wait)
+ - [Async, Await, oh...wait!](http://www.slideshare.net/ThomasPierrain/async-awaitoh-wait)
  
 
 #### Agile Tour Lille
