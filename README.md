@@ -21,7 +21,7 @@ I also continued to have fun with __Jérémie GRODZISKI__ with a new prez we hav
 
 Two major events are scheduled in June: 
  - [L'après-midi du Domain Driven Design](https://www.meetup.com/fr-FR/DDD-Paris/events/238799479/) : a crazy afternoon of { DDD + legacy code + live-coding } with __Bruno BOUCARD__ and __Jérémie GRODZISKI__.
- - [Alistair in the Hexagone](): an exceptional event end of June in Paris (soon adverstised) where Alistair will clarify his pattern (and other related things) and where I will live-code it. Fun!
+ - [Alistair in the Hexagone](): an exceptional event end of June in Paris (soon adverstised) where Alistair will clarify his pattern (and other related things) and where I will live-code it next to him. Fun!
 
 
 
