@@ -6,11 +6,24 @@ Loving to speak with others and to live-code on stage, I'm a big fan of [Nancy D
 
 This is a sum-up of all my public intervention & covered topics over the last years:
 
+ - __[2017](#in-2017)__ - DDD, Legacy and Hexagonal Architecture
  - __[2016](#in-2016)__ - DDD, Network, Craftsmanship & Legacy
  - __[2015](#in-2015)__ - TDD, Hexagonal architecture & Craftsmanship
  - __[2014](#in-2014)__ - Reactive programming, & Refactoring techniques
 
 ---
+
+## In 2017
+### DDD, Legacy and Hexagonal Architecture
+This year started with our __[Legacy Club](https://www.youtube.com/watch?v=zeogtrxqc38)__ tour ;-) LeanKanban FR, Devoxx FR, MixIt!, ... __Bruno (BOUCARD)__ and I played it a lot and enjoyed having so much interest and feedback from the audiences.
+
+I also continued to have fun with __Jérémie GRODZISKI__ with a new prez we have made for the DDD Paris meetup: __[The art of Software Design](https://www.youtube.com/watch?v=YijGE2nq2BY)__. It's about DDD, agility and lots of bias we have all when it comes to build and design software.
+
+Two major events are scheduled in June: 
+ - [L'après-midi du Domain Driven Design](https://www.meetup.com/fr-FR/DDD-Paris/events/238799479/) : a crazy afternoon of { DDD + legacy code + live-coding } with __Bruno BOUCARD__ and __Jérémie GRODZISKI__.
+ - [Alistair in the Hexagone](): an exceptional event end of June in Paris (soon adverstised) where Alistair will clarify his pattern (and other related things) and where I will live-code it. Fun!
+
+
 
 ## In 2016 
 
