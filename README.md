@@ -23,6 +23,26 @@ Two major events are scheduled in June:
  - [L'après-midi du Domain Driven Design](https://www.meetup.com/fr-FR/DDD-Paris/events/238799479/) : a crazy afternoon of { DDD + legacy code + live-coding } with __Bruno BOUCARD__ and __Jérémie GRODZISKI__.
  - [Alistair in the Hexagone](): an exceptional event end of June in Paris (soon adverstised) where Alistair will clarify his pattern (and other related things) and I will live-code next to him to illustrate it. Fun!
 
+### 2017 in details:
+
+#### LeanKanban FR
+    
+- [Legacy Club](https://www.infoq.com/fr/presentations/lkfr-boucard-pierrain-legacy-club) with Bruno Boucard
+    - [slides](https://www.slideshare.net/ThomasPierrain/legacy-club-english-version)
+    
+#### DDD Paris
+
+- [The art of Software Design](https://www.youtube.com/watch?v=YijGE2nq2BY) with Jérémie Grodziski
+    - [slides](https://www.slideshare.net/ThomasPierrain/the-art-of-software-design)
+    
+#### Devoxx FR
+- [Legacy Club](https://www.youtube.com/watch?v=zeogtrxqc38) with Bruno Boucard
+    - [slides](https://www.slideshare.net/ThomasPierrain/legacy-club-english-version)
+
+#### MixIT!
+- [Legacy Club](https://vimeo.com/215728093) with Bruno Boucard
+    - [slides](https://www.slideshare.net/ThomasPierrain/legacy-club-english-version)
+
 
 
 ## In 2016 
