@@ -20,8 +20,8 @@ This year started with our __[Legacy Club](https://www.youtube.com/watch?v=zeogt
 I also continued to have fun with __Jérémie GRODZISKI__ with a new prez we have made for the DDD Paris meetup: __[The art of Software Design](https://www.youtube.com/watch?v=YijGE2nq2BY)__. It's about DDD, agility and lots of bias we have all when it comes to build and design software.
 
 Two major events in June (both in live-coding): 
- - [L'après-midi du Domain Driven Design](https://www.meetup.com/fr-FR/DDD-Paris/events/238799479/) : a crazy afternoon of { DDD + legacy code + live-coding } with __Bruno BOUCARD__ and __Jérémie GRODZISKI__. __[Vidéos available here](https://www.youtube.com/playlist?list=PLGl1Jc8ErU1xmSImIQ27Biu46C4MQHTfK)__
- - [Alistair in the Hexagone](https://www.meetup.com/fr-FR/DDD-Paris/events/240715351/): an exceptional event end of June in Paris (soon adverstised) where Alistair will clarify his pattern (and other related things) and I will live-code next to him to illustrate it. Fun! __[Vidéos available here](https://www.youtube.com/playlist?list=PLGl1Jc8ErU1w27y8-7Gdcloy1tHO7NriL)__
+ - __[L'après-midi du Domain Driven Design](https://www.meetup.com/fr-FR/DDD-Paris/events/238799479/)__ : a crazy afternoon of { DDD + legacy code + live-coding } with __Bruno BOUCARD__ and __Jérémie GRODZISKI__. __[Vidéos available here](https://www.youtube.com/playlist?list=PLGl1Jc8ErU1xmSImIQ27Biu46C4MQHTfK)__
+ - __[Alistair in the Hexagone](https://www.meetup.com/fr-FR/DDD-Paris/events/240715351/)__: an exceptional event end of June in Paris (soon adverstised) where Alistair will clarify his pattern (and other related things) and I will live-code next to him to illustrate it. Fun! __[Vidéos available here](https://www.youtube.com/playlist?list=PLGl1Jc8ErU1w27y8-7Gdcloy1tHO7NriL)__
  
  Last but not least, Bruno and I have been invited to live-code at __[Explore DDD next September in Denver](http://exploreddd.com/speakers/)__. Can't wait! ;-) 
 
