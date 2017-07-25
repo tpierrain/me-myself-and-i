@@ -6,7 +6,7 @@ Loving to speak with others and to live-code on stage, I'm a big fan of [Nancy D
 
 This is a sum-up of all my public intervention & covered topics over the last years:
 
- - __[2017](#in-2017)__ - Legacy, DDD and Hexagonal Architecture
+ - __[2017](#in-2017)__ - Live coding, Legacy, DDD and Hexagonal Architecture
  - __[2016](#in-2016)__ - DDD, Network, Craftsmanship & Legacy
  - __[2015](#in-2015)__ - TDD, Hexagonal architecture & Craftsmanship
  - __[2014](#in-2014)__ - Reactive programming, & Refactoring techniques
@@ -14,16 +14,26 @@ This is a sum-up of all my public intervention & covered topics over the last ye
 ---
 
 ## In 2017
-### Legacy, DDD and Hexagonal Architecture
+### Live coding, Legacy, DDD and Hexagonal Architecture
 This year started with our __[Legacy Club](https://www.youtube.com/watch?v=zeogtrxqc38)__ tour ;-) LeanKanban FR, Devoxx FR, MixIt!, ... where __Bruno (BOUCARD)__ and I played it a lot and enjoyed having so much interest and feedback from the various audiences.
 
 I also continued to have fun with __Jérémie GRODZISKI__ with a new prez we have made for the DDD Paris meetup: __[The art of Software Design](https://www.youtube.com/watch?v=YijGE2nq2BY)__. It's about DDD, agility and lots of bias we have all when it comes to build and design software.
 
-Two major events are scheduled in June: 
- - [L'après-midi du Domain Driven Design](https://www.meetup.com/fr-FR/DDD-Paris/events/238799479/) : a crazy afternoon of { DDD + legacy code + live-coding } with __Bruno BOUCARD__ and __Jérémie GRODZISKI__.
- - [Alistair in the Hexagone](): an exceptional event end of June in Paris (soon adverstised) where Alistair will clarify his pattern (and other related things) and I will live-code next to him to illustrate it. Fun!
+Two major events in June (both in live-coding): 
+ - [L'après-midi du Domain Driven Design](https://www.meetup.com/fr-FR/DDD-Paris/events/238799479/) : a crazy afternoon of { DDD + legacy code + live-coding } with __Bruno BOUCARD__ and __Jérémie GRODZISKI__. __[Vidéos available here](https://www.youtube.com/playlist?list=PLGl1Jc8ErU1xmSImIQ27Biu46C4MQHTfK)__
+ - [Alistair in the Hexagone](https://www.meetup.com/fr-FR/DDD-Paris/events/240715351/): an exceptional event end of June in Paris (soon adverstised) where Alistair will clarify his pattern (and other related things) and I will live-code next to him to illustrate it. Fun! __[Vidéos available here](https://www.youtube.com/playlist?list=PLGl1Jc8ErU1w27y8-7Gdcloy1tHO7NriL)__
+ 
+ Last but not least, Bruno and I have been invited to live-code at __[Explore DDD next September in Denver](http://exploreddd.com/speakers/)__. Can't wait! ;-) 
 
 ### 2017 in details:
+
+#### Crazy meetup event ;-)
+    
+- [Alistair in the Hexagone](https://www.youtube.com/playlist?list=PLGl1Jc8ErU1w27y8-7Gdcloy1tHO7NriL) with Alistair COCKBURN and Romeu MOURA.
+
+#### Microsoft France
+    
+- [L'après-midi du DDD](https://www.youtube.com/playlist?list=PLGl1Jc8ErU1xmSImIQ27Biu46C4MQHTfK) with Bruno Boucard and Jérémie GRODZISKI
 
 #### LeanKanban FR
     
