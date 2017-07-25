@@ -31,9 +31,7 @@ Two major events in June (both in live-coding):
     
 - [Alistair in the Hexagone](https://www.youtube.com/playlist?list=PLGl1Jc8ErU1w27y8-7Gdcloy1tHO7NriL) with Alistair COCKBURN and Romeu MOURA.
 
-#### Microsoft France
-    
-- [L'après-midi du DDD](https://www.youtube.com/playlist?list=PLGl1Jc8ErU1xmSImIQ27Biu46C4MQHTfK) with Bruno Boucard and Jérémie GRODZISKI
+- [L'après-midi du DDD](https://www.youtube.com/playlist?list=PLGl1Jc8ErU1xmSImIQ27Biu46C4MQHTfK) with Bruno Boucard and Jérémie GRODZISKI at Microsoft France. 
 
 #### LeanKanban FR
     
