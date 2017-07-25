@@ -21,7 +21,7 @@ I also continued to have fun with __Jérémie GRODZISKI__ with a new prez we hav
 
 Two major events in June (both in live-coding): 
  - __[L'après-midi du Domain Driven Design](https://www.meetup.com/fr-FR/DDD-Paris/events/238799479/)__ : a crazy afternoon of { DDD + legacy code + live-coding } with __Bruno BOUCARD__ and __Jérémie GRODZISKI__. __[Vidéos available here](https://www.youtube.com/playlist?list=PLGl1Jc8ErU1xmSImIQ27Biu46C4MQHTfK)__
- - __[Alistair in the Hexagone](https://www.meetup.com/fr-FR/DDD-Paris/events/240715351/)__: an exceptional event end of June in Paris where Alistair clarified his pattern (and other related things) and where I live-coded next to him to illustrate it. Fun! __[Vidéos available here](https://www.youtube.com/playlist?list=PLGl1Jc8ErU1w27y8-7Gdcloy1tHO7NriL)__
+ - __[Alistair in the Hexagone](https://www.meetup.com/fr-FR/DDD-Paris/events/240715351/)__: an exceptional event end of June in Paris where Alistair clarified his pattern (and other related things) and where I live-coded next to him to illustrate it. Fun! __[Vidéos available here](https://www.youtube.com/playlist?list=PLGl1Jc8ErU1w27y8-7Gdcloy1tHO7NriL)__ ![uk](uk.jpg)
  
  Last but not least, Bruno and I have been invited to live-code at __[Explore DDD next September in Denver](http://exploreddd.com/speakers/)__. Can't wait! ;-) 
 
@@ -29,7 +29,7 @@ Two major events in June (both in live-coding):
 
 #### Crazy meetup events ;-)
     
-- [Alistair in the Hexagone](https://www.youtube.com/playlist?list=PLGl1Jc8ErU1w27y8-7Gdcloy1tHO7NriL) with Alistair COCKBURN and Romeu MOURA.
+- [Alistair in the Hexagone](https://www.youtube.com/playlist?list=PLGl1Jc8ErU1w27y8-7Gdcloy1tHO7NriL) with Alistair COCKBURN and Romeu MOURA. ![uk](uk.jpg)
 
 - [L'après-midi du DDD](https://www.youtube.com/playlist?list=PLGl1Jc8ErU1xmSImIQ27Biu46C4MQHTfK) with Bruno Boucard and Jérémie GRODZISKI at Microsoft France. 
 
