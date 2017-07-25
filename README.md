@@ -27,7 +27,7 @@ Two major events in June (both in live-coding):
 
 ### 2017 in details:
 
-#### Crazy meetup event ;-)
+#### Crazy meetup events ;-)
     
 - [Alistair in the Hexagone](https://www.youtube.com/playlist?list=PLGl1Jc8ErU1w27y8-7Gdcloy1tHO7NriL) with Alistair COCKBURN and Romeu MOURA.
 
