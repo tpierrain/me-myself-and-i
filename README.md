@@ -6,39 +6,53 @@ Loving to speak with others and to live-code on stage, I'm a big fan of [Nancy D
 
 This is a sum-up of all my public intervention & covered topics over the last years:
 
- - __[2017](#in-2017)__ - Live coding, DDD, Legacy and Hexagonal Architecture
+ - __[2018](#in-2018)__ - Event Sourcing, Example mapping and...
+ - __[2017](#in-2017)__ - Keynote & live coding sessions related to DDD, Legacy, Hexagonal Architecture and Event Sourcing
  - __[2016](#in-2016)__ - DDD, Network, Craftsmanship & Legacy
  - __[2015](#in-2015)__ - TDD, Hexagonal architecture & Craftsmanship
  - __[2014](#in-2014)__ - Reactive programming, & Refactoring techniques
 
 ---
 
+## In 2018
+### Event Sourcing, Example mapping and...
+I'm very happy to have 2 sessions at the amazing DDD Europe conference. Can't wait! 2018 will also be the year of concrete examples. TBC...
+
+
 ## In 2017
-### Live coding, DDD, Legacy and Hexagonal Architecture
-This year started with our __[Legacy Club](https://www.youtube.com/watch?v=zeogtrxqc38)__ tour ;-) LeanKanban FR, Devoxx FR, MixIt!, ... where __Bruno (BOUCARD)__ and I played it a lot and enjoyed having so much interest and feedback from the various audiences.
-
-I also continued to have fun with __Jérémie GRODZISKI__ with a new prez we have made for the DDD Paris meetup: __[The art of Software Design](https://www.youtube.com/watch?v=YijGE2nq2BY)__. It's about DDD, agility and lots of bias we have all when it comes to build and design software.
-
-Two major events in June (both in live-coding): 
- - __[L'après-midi du Domain Driven Design](https://www.meetup.com/fr-FR/DDD-Paris/events/238799479/)__ : a crazy afternoon of { DDD + legacy code + live-coding } with __Bruno BOUCARD__ and __Jérémie GRODZISKI__. __[Vidéos available here](https://www.youtube.com/playlist?list=PLGl1Jc8ErU1xmSImIQ27Biu46C4MQHTfK)__
- - __[Alistair in the Hexagone](https://www.meetup.com/fr-FR/DDD-Paris/events/240715351/)__: an exceptional event end of June in Paris where Alistair clarified his pattern (and other related things) and where I live-coded next to him to illustrate it. Fun! __[Vidéos available here](https://www.youtube.com/playlist?list=PLGl1Jc8ErU1w27y8-7Gdcloy1tHO7NriL)__ ![uk](uk.jpg)
- 
- Last but not least, Bruno and I have been invited to live-code at __[Explore DDD next September in Denver](http://exploreddd.com/speakers/)__. Can't wait! ;-) 
+### Keynote & live coding sessions related to DDD, Legacy, Hexagonal Architecture and Event Sourcing
+Incredibly intensive year for me as a speaker with many various topics (11 different talks), including a first experience of an [opening keynote at BDX.IO](https://www.youtube.com/watch?v=bcJgvF-dHfs). For once, all my CFP had been accepted (cool!) and I experienced a intensive period at the end of the year with [5 conf, 8 sessions, 7 diff talks (including 2 live codings and 2 workshops) in 7 consecutive weeks... ](https://twitter.com/tpierrain/status/921645425119113216).
 
 ### 2017 in details:
 
-#### Crazy meetup events ;-)
-    
-- [Alistair in the Hexagone](https://www.youtube.com/playlist?list=PLGl1Jc8ErU1w27y8-7Gdcloy1tHO7NriL) with Alistair COCKBURN and Romeu MOURA. ![uk](uk.jpg)
+#### Lean Kanban France (LKFR)
+ - [Event Storming (workshop)](http://2017.leankanban.fr/sessions/event-storming/) with Bruno BOUCARD
 
-- [L'après-midi du DDD](https://www.youtube.com/playlist?list=PLGl1Jc8ErU1xmSImIQ27Biu46C4MQHTfK) with Bruno Boucard and Jérémie GRODZISKI at Microsoft France. 
+#### Codeurs en seine
+ - [Hexagonal from scratch (live-coding)](https://www.youtube.com/watch?v=RLffRH9-IZY)
 
-#### LeanKanban FR
-    
-- [Legacy Club](https://www.infoq.com/fr/presentations/lkfr-boucard-pierrain-legacy-club) with Bruno Boucard
-    - [slides](https://www.slideshare.net/ThomasPierrain/legacy-club-english-version)
-    
+#### Agile Tour Lille
+ - [Du DDD dans mon legacy! (live-coding)](http://2017.agiletour-lille.org/conferences/#ddd_legacy) with Bruno BOUCARD
+
+#### BDX.IO
+ - Opening Keynote: [Sortir de sa zone de confort](https://www.youtube.com/watch?v=bcJgvF-dHfs)
+ - [Du DDD dans mon legacy! (live-coding)](https://www.youtube.com/watch?v=StFR5uC8jEY) with Bruno BOUCARD
+
+#### SoftShake (Geneva)
+ - [The art of Software Design](https://www.kora.li/admin.html#/index/p?u=jgrodziski&s=the_art_of_software_design&c=softshake&e=2017) with my friend Jeremie GRODZISKI
+
+#### Explore DDD (Denver)
+ - [How To Distill The Core Domain From Your Legacy App (Live Coding)](https://www.youtube.com/watch?v=mZzPwt9vhHM) with Bruno BOUCARD ![uk](uk.jpg)
+
 #### DDD Paris
+- [As time goes by (a bi-temporal Event sourcing story)](https://www.meetup.com/fr-FR/DDD-Paris/events/244303073/)
+
+- [Strategical patterns of DDD (workshop)](https://www.meetup.com/fr-FR/DDD-Paris/events/244069780/)
+
+Two major events in June (both in live-coding): 
+ - __[L'après-midi du Domain Driven Design](https://www.meetup.com/fr-FR/DDD-Paris/events/238799479/)__ : a crazy afternoon of { DDD + legacy code + live-coding } with __Bruno BOUCARD__ and __Jérémie GRODZISKI__ at Microsoft France. __[Vidéos available here](https://www.youtube.com/playlist?list=PLGl1Jc8ErU1xmSImIQ27Biu46C4MQHTfK)__
+ - __[Alistair in the Hexagone](https://www.meetup.com/fr-FR/DDD-Paris/events/240715351/)__: an exceptional event end of June in Paris where Alistair clarified his pattern (and other related things) and where I live-coded next to him to illustrate it. Fun! __[Vidéos available here](https://www.youtube.com/playlist?list=PLGl1Jc8ErU1w27y8-7Gdcloy1tHO7NriL)__ ![uk](uk.jpg)
+ 
 
 - [The art of Software Design](https://www.youtube.com/watch?v=YijGE2nq2BY) with Jérémie Grodziski
     - [slides](https://www.slideshare.net/ThomasPierrain/the-art-of-software-design)
@@ -50,7 +64,6 @@ Two major events in June (both in live-coding):
 #### MixIT!
 - [Legacy Club](https://vimeo.com/215728093) with Bruno Boucard
     - [slides](https://www.slideshare.net/ThomasPierrain/legacy-club-english-version)
-
 
 
 ## In 2016 
@@ -68,6 +81,11 @@ Just before XMas, I also made a 30 minutes talk about [MS Async-Await and its re
 
 ### 2016 in details:
 
+#### LeanKanban FR
+    
+- [Legacy Club](https://www.infoq.com/fr/presentations/lkfr-boucard-pierrain-legacy-club) with Bruno Boucard
+    - [slides](https://www.slideshare.net/ThomasPierrain/legacy-club-english-version)
+    
 #### AltNet.FR
  - [Async, Await, oh...wait!](http://www.slideshare.net/ThomasPierrain/async-awaitoh-wait)
  
