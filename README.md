@@ -1,4 +1,4 @@
-# Track record (for my talks)
+# Track record (of my talks)
 
 __Thomas PIERRAIN__ (aka __[use case driven](https://twitter.com/tpierrain)__ on twitter)
 
