@@ -42,8 +42,7 @@ Incredibly intensive year for me as a speaker with many various topics (11 diffe
  - [The art of Software Design](https://www.kora.li/admin.html#/index/p?u=jgrodziski&s=the_art_of_software_design&c=softshake&e=2017) with my friend Jeremie GRODZISKI
  
 #### French Ministry of Digital - Ministère Français du numérique
-October 6th 2017
- - [L'agilité à grande échelle : conservez l'esprit, pas la lettre](https://fr.slideshare.net/ThomasPierrain/lagilit-a-grande-chelle-conserver-lesprit-pas-la-lettre)
+ - [L'agilité à grande échelle : conservez l'esprit, pas la lettre](https://fr.slideshare.net/ThomasPierrain/lagilit-a-grande-chelle-conserver-lesprit-pas-la-lettre)  (October 6th 2017)
 
 #### Explore DDD (Denver)
  - [How To Distill The Core Domain From Your Legacy App (Live Coding)](https://www.youtube.com/watch?v=mZzPwt9vhHM) with Bruno BOUCARD ![uk](uk.jpg)
