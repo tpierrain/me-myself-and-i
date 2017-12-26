@@ -21,7 +21,7 @@ I'm very happy to have 2 sessions at the amazing DDD Europe conference. Can't wa
 
 ## In 2017
 ### Keynote & live coding sessions related to DDD, Legacy, Hexagonal Architecture and Event Sourcing
-Incredibly intensive year for me as a speaker with many various topics (11 different talks), including a first experience of an [opening keynote at BDX.IO](https://www.youtube.com/watch?v=bcJgvF-dHfs). For once, all my CFP had been accepted (cool!) and I experienced a intensive period at the end of the year with [5 conf, 8 sessions, 7 diff talks (including 2 live codings and 2 workshops) in 7 consecutive weeks... ](https://twitter.com/tpierrain/status/921645425119113216).
+Incredibly intensive year for me as a speaker with many various topics (11 different talks), including a first experience of an [opening keynote at BDX.IO](https://www.youtube.com/watch?v=bcJgvF-dHfs) and a keynote at the French Ministry of Digital. For once, all my CFP had been accepted (cool!) and I experienced a intensive period at the end of the year with [5 conf, 8 sessions, 7 diff talks (including 2 live codings and 2 workshops) in 7 consecutive weeks... ](https://twitter.com/tpierrain/status/921645425119113216).
 
 ### 2017 in details:
 
@@ -40,6 +40,10 @@ Incredibly intensive year for me as a speaker with many various topics (11 diffe
 
 #### SoftShake (Geneva)
  - [The art of Software Design](https://www.kora.li/admin.html#/index/p?u=jgrodziski&s=the_art_of_software_design&c=softshake&e=2017) with my friend Jeremie GRODZISKI
+ 
+#### French Ministry of Digital - Ministère Français du numérique
+October 6th 2017
+ - [L'agilité à grande échelle : conservez l'esprit, pas la lettre](https://fr.slideshare.net/ThomasPierrain/lagilit-a-grande-chelle-conserver-lesprit-pas-la-lettre)
 
 #### Explore DDD (Denver)
  - [How To Distill The Core Domain From Your Legacy App (Live Coding)](https://www.youtube.com/watch?v=mZzPwt9vhHM) with Bruno BOUCARD ![uk](uk.jpg)
