@@ -21,7 +21,10 @@ I'm very happy to have 2 sessions at the amazing DDD Europe conference. Can't wa
 
 ## In 2017
 ### Keynote & live coding sessions related to DDD, Legacy, Hexagonal Architecture and Event Sourcing
-Incredibly intensive year for me as a speaker with many various topics (11 different talks), including a first experience of an [opening keynote at BDX.IO](https://www.youtube.com/watch?v=bcJgvF-dHfs) and a keynote at the French Ministry of Digital. For once, all my CFP had been accepted (cool!) and I experienced a intensive period at the end of the year with [5 conf, 8 sessions, 7 diff talks (including 2 live codings and 2 workshops) in 7 consecutive weeks... ](https://twitter.com/tpierrain/status/921645425119113216).
+Incredibly intensive year for me as a speaker with many various topics (11 different talks), including a first experience of an [opening keynote at BDX.IO](https://www.youtube.com/watch?v=bcJgvF-dHfs) and a keynote at the French Ministry of Digital. 
+
+#### Seven talks in seven weeks ;-)
+For once, all my CFP had been accepted (cool!) and I experienced a intensive period at the end of the year with [5 conf, 8 sessions, 7 diff talks (including 2 live codings and 2 workshops) in 7 consecutive weeks... ](https://twitter.com/tpierrain/status/921645425119113216).
 
 ### 2017 in details:
 
