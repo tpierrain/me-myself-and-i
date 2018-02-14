@@ -16,7 +16,18 @@ This is a sum-up of all my public intervention & covered topics over the last ye
 
 ## In 2018
 ### Event Sourcing, Example mapping and...
-I'm very happy to have 2 sessions at the amazing DDD Europe conference. Can't wait! 2018 will also be the year of concrete examples. TBC...
+The year started quite well with 2 sessions at the amazing [DDD Europe](https://dddeurope.com/2018/) conference where I talked about Bi-temporal Event Sourcing and live-coded with Bruno (with an amazing and interactive audience). A couple of weeks after, Bruno and I animated a workshop about Exemple Mapping during the first edition of the [School of PO](https://laconf.schoolofpo.com/).
+
+### 2018 in details:
+
+#### School of PO
+ - [Example mapping par la pratique](https://laconf.schoolofpo.com/speakers/thomas-pierrain/)
+
+#### DDD Europe (Amsterdam)
+ - [As Time Goes By… (a Bi-temporal Event Sourcing story)](https://dddeurope.com/2018/speakers/thomas-pierrain/)
+ 
+ - [Distill the Core Domain from Your Legacy App](https://dddeurope.com/2018/speakers/thomas-pierrain/)
+ 
 
 
 ## In 2017
