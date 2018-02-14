@@ -24,9 +24,9 @@ The year started quite well with 2 sessions at the amazing [DDD Europe](https://
  - [Example mapping par la pratique](https://laconf.schoolofpo.com/speakers/thomas-pierrain/)
 
 #### DDD Europe (Amsterdam)
- - [As Time Goes By… (a Bi-temporal Event Sourcing story)](https://dddeurope.com/2018/speakers/thomas-pierrain/) [uk](uk.jpg)
+ - [As Time Goes By… (a Bi-temporal Event Sourcing story)](https://dddeurope.com/2018/speakers/thomas-pierrain/) ![uk](uk.jpg)
  
- - [Distill the Core Domain from Your Legacy App](https://dddeurope.com/2018/speakers/thomas-pierrain/) [uk](uk.jpg)
+ - [Distill the Core Domain from Your Legacy App](https://dddeurope.com/2018/speakers/thomas-pierrain/) ![uk](uk.jpg)
  
 
 
