@@ -6,7 +6,7 @@ Loving to speak with others and to live-code on stage, I'm a big fan of [Nancy D
 
 This is a sum-up of all my public intervention & covered topics over the last years:
 
- - __[2018](#in-2018)__ - Event Sourcing, Example mapping and...
+ - __[2018](#in-2018)__ - Event Sourcing, Example mapping, Pair programming and...
  - __[2017](#in-2017)__ - Keynote & live coding sessions related to DDD, Legacy, Hexagonal Architecture and Event Sourcing
  - __[2016](#in-2016)__ - DDD, Network, Craftsmanship & Legacy
  - __[2015](#in-2015)__ - TDD, Hexagonal architecture & Craftsmanship
@@ -15,10 +15,21 @@ This is a sum-up of all my public intervention & covered topics over the last ye
 ---
 
 ## In 2018
-### Event Sourcing, Example mapping and...
-The year started quite well with 2 sessions at the amazing [DDD Europe](https://dddeurope.com/2018/) conference where I talked about Bi-temporal Event Sourcing and live-coded with Bruno (with an amazing and interactive audience). A couple of weeks after, Bruno and I animated a workshop about Example Mapping during the first edition of the [School of PO](https://laconf.schoolofpo.com/).
+### Event Sourcing, Example mapping, Pair programming and...
+The year started quite well with 2 sessions at the amazing [DDD Europe](https://dddeurope.com/2018/) conference where I talked about Bi-temporal Event Sourcing and live-coded with Bruno (with an amazing and interactive audience). A couple of weeks after, Bruno and I animated a workshop about Example Mapping during the first edition of the [School of PO](https://laconf.schoolofpo.com/). 
+
+The very same Example Mapping workshop that we animated during [NewCrafts Paris](https://ncrafts.io/speaker/tpierrain), where I also had the chance to talk about Bi-temporal Event Sourcing (but with a brand new talk about technical challenges this time).
+
+Last but not least, Bruno and I will do a live-coding talk illustrating the power (and challenges) of Pair Programming at [Explore DDD (Denver)](http://exploreddd.com/speakers/thomas-pierrain.html) next September.
 
 ### 2018 in details:
+
+#### Domain from the trenches (DDD Paris main event)
+ - vidéos published soon
+
+#### Newcrafts Paris
+ - [As time goes by… (technical challenges of bi-temporal Event Sourcing)](https://vimeo.com/275529977) ![uk](uk.jpg)
+ - Discover Example Mapping: the real essence of BDD (with Bruno BOUCARD)
 
 #### School of PO
  - [Example mapping par la pratique](https://laconf.schoolofpo.com/speakers/thomas-pierrain/)
