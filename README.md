@@ -37,7 +37,7 @@ Last but not least, Bruno and I will do a live-coding talk illustrating the powe
 #### DDD Europe (Amsterdam)
  - [As Time Goes By… (a Bi-temporal Event Sourcing story)](https://dddeurope.com/2018/speakers/thomas-pierrain/) ![uk](uk.jpg)
  
- - [Distill the Core Domain from Your Legacy App](https://dddeurope.com/2018/speakers/thomas-pierrain/) ![uk](uk.jpg)
+ - [Distill the Core Domain from Your Legacy App](https://www.youtube.com/watch?v=F3DV9YDeA6Q) ![uk](uk.jpg)
  
 
 
