@@ -27,7 +27,7 @@ Last but not least, Bruno and I will do a live-coding talk illustrating the powe
 #### Domain from the trenches (DDD Paris main event)
  - [My very first experience of DDD](https://www.youtube.com/watch?v=GDxXOX2Vgt0&list=PLGl1Jc8ErU1wcFdxzRr33ZoP_94B_1CGe&index=4) a short talk where Jéremie GRODZISKI and I talk about our very first experience of DDD at work. Talk in french but with subtitles in ![uk](uk.jpg)
 
-- [All videos from this main event](https://www.youtube.com/playlist?list=PLGl1Jc8ErU1wcFdxzRr33ZoP_94B_1CGe)
+- [All videos from this main event](https://www.youtube.com/playlist?list=PLGl1Jc8ErU1wcFdxzRr33ZoP_94B_1CGe). Most of the talks are in ![uk](uk.jpg) but those in french have english subtitles.
 
 #### Newcrafts Paris
  - [As time goes by… (technical challenges of bi-temporal Event Sourcing)](https://vimeo.com/275529977) ![uk](uk.jpg)
