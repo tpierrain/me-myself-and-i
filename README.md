@@ -20,16 +20,25 @@ The year started quite well with 2 sessions at the amazing [DDD Europe](https://
 
 The very same Example Mapping workshop that we animated during [NewCrafts Paris](https://ncrafts.io/speaker/tpierrain), where I also had the chance to talk about Bi-temporal Event Sourcing (but with a brand new talk about technical challenges this time).
 
-Last but not least, Bruno and I will do a live-coding talk illustrating the power (and challenges) of Pair Programming at [Explore DDD (Denver)](http://exploreddd.com/speakers/thomas-pierrain.html) next September.
+Last but not least, Bruno and I will do a live-coding talk illustrating the power (and challenges) of Pair Programming at [Explore DDD (Denver)](http://exploreddd.com/speakers/thomas-pierrain.html) next September and then in french at [BDX.IO](https://www.bdx.io/#/home).
 
 ### 2018 in details:
 
 #### Domain from the trenches (DDD Paris main event)
- - vidéos published soon
+ - [My very first experience of DDD](https://www.youtube.com/watch?v=GDxXOX2Vgt0&list=PLGl1Jc8ErU1wcFdxzRr33ZoP_94B_1CGe&index=4) a short talk where Jéremie GRODZISKI and I talk about our very first experience of DDD at work. Talk in french but with subtitles in ![uk](uk.jpg)
+
+- [All videos from this main event](https://www.youtube.com/playlist?list=PLGl1Jc8ErU1wcFdxzRr33ZoP_94B_1CGe)
 
 #### Newcrafts Paris
  - [As time goes by… (technical challenges of bi-temporal Event Sourcing)](https://vimeo.com/275529977) ![uk](uk.jpg)
- - Discover Example Mapping: the real essence of BDD (with Bruno BOUCARD)
+
+- Discover Example Mapping: the real essence of BDD (with Bruno BOUCARD)
+
+#### DDDeXchange (London)
+ - [How to distill the core domain from your legacy app (live-coding)](https://skillsmatter.com/skillscasts/11582-how-to-distill-the-core-domain-from-your-legacy-app-live-coding)  ![uk](uk.jpg)
+
+#### Devoxx FR
+ - [Du DDD dans mon legacy (Université tout en live-coding)](https://www.youtube.com/watch?v=dzKKqS5ewLg) avec Jérémie GRODZISKI et Bruno BOUCARD.
 
 #### School of PO
  - [Example mapping par la pratique](https://laconf.schoolofpo.com/speakers/thomas-pierrain/)
