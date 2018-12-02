@@ -6,7 +6,7 @@ Loving to speak with others and to live-code on stage, I'm a big fan of [Nancy D
 
 This is a sum-up of all my public intervention & covered topics over the last years:
 
- - __[2018](#in-2018)__ - Event Sourcing, Example mapping, Pair programming and...
+ - __[2018](#in-2018)__ - Another keynote, Event Sourcing, Example mapping, Pair programming and...
  - __[2017](#in-2017)__ - Keynote & live coding sessions related to DDD, Legacy, Hexagonal Architecture and Event Sourcing
  - __[2016](#in-2016)__ - DDD, Network, Craftsmanship & Legacy
  - __[2015](#in-2015)__ - TDD, Hexagonal architecture & Craftsmanship
@@ -15,14 +15,30 @@ This is a sum-up of all my public intervention & covered topics over the last ye
 ---
 
 ## In 2018
-### Event Sourcing, Example mapping, Pair programming and...
+### Another keynote, Event Sourcing, Example mapping, theatratical Pair programming...
 The year started quite well with 2 sessions at the amazing [DDD Europe](https://dddeurope.com/2018/) conference where I talked about Bi-temporal Event Sourcing and live-coded with Bruno (with an amazing and interactive audience). A couple of weeks after, Bruno and I animated a workshop about Example Mapping during the first edition of the [School of PO](https://laconf.schoolofpo.com/). 
 
 The very same Example Mapping workshop that we animated during [NewCrafts Paris](https://ncrafts.io/speaker/tpierrain), where I also had the chance to talk about Bi-temporal Event Sourcing (but with a brand new talk about technical challenges this time).
 
-Last but not least, Bruno and I will do a live-coding talk illustrating the power (and challenges) of Pair Programming at [Explore DDD (Denver)](http://exploreddd.com/speakers/thomas-pierrain.html) next September and then in french at [BDX.IO](https://www.bdx.io/#/home).
+Then, Bruno and I did a live-coding talk illustrating the power (and challenges) of Pair Programming at [Explore DDD (Denver)](http://exploreddd.com/speakers/thomas-pierrain.html) in September and then in french at [BDX.IO](https://www.bdx.io/#/home) and  __[Becomx](http://becomx.com/)__.
+
+Last but not least, I've made a keynote about ethics related to how software is eating the world where I talked a lot about privacy and how the "free app" model was impacted our lives much deeper than we think.
 
 ### 2018 in details:
+
+#### Becomx (__[Becomx](http://becomx.com/)__)
+ - __Pair ou impairs ? (live-coding sanglant)__ like we did qt BDX.IO
+
+#### BDX.IO
+ - [Pair ou impairs ? (live-coding sanglant)](https://www.youtube.com/watch?v=RiVSIbkss6A&t=0s&list=PLUJzERpatfsWJ6qlXnlCPC5g0nFQN7Z5N&index=11), like the one we did at Explore DDD with Bruno BOUCARD, but in french this time.
+ 
+ - __Example mapping workshop__: a nice edition of our regular Example mapping workshop.
+
+#### Agile tour Bordeaux
+ - Closing Keynote: [Et si on parlait un peu Ethique?](https://www.facebook.com/582109264/posts/10156742368324265/) in french. 
+
+#### Explore DDD (Denver)
+ - [Communication Is Everything; Especially While Pairing (Survival Guide)](https://www.youtube.com/watch?v=e1yLmYN0hXk) the very first version of our theatratical talk about Pair Programming with Bruno BOUCARD ![uk](uk.jpg)
 
 #### Domain from the trenches (DDD Paris main event)
  - [My very first experience of DDD](https://www.youtube.com/watch?v=GDxXOX2Vgt0&list=PLGl1Jc8ErU1wcFdxzRr33ZoP_94B_1CGe&index=4) a short talk where Jéremie GRODZISKI and I talk about our very first experience of DDD at work. Talk in french but with subtitles in ![uk](uk.jpg)
