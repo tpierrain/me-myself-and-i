@@ -37,6 +37,10 @@ Last but not least, I've made __[a keynote in french about ethics](https://www.f
 #### Agile tour Bordeaux
  - Closing Keynote: [Et si on parlait un peu Ethique?](https://www.facebook.com/582109264/posts/10156742368324265/) in french. Note: it really starts after 11m 26sec
 
+#### KanDDDinsky (Berlin)
+ - __Distill the Core Domain from Your Legacy App__: probably the last time where Bruno BOUCARD and myself were doing our 2 hours of live-coding on how to refactor Legacy code using DDD tactical patterns ![uk](uk.jpg)
+ 
+
 #### Explore DDD (Denver)
  - [Communication Is Everything; Especially While Pairing (Survival Guide)](https://www.youtube.com/watch?v=e1yLmYN0hXk) the very first version of our theatratical talk about Pair Programming with Bruno BOUCARD ![uk](uk.jpg)
 
