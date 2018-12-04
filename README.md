@@ -22,7 +22,7 @@ The very same Example Mapping workshop that we animated during [NewCrafts Paris]
 
 Then, Bruno and I did a live-coding talk illustrating the power (and challenges) of Pair Programming at [Explore DDD (Denver)](http://exploreddd.com/speakers/thomas-pierrain.html) in September and then in french at [BDX.IO](https://www.bdx.io/#/home) and  __[Becomx](http://becomx.com/)__.
 
-Last but not least, I've made a keynote about ethics related to how software is eating the world where I talked a lot about privacy and how the "free app" model was impacted our lives much deeper than we think.
+Last but not least, I've made __[a keynote in french about ethics](https://www.facebook.com/582109264/posts/10156742368324265/)__ related to how software is eating the world where I talked a lot about privacy and how the "free app" model was impacted our lives much deeper than we think.
 
 ### 2018 in details:
 
