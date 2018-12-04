@@ -35,7 +35,7 @@ Last but not least, I've made __[a keynote in french about ethics](https://www.f
  - __Example mapping workshop__: a nice edition of our regular Example mapping workshop.
 
 #### Agile tour Bordeaux
- - Closing Keynote: [Et si on parlait un peu Ethique?](https://www.facebook.com/582109264/posts/10156742368324265/) in french. 
+ - Closing Keynote: [Et si on parlait un peu Ethique?](https://www.facebook.com/582109264/posts/10156742368324265/) in french. Note: it really starts after 11m 26sec
 
 #### Explore DDD (Denver)
  - [Communication Is Everything; Especially While Pairing (Survival Guide)](https://www.youtube.com/watch?v=e1yLmYN0hXk) the very first version of our theatratical talk about Pair Programming with Bruno BOUCARD ![uk](uk.jpg)
