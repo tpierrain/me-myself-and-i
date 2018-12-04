@@ -39,6 +39,7 @@ Last but not least, I've made __[a keynote in french about ethics](https://www.f
 
 #### KanDDDinsky (Berlin)
  - __Distill the Core Domain from Your Legacy App__: probably the last time where Bruno BOUCARD and myself were doing our 2 hours of live-coding on how to refactor Legacy code using DDD tactical patterns ![uk](uk.jpg)
+ - Bruno and I have also helped our friend Kenny Baas-Schwegler to animate his 2 hours workshop mixing Event Storming and Example Mapping.
  
 
 #### Explore DDD (Denver)
