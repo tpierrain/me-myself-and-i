@@ -6,13 +6,37 @@ Loving to speak with others and to live-code on stage, I'm a big fan of [Nancy D
 
 This is a sum-up of all my public intervention & covered topics over the last years:
 
+ - __[2019](#in-2019)__ - Theater play about strategical DDD, another keynote, 2 days workshops, podcasts...
  - __[2018](#in-2018)__ - Another keynote, Event Sourcing, Example mapping, Pair programming and...
  - __[2017](#in-2017)__ - Keynote & live coding sessions related to DDD, Legacy, Hexagonal Architecture and Event Sourcing
  - __[2016](#in-2016)__ - DDD, Network, Craftsmanship & Legacy
  - __[2015](#in-2015)__ - TDD, Hexagonal architecture & Craftsmanship
  - __[2014](#in-2014)__ - Reactive programming, & Refactoring techniques
-
+ 
 ---
+
+## In 2019
+### Theater play about strategical DDD, another keynote, 2 days workshops, podcasts...
+With a 3 acts Theater play (written by Bruno and I), a 2 days workshop about how to go from Problem space to solution space and another keynote, this year was very intense regarding writing and event preparation for me. I also discovered (and liked) the awesome Sunny Tech conference (in Montpellier) and was proud to be the keynoter for the first edition of AlpesCraft (in Grenoble).
+
+
+### 2019 in details:
+
+#### µCon (London)
+ - [Experience Event Storming with Example Mapping](https://skillsmatter.com/conferences/11982-con-london-2019-the-conference-on-microservices-ddd-and-software-architecture#program) Same 2 hours hands-on session that we ran at Cukenfest with Bruno BOUCARD. ![uk](uk.jpg)
+
+#### NewCraft (Paris)
+ - [EventStorming and Example Mapping From Problem Space to Solution Space](https://ncrafts.io/speaker/tpierrain) A 1 day version of the workshop we ran at DDD Europe, with Kenny BAAS-SCHWEGLER and Bruno BOUCARD. ![uk](uk.jpg)
+
+#### Cukenfest (London)
+ - [Experience an Energized Event Storming with Example Mapping](https://cucumber.ghost.io/blog/cukenfest-asks-bruno-boucard-and-thomas-pierran/) A 2 hours hands-on session with Bruno BOUCARD. ![uk](uk.jpg)
+
+#### DDD Europe (Amsterdam)
+ - [EventStorming and Example Mapping towards solution space](https://training.dddeurope.com/event-storming-example-mapping/) with Kenny BAAS-SCHWEGLER and Bruno BOUCARD. ![uk](uk.jpg)
+ 
+#### Café Craft podcast
+ - __CQRS et EventSourcing__ https://www.cafe-craft.fr/32 and https://www.cafe-craft.fr/32-bonus
+ 
 
 ## In 2018
 ### Another keynote, Event Sourcing, Example mapping, theatratical Pair programming...
