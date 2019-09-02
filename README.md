@@ -22,6 +22,36 @@ With a 3 acts Theater play (written by Bruno and I), a 2 days workshop about how
 
 ### 2019 in details:
 
+
+#### FlowCon France (Paris)
+ - TBAnnounced : https://flowcon19.sched.com/speaker/thomas_pierrain.76q69ze
+
+#### BDX.IO (Bordeaux)
+ - __Equiper sa voie__ My former AlpesCrafts keynote about my main take aways from 20 years of career but mostly about Process Communication techniques (psychology funded by NASA).
+
+#### Kandddinsky (Berlin)
+ - [Design, Design, Design](https://kandddinsky.de/) - A brand new hands-on session with my mate Bruno BOUCARD. ![uk](uk.jpg)
+
+#### Explore DDD (Denver)
+ - [Eventstorming and Example Mapping From Problem Space to Solution Space](http://exploreddd.com/workshops/eventstorming-and-example-mapping-from-problem-space-to-solution-space.html) - The same 2 days workshops ran at DDDD Europe. ![uk](uk.jpg)
+
+#### Expand conference (Amsterdam)
+ - [Experience Event Storming with Example Mapping](https://pages.xebia.com/expand-conference-speaker-thomas-pierrain) - Same 2 hours hands-on session that has been ran at Cukenfest. ![uk](uk.jpg)
+
+
+
+#### Sunny Tech (Montpellier)
+ - [Et si on parlait Ethique ?](https://openfeedback.io/3xWvprYgxf1Tzmsj6J51/2019-06-27/27) - former keynote from Agile Tour Bordeaux.
+
+#### L'après-midi du DDD (épisode 2) (Paris)
+ - [Trailer with english subtitles](https://www.youtube.com/watch?v=IIFs9HnFx2U) ![uk](uk.jpg)
+ - [Full version of the 3 acts play](https://www.youtube.com/watch?v=PIo6jUl4VO8&t=13s)
+ 
+
+#### AlpesCrafts (Grenoble)
+ - [Equiper sa voie (keynote)](https://www.youtube.com/watch?v=c1H0VrAXWMU) My third keynote was about my main take aways from 20 years of career but mostly about Process Communication techniques (psychology funded by NASA).
+
+
 #### µCon (London)
  - [Experience Event Storming with Example Mapping](https://skillsmatter.com/conferences/11982-con-london-2019-the-conference-on-microservices-ddd-and-software-architecture#program) Same 2 hours hands-on session that we ran at Cukenfest with Bruno BOUCARD. ![uk](uk.jpg)
 
@@ -37,6 +67,8 @@ With a 3 acts Theater play (written by Bruno and I), a 2 days workshop about how
 #### Café Craft podcast
  - __CQRS et EventSourcing__ https://www.cafe-craft.fr/32 and https://www.cafe-craft.fr/32-bonus
  
+
+
 
 ## In 2018
 ### Another keynote, Event Sourcing, Example mapping, theatratical Pair programming...
