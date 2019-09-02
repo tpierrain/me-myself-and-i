@@ -6,7 +6,7 @@ Loving to speak with others and to live-code on stage, I'm a big fan of [Nancy D
 
 This is a sum-up of all my public intervention & covered topics over the last years:
 
- - __[2019](#in-2019)__ - Theater play about strategical DDD, another keynote, 2 days workshops, podcasts...
+ - __[2019](#in-2019)__ - (Theater play about) strategic DDD, Process Comm, Event Storming & Example Mapping, CQRS/ES
  - __[2018](#in-2018)__ - Another keynote, Event Sourcing, Example mapping, Pair programming and...
  - __[2017](#in-2017)__ - Keynote & live coding sessions related to DDD, Legacy, Hexagonal Architecture and Event Sourcing
  - __[2016](#in-2016)__ - DDD, Network, Craftsmanship & Legacy
@@ -16,7 +16,7 @@ This is a sum-up of all my public intervention & covered topics over the last ye
 ---
 
 ## In 2019
-### Theater play about strategical DDD, another keynote, 2 days workshops, podcasts...
+### (Theater play about) strategic DDD, Process Comm, Event Storming & Example Mapping, CQRS/ES
 With a 3 acts Theater play (written by Bruno and I), a 2 days workshop about how to go from Problem space to solution space and another keynote, this year was very intense regarding writing and event preparation for me. I also discovered (and liked) the awesome Sunny Tech conference (in Montpellier) and was proud to be the keynoter for the first edition of AlpesCraft (in Grenoble).
 
 
