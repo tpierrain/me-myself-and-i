@@ -29,16 +29,12 @@ With a 3 acts Theater play (written by Bruno and I), a 2 days workshop about how
 #### BDX.IO (Bordeaux)
  - __Equiper sa voie__ My former AlpesCrafts keynote about my main take aways from 20 years of career but mostly about Process Communication techniques (psychology funded by NASA).
 
-#### Kandddinsky (Berlin)
- - [Design, Design, Design](https://kandddinsky.de/) - A brand new hands-on session with my mate Bruno BOUCARD. ![uk](uk.jpg)
 
 #### Explore DDD (Denver)
  - [Eventstorming and Example Mapping From Problem Space to Solution Space](http://exploreddd.com/workshops/eventstorming-and-example-mapping-from-problem-space-to-solution-space.html) - The same 2 days workshops ran at DDDD Europe. ![uk](uk.jpg)
 
 #### Expand conference (Amsterdam)
  - [Experience Event Storming with Example Mapping](https://pages.xebia.com/expand-conference-speaker-thomas-pierrain) - Same 2 hours hands-on session that has been ran at Cukenfest. ![uk](uk.jpg)
-
-
 
 #### Sunny Tech (Montpellier)
  - [Et si on parlait Ethique ?](https://openfeedback.io/3xWvprYgxf1Tzmsj6J51/2019-06-27/27) - former keynote from Agile Tour Bordeaux.
