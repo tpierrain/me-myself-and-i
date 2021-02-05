@@ -15,6 +15,8 @@ Loving to speak with others and to live-code on stage, I'm a big fan of [Nancy D
 
 This is a sum-up of all my public intervention & covered topics over the last years:
 
+ - __[2021](#in-2021)__ - Beyond Hexagonal Architecture (Functional Core) & Outside-in Diamond TDD
+ - __[2020](#in-2020)__ - COVID-19 year. Nonetheless, I've made some stuffs about Hexagonal Architecture, DDD & a keynote about eXtreme Programming (eXtreme)
  - __[2019](#in-2019)__ - (Theater play about) strategic DDD, Process Comm, Event Storming & Example Mapping, CQRS/ES
  - __[2018](#in-2018)__ - Another keynote, Event Sourcing, Example mapping, Pair programming and...
  - __[2017](#in-2017)__ - Keynote & live coding sessions related to DDD, Legacy, Hexagonal Architecture and Event Sourcing
@@ -23,6 +25,15 @@ This is a sum-up of all my public intervention & covered topics over the last ye
  - __[2014](#in-2014)__ - Reactive programming, & Refactoring techniques
  
 ---
+
+## In 2021
+ - [Live coding - Beyond the hexagonal architecture: Functional Core & ...](https://github.com/42skillz/livecoding-beyond-hexagonal-architecture/blob/main/README.md) The english version of our Functional Core live coding (with Bruno) at Virtual DDD ![uk](uk.jpg)
+
+## In 2020
+ - [eXtreme](https://vimeo.com/474324303): a keynote about eXtreme Programming and its real specificity
+ - [Une nuit dans l'hexagone](https://www.youtube.com/watch?v=07x54QhhFFY) Fish-bowl panels at #DDDFR with french devs about their usages of Hexagonal Architecture
+ - [DDD clinic](https://www.youtube.com/watch?v=Cb7VDgcnOhk) A nice Q&A night with DDDFR and other European DDD specialists ![uk](uk.jpg)
+ - [Functional Core, l’alternative FP à l’architecture hexagonale](https://www.youtube.com/watch?v=T_9mqhrY3QA) at "La rentrée des speakers" online conference. It was the first time Bruno and I were live-coding about Functional Core.
 
 ## In 2019
 ### (Theater play about) strategic DDD, Process Comm, Event Storming & Example Mapping, CQRS/ES
