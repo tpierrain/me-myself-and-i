@@ -2,6 +2,15 @@
 
 __Thomas PIERRAIN__ (aka __[use case driven](https://twitter.com/tpierrain)__ on twitter)
 
+## Bio
+Organizer of the #DDDFR user group and co-founder of 42skillz, Thomas is an eXtreme Programmer & technical architect obsessed by use cases (Vs. solution-driven approaches) since more than 20 years now. He likes team work and uses both DDD & TDD to boost his efficiency at work.
+
+---
+
+## Blog
+http://tpierrain.blogspot.com/
+
+## About me
 Loving to speak with others and to live-code on stage, I'm a big fan of [Nancy Duarte's Resonate](http://www.duarte.com/book/resonate-legacy/). As a speaker, I try to *mainstream* things I do at work (DDD, Software Craftsmanship practices, Reactive Programming and low latency stuffs, Architecture, etc.).
 
 This is a sum-up of all my public intervention & covered topics over the last years:
