@@ -17,7 +17,7 @@ Loving to speak with others and to live-code on stage, I'm a big fan of [Nancy D
 
 This is a sum-up of all my public intervention & covered topics over the last years:
 
- - __[2021](#in-2021)__ - Beyond Hexagonal Architecture (Functional Core) & Outside-in Diamond TDD
+ - __[2021](#in-2021)__ - Beyond Hexagonal Architecture (Functional Core) & Outside-in Diamond ![diamond](diamond.png) TDD
  - __[2020](#in-2020)__ - COVID-19 year. Nonetheless, I've made some stuffs about Hexagonal Architecture, DDD & a keynote about eXtreme Programming (eXtreme)
  - __[2019](#in-2019)__ - (Theater play about) strategic DDD, Process Comm, Event Storming & Example Mapping, CQRS/ES
  - __[2018](#in-2018)__ - Another keynote, Event Sourcing, Example mapping, Pair programming and...
