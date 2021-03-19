@@ -5,7 +5,13 @@ __Thomas PIERRAIN__ (aka __[use case driven](https://twitter.com/tpierrain)__ on
 ![profile](./TwitterProfile.jpg)
 
 ## Bio
-Organizer of the #DDDFR user group and co-founder of 42skillz, Thomas is an eXtreme Programmer & technical architect obsessed by use cases (Vs. solution-driven approaches) since more than 20 years now. He likes team work and uses both DDD & TDD to boost his efficiency at work.
+Organizer of the #DDDFR user group and co-founder of 42skillz, Thomas is an eXtreme Programmer & technical architect obsessed by use cases (Vs. solution-driven approaches) since more than 23 years now. 
+
+
+Long-time promoter of hexagonal architecture (through articles, talks, trainings or live coding sessions - including one with Alistair Cockburn) Thomas is now advocating for a specific style of TDD called Outside-in Diamond 🔷 TDD . This fits perfectly with Alistair's pattern, and also allows for more secure, antifragile, and Domain-Driven tests to be written.
+
+
+In a nutshell, Thomas likes team work and uses both DDD & TDD to boost his efficiency at work.
 
 ---
 
