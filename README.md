@@ -15,6 +15,14 @@ In a nutshell, Thomas likes team work and uses both DDD & TDD to boost his effic
 
 ---
 
+(version Française)
+
+Organisateur du Meetup #DDDFR et co-fondateur de la société 42 skillz,  Thomas est un eXtreme Programmer et architecte technique obsédé depuis plus de 23 ans par les use cases (par opposition aux approches orientées « solution »). Promoteur de longue date du TDD et de l’Architecture Hexagonale (qu’il a même eu l’occasion de live-coder une fois aux côté d’Alistair Cockburn), Lors de ces 15 dernières années, Thomas a développé un style un peu particulier de TDD nommé : __Outside-In Diamond 🔷 TDD__. Celui-ci permet d’écrire des tests encore plus fiables, antifragiles, mais surtout orientés métier.
+
+En résumé, Thomas aime utiliser le DDD, le TDD et Process Comm pour booster son efficacité et celui de ses collègues au travail.
+
+---
+
 ## Blog
 http://tpierrain.blogspot.com/
 
