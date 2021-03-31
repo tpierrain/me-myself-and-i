@@ -68,7 +68,7 @@ With a 3 acts Theater play (written by Bruno and I), a 2 days workshop about how
 
 
 #### Explore DDD (Denver)
- - [Eventstorming and Example Mapping From Problem Space to Solution Space](http://exploreddd.com/workshops/eventstorming-and-example-mapping-from-problem-space-to-solution-space.html) - The same 2 days workshops ran at DDDD Europe. ![uk](uk.jpg)
+ - [Eventstorming and Example Mapping From Problem Space to Solution Space](http://exploreddd.com/2019/workshops/eventstorming-and-example-mapping-from-problem-space-to-solution-space.html) - The same 2 days workshops ran at DDDD Europe. ![uk](uk.jpg)
 
 #### Expand conference (Amsterdam)
  - [Experience Event Storming with Example Mapping](https://pages.xebia.com/expand-conference-speaker-thomas-pierrain) - Same 2 hours hands-on session that has been ran at Cukenfest. ![uk](uk.jpg)
