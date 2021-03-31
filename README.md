@@ -77,7 +77,7 @@ With a 3 acts Theater play (written by Bruno and I), a 2 days workshop about how
  - [Et si on parlait Ethique ?](https://openfeedback.io/3xWvprYgxf1Tzmsj6J51/2019-06-27/27) - former keynote from Agile Tour Bordeaux.
 
 #### L'après-midi du DDD (épisode 2) (Paris)
- - [Trailer with english subtitles](https://www.youtube.com/watch?v=IIFs9HnFx2U) ![uk](uk.jpg)
+ - [Theater play trailer with english subtitles](https://www.youtube.com/watch?v=IIFs9HnFx2U) ![uk](uk.jpg)
  - [Full version of the 3 acts play](https://www.youtube.com/watch?v=PIo6jUl4VO8&t=13s)
  
 
