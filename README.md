@@ -16,7 +16,7 @@ In a nutshell, Thomas likes team work and uses both DDD & TDD to boost his effic
 
 More than 64 talks made since 2014 worldwide (lots of live-coding sessions, talks, keynotes, etc) 
 
-Most well-known conferences I've made as speaker: DDD Europe (Amsterdam), µCon (London), Cukenfest (London), DDD eXchange (London), XP conf (Porto), Explore DDD (Denver), KanDDDinsky (Berlin), Devoxx (Paris),  NewCrafts (Paris), FlowCon (France), Lean Kanban France (Paris), SoftShake (Geneva), MS Experiences '16 (Paris), BDX.io (Bordeaux), Sunny Tech (Montpellier), Agile Tour (Lille, Bordeaux), Alpes Craft (Grenoble)...
+Most well-known conferences I've made as speaker: DDD Europe (Amsterdam), µCon (London), Cukenfest (London), DDD eXchange (London), XP conf (Porto), Explore DDD (Denver), KanDDDinsky (Berlin), Devoxx (Paris),  NewCrafts (Paris), FlowCon (France), Lean Kanban France (Paris), SoftShake (Geneva), MS Experiences '16 (Paris), MixIT! (Lyon), BDX.io (Bordeaux), Sunny Tech (Montpellier), Agile Tour (Lille, Bordeaux), Alpes Craft (Grenoble)...
 
 ---
 
@@ -29,7 +29,7 @@ On pourrait résumer tout ça en disant que Thomas aime utiliser le DDD, le TDD 
 
 Un peu plus de 64 talks réalisés depuis 2014 à travers le monde (pleins de sessions de live-coding, quelques keynotes et beaucoup de talks) 
 
-Les conférences les plus connues auxquelles j'ai pu intervenir en tant que speaker: DDD Europe (Amsterdam), µCon (London), Cukenfest (London), DDD eXchange (London), XP conf (Porto), Explore DDD (Denver), KanDDDinsky (Berlin), Devoxx (Paris),  NewCrafts (Paris), FlowCon (France), Lean Kanban France (Paris), SoftShake (Geneva), MS Experiences '16 (Paris), BDX.io (Bordeaux), Sunny Tech (Montpellier), Agile Tour (Lille, Bordeaux), Alpes Craft (Grenoble)...
+Les conférences les plus connues auxquelles j'ai pu intervenir en tant que speaker: DDD Europe (Amsterdam), µCon (London), Cukenfest (London), DDD eXchange (London), XP conf (Porto), Explore DDD (Denver), KanDDDinsky (Berlin), Devoxx (Paris),  NewCrafts (Paris), FlowCon (France), Lean Kanban France (Paris), SoftShake (Geneva), MS Experiences '16 (Paris), MixIT! (Lyon), BDX.io (Bordeaux), Sunny Tech (Montpellier), Agile Tour (Lille, Bordeaux), Alpes Craft (Grenoble)...
 
 ---
 
