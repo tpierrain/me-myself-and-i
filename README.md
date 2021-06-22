@@ -53,6 +53,8 @@ This is a sum-up of all my public intervention & covered topics over the last ye
 ---
 
 ## In 2021
+ - [Podcast sur le TDD, eXtreme Programming, le cargo cult](https://www.youtube.com/watch?v=STJu07gHsHY)
+ - [eXtreme](https://www.youtube.com/watch?v=AJLL4PZa54g): my eXtreme Programming talk made at TADx
  - [Write Antifragile & Domain-Driven tests with ”Outside-in diamond” ◆ TDD](https://www.youtube.com/watch?v=djdMp9i04Sc&feature=youtu.be): a talk made for DDD Africa user group on how I ended up doing TDD for many years ![uk](uk.jpg)
  - [Live coding - Beyond the hexagonal architecture: Functional Core & ...](https://github.com/42skillz/livecoding-beyond-hexagonal-architecture/blob/main/README.md) The english version of our Functional Core live coding (with Bruno) at Virtual DDD ![uk](uk.jpg)
 
