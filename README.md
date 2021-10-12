@@ -41,7 +41,7 @@ Loving to speak with others and to live-code on stage, I'm a big fan of [Nancy D
 
 This is a sum-up of all my public intervention & covered topics over the last years:
 
- - __[2021](#in-2021)__ - Beyond Hexagonal Architecture (Functional Core) & Outside-in Diamond ![diamond](diamond.png) TDD
+ - __[2021](#in-2021)__ - Product management, Beyond Hexagonal Architecture (Functional Core) & Outside-in Diamond ![diamond](diamond.png) TDD
  - __[2020](#in-2020)__ - COVID-19 year. Nonetheless, I've made some stuffs about Hexagonal Architecture, DDD & a keynote about eXtreme Programming (eXtreme)
  - __[2019](#in-2019)__ - (Theater play about) strategic DDD, Process Comm, Event Storming & Example Mapping, CQRS/ES
  - __[2018](#in-2018)__ - Another keynote, Event Sourcing, Example mapping, Pair programming and...
@@ -53,6 +53,7 @@ This is a sum-up of all my public intervention & covered topics over the last ye
 ---
 
 ## In 2021
+ - [De l'autre côté du miroir](https://www.schoolofpo.com/doc/programme.pdf): Keynote for the opening of the **School of Product** (Sept 21th in Paris). A mix between Product management, Domain Driven Design and how to be efficient as dev team. **Video soon**.
  - [Podcast sur le TDD, eXtreme Programming, le cargo cult](https://soundcloud.com/user-787483636/rencontre-avec-lun-des-pionniers-du-tdd-en-france-thomas-pierrain)
  - [eXtreme](https://www.youtube.com/watch?v=AJLL4PZa54g): my eXtreme Programming talk made at TADx
  - [Write Antifragile & Domain-Driven tests with ”Outside-in diamond” ◆ TDD](https://www.youtube.com/watch?v=djdMp9i04Sc&feature=youtu.be): a talk made for DDD Africa user group on how I ended up doing TDD for many years ![uk](uk.jpg)
