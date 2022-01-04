@@ -112,9 +112,12 @@ With a 3 acts Theater play (written by Bruno and I), a 2 days workshop about how
  
 #### Café Craft podcast
  - __CQRS et EventSourcing__ https://www.cafe-craft.fr/32 and https://www.cafe-craft.fr/32-bonus
+
+#### Artisan développeur podcast
+ - __L'émancipation des devs__ https://artisandeveloppeur.fr/lemancipation-des-developpeurs-avec-thomas-pierrain/
  
-
-
+ - __C'est quoi le DDD__ https://compagnon.artisandeveloppeur.fr/veille/podcast-c-est-quoi-le-ddd-avec-thomas-pierrain
+ 
 
 ## In 2018
 ### Another keynote, Event Sourcing, Example mapping, theatratical Pair programming...
