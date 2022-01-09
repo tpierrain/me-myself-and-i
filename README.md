@@ -5,7 +5,7 @@ __Thomas PIERRAIN__ (aka __[use case driven](https://twitter.com/tpierrain)__ on
 ![profile](./TwitterProfile.jpg)
 
 ## Bio
-Organizer of the #DDDFR user group and co-founder of 42skillz, Thomas is an eXtreme Programmer & technical architect obsessed by use cases (Vs. solution-driven approaches) since more than 23 years now. 
+Organizer of the #DDDFR user group and co-founder of 42skillz, Thomas is an eXtreme Programmer & technical architect obsessed by use cases (Vs. solution-driven approaches) since more than 24 years now. 
 
 
 Long-time promoter of hexagonal architecture (through articles, talks, trainings or live coding sessions - including one with Alistair Cockburn) Thomas is now advocating for a specific style of TDD called Outside-in Diamond 🔷 TDD . This fits perfectly with Alistair's pattern, and also allows for more secure, antifragile, and Domain-Driven tests to be written.
@@ -22,7 +22,7 @@ Most well-known conferences I've made as speaker: DDD Europe (Amsterdam), µCon 
 
 (version Française)
 
-Organisateur du Meetup #DDDFR et co-fondateur de la société 42 skillz,  Thomas est un eXtreme Programmer et architecte technique obsédé depuis plus de 23 ans par les use cases (par opposition aux approches orientées « solution »). Promoteur de longue date du TDD et de l’Architecture Hexagonale (qu’il a même eu l’occasion de live-coder une fois aux côté d’Alistair Cockburn), Lors de ces 15 dernières années, Thomas a développé un style un peu particulier de TDD nommé : __Outside-In Diamond 🔷 TDD__. Celui-ci permet d’écrire des tests encore plus fiables, antifragiles, mais surtout orientés métier.
+Organisateur du Meetup #DDDFR et co-fondateur de la société 42 skillz,  Thomas est un eXtreme Programmer et architecte technique obsédé depuis plus de 24 ans par les use cases (par opposition aux approches orientées « solution »). Promoteur de longue date du TDD et de l’Architecture Hexagonale (qu’il a même eu l’occasion de live-coder une fois aux côté d’Alistair Cockburn), Lors de ces 15 dernières années, Thomas a développé un style un peu particulier de TDD nommé : __Outside-In Diamond 🔷 TDD__. Celui-ci permet d’écrire des tests encore plus fiables, antifragiles, mais surtout orientés métier.
 
 On pourrait résumer tout ça en disant que Thomas aime utiliser le DDD, le TDD et Process Comm pour booster son efficacité et celui de ses collègues au travail.
 
@@ -53,7 +53,7 @@ This is a sum-up of all my public intervention & covered topics over the last ye
 ---
 
 ## In 2021
- - [De l'autre côté du miroir](https://www.schoolofpo.com/doc/programme.pdf): Keynote for the opening of the **School of Product** (Sept 21th in Paris). A mix between Product management, Domain Driven Design and how to be efficient as dev team. **Video soon**.
+ - [De l'autre côté du miroir](https://youtu.be/yOBmGW-FGE8): Keynote for the opening of the **School of Product** (Sept 21th in Paris). A mix between Product management, Domain Driven Design and how to be efficient as dev team.
  - [Podcast sur le TDD, eXtreme Programming, le cargo cult](https://soundcloud.com/user-787483636/rencontre-avec-lun-des-pionniers-du-tdd-en-france-thomas-pierrain) ![podcast](podcast.png)
  - [eXtreme](https://www.youtube.com/watch?v=AJLL4PZa54g): my eXtreme Programming talk made at TADx
  - [Write Antifragile & Domain-Driven tests with ”Outside-in diamond” ◆ TDD](https://www.youtube.com/watch?v=djdMp9i04Sc&feature=youtu.be): a talk made for DDD Africa user group on how I ended up doing TDD for many years ![uk](uk.jpg)
