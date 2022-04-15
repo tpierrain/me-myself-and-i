@@ -77,7 +77,7 @@ With a 3 acts Theater play (written by Bruno and I), a 2 days workshop about how
  - TBAnnounced : https://flowcon19.sched.com/speaker/thomas_pierrain.76q69ze
 
 #### BDX.IO (Bordeaux)
- - __Equiper sa voie__ My former AlpesCrafts keynote about my main take aways from 20 years of career but mostly about Process Communication techniques (psychology funded by NASA).
+ - [__Equiper sa voie__](https://www.youtube.com/watch?v=d0_ib2hs-04&list=PLUJzERpatfsXmxaQ1kBspqUrBAP25RDxM&index=14) My former AlpesCrafts keynote about my main take aways from 20 years of career but mostly about Process Communication techniques (psychology funded by NASA).
 
 
 #### Explore DDD (Denver)
