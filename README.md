@@ -53,9 +53,9 @@ This is a sum-up of all my public intervention & covered topics over the last ye
 ## In 2022
 
 #### Artisan developpeur
-- [Debrief Battle Artisan developeur](https://youtu.be/yOBmGW-FGE8): Discussion around the question: *Is Code quality compliant with startup?* (time to talk about Kent Beck 3X model, startups and scaling, code quality, Domain Driven Design, refactoring, staff engineering & roles)
+- [Debrief Battle Artisan developeur](https://youtu.be/bbzQ5ZLc91Y): Discussion around the question: *Is Code quality compliant with startup?* (time to talk about Kent Beck 3X model, startups and scaling, code quality, Domain Driven Design, refactoring, staff engineering & roles)
 
-- [Podcast Artisan developeur](https://compagnon.artisandeveloppeur.fr/veille/podcast-hypercroissance-et-economie-avec-thomas-pierrain) podcast about hypergrowth and autonomy.
+- [Podcast Artisan developeur](https://compagnon.artisandeveloppeur.fr/veille/podcast-hypercroissance-et-economie-avec-thomas-pierrain) podcast about hypergrowth and autonomy.  ![podcast](podcast.png)
 
 #### Devoxx FR
  - [La scale-up, l'autonomie et le sous-marin nucléaire](https://youtu.be/FPZw6gy04T4): talk with [Pauline JAMIN](https://twitter.com/paulinejamin) about the challenges of fostering Autonomy in a scale-up context.
