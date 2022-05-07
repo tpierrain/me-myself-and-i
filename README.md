@@ -38,7 +38,8 @@ Loving to speak with others and to live-code on stage, I'm a big fan of [Nancy D
 
 This is a sum-up of all my public intervention & covered topics over the last years:
 
- - __[2021](#in-2021)__ - Product management, Beyond Hexagonal Architecture (Functional Core) & Outside-in Diamond ![diamond](diamond.png) TDD
+- __[2022](#in-2022)__ - Autonomy to Scale-up, Code Quality
+- __[2021](#in-2021)__ - Product management, Beyond Hexagonal Architecture (Functional Core) & Outside-in Diamond ![diamond](diamond.png) TDD
  - __[2020](#in-2020)__ - COVID-19 year. Nonetheless, I've made some stuffs about Hexagonal Architecture, DDD & a keynote about eXtreme Programming (eXtreme)
  - __[2019](#in-2019)__ - (Theater play about) strategic DDD, Process Comm, Event Storming & Example Mapping, CQRS/ES
  - __[2018](#in-2018)__ - Another keynote, Event Sourcing, Example mapping, Pair programming and...
@@ -47,6 +48,19 @@ This is a sum-up of all my public intervention & covered topics over the last ye
  - __[2015](#in-2015)__ - TDD, Hexagonal architecture & Craftsmanship
  - __[2014](#in-2014)__ - Reactive programming, & Refactoring techniques
  
+---
+
+## In 2022
+
+#### Artisan developpeur
+- [Debrief Battle Artisan developeur](https://youtu.be/yOBmGW-FGE8): Discussion around the question: *Is Code quality compliant with startup?* (time to talk about Kent Beck 3X model, startups and scaling, code quality, Domain Driven Design, refactoring, staff engineering & roles)
+
+- [Podcast Artisan developeur](https://compagnon.artisandeveloppeur.fr/veille/podcast-hypercroissance-et-economie-avec-thomas-pierrain) podcast about hypergrowth and autonomy.
+
+#### Devoxx FR
+ - [La scale-up, l'autonomie et le sous-marin nucléaire](https://youtu.be/FPZw6gy04T4): talk with [Pauline JAMIN](https://twitter.com/paulinejamin) about the challenges of fostering Autonomy in a scale-up context.
+
+
 ---
 
 ## In 2021
