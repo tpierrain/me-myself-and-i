@@ -19,7 +19,7 @@ Most well-known conferences I've made as speaker: DDD Europe (Amsterdam), µCon 
 (version Française)
 
 
-VP of Engineering dans une scale-up Européenne en plein essor (Agicap), Thomas est un ancien entrepreneur, consultant, architecte et eXtreme Programmer obsédé par les usages (par opposition à l'approche orientée solution qu'on a un peu trop tendance à choisir dans notre métier). Également co-organisateur des meetups DDD Paris et BDD Paris, Thomas aime utiliser le DDD et le TDD pour booster son efficacité et celle des autres au travail.
+VP of Engineering dans une scale-up Européenne en plein essor (Agicap), Thomas est un ancien entrepreneur, consultant, architecte et eXtreme Programmer obsédé par les usages (par opposition à l'approche orientée solution qu'on a un peu trop tendance à choisir dans notre métier). Également co-organisateur des meetups DDD FR et anciennement BDD Paris, Thomas aime utiliser le DDD et le TDD pour booster son efficacité et celle des autres au travail.
 
 Promoteur de longue date du TDD et de l’Architecture Hexagonale (qu’il a même eu l’occasion de live-coder une fois aux côté d’Alistair Cockburn), Lors de ces 15 dernières années, Thomas a développé un style un peu particulier de TDD nommé : __Outside-In Diamond 🔷 TDD__. Celui-ci permet d’écrire des tests encore plus fiables, antifragiles, mais surtout orientés métier.
 
