@@ -84,7 +84,7 @@ With a 3 acts Theater play (written by Bruno and I), a 2 days workshop about how
 ### 2019 in details:
 
 #### Parcours dev (Paris)
- - [__Parcours dev__](https://anchor.fm/parcoursdev/episodes/Parcours-de-Thomas-Pierrain--architecte-et-passionn-par-les-usages-mtiers-e9aeq6) Podcast parcours dev (avec Saad) ou on parle du wu-tang, de la magie et de logiciel aussi ![podcast](podcast.png)
+- [__Parcours dev__](https://anchor.fm/parcoursdev/episodes/Parcours-de-Thomas-Pierrain--architecte-et-passionn-par-les-usages-mtiers-e9aeq6)   Podcast parcours dev (avec Saad) ou on parle du wu-tang, de la magie et de logiciel aussi ![podcast](podcast.png)
 
 #### FlowCon France (Paris)
  - TBAnnounced : https://flowcon19.sched.com/speaker/thomas_pierrain.76q69ze
