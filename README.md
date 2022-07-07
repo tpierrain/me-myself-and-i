@@ -124,7 +124,7 @@ With a 3 acts Theater play (written by Bruno and I), a 2 days workshop about how
  - [EventStorming and Example Mapping towards solution space](https://training.dddeurope.com/event-storming-example-mapping/) with Kenny BAAS-SCHWEGLER and Bruno BOUCARD. ![uk](uk.jpg)
  
 #### Café Craft podcast
- - __CQRS et EventSourcing__ https://www.cafe-craft.fr/32 and https://www.cafe-craft.fr/32-bonus  ![podcast](podcast.png)
+ - __CQRS et EventSourcing__ https://podcasts.apple.com/fr/podcast/larchitecture-cqrs-et-eventsourcing-avec-thomas-pierrain/id1294016248?i=1000433850284  and https://www.cafe-craft.fr/32-bonus  ![podcast](podcast.png)
 
 #### Artisan développeur podcast
  - __L'émancipation des devs__ https://artisandeveloppeur.fr/lemancipation-des-developpeurs-avec-thomas-pierrain/ ![podcast](podcast.png)
