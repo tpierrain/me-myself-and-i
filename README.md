@@ -52,6 +52,9 @@ This is a sum-up of all my public intervention & covered topics over the last ye
 
 ## In 2022
 
+#### Breizhcamp (Rennes)
+ - [La scale-up, l'autonomie et le sous-marin nucléaire](https://www.youtube.com/watch?v=WurK0nYWcSM): talk with [Pauline JAMIN](https://twitter.com/paulinejamin) about the challenges of fostering Autonomy in a scale-up context.
+
 #### Artisan developpeur
 - [Debrief Battle Artisan developeur](https://youtu.be/bbzQ5ZLc91Y): Discussion around the question: *Is Code quality compliant with startup?* (time to talk about Kent Beck 3X model, startups and scaling, code quality, Domain Driven Design, refactoring, staff engineering & roles)
 
