@@ -52,6 +52,11 @@ This is a sum-up of all my public intervention & covered topics over the last ye
 
 ## In 2022
 
+
+#### DDDFR (Lyon)
+ - [Show me your domain: Cash Flow monitoring & forecasting](https://www.youtube.com/watch?v=FklGeG-2f_I&list=PLGl1Jc8ErU1wIRD0Of4nXLUecxjrjeJOk&index=1): talk with [Caroline DESPLANQUE](https://twitter.com/@carolinedpl) where we presented the domain of Cash flow Forecasting in front of our Context Map.  ![uk](uk.jpg)
+
+
 #### Breizhcamp (Rennes)
  - [La scale-up, l'autonomie et le sous-marin nucléaire](https://www.youtube.com/watch?v=WurK0nYWcSM): talk with [Pauline JAMIN](https://twitter.com/paulinejamin) about the challenges of fostering Autonomy in a scale-up context.
 
