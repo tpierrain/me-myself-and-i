@@ -38,7 +38,8 @@ Loving to speak with others and to live-code on stage, I'm a big fan of [Nancy D
 
 This is a sum-up of all my public intervention & covered topics over the last years:
 
-- __[2022](#in-2022)__ - Hypergrowth, Scale-up, Autonomy & Code Quality
+- __[2023](#in-2023)__ - Process Comm, Autonomy and High-speed DDD
+- __[2022](#in-2022)__ - Hypergrowth, Scale-up, Autonomy & (outside-in diamond) TDD
 - __[2021](#in-2021)__ - Product management, Beyond Hexagonal Architecture (Functional Core) & Outside-in Diamond ![diamond](diamond.png) TDD
  - __[2020](#in-2020)__ - COVID-19 year. Nonetheless, I've made some stuffs about Hexagonal Architecture, DDD & a keynote about eXtreme Programming (eXtreme)
  - __[2019](#in-2019)__ - (Theater play about) strategic DDD, Process Comm, Event Storming & Example Mapping, CQRS/ES
@@ -50,12 +51,25 @@ This is a sum-up of all my public intervention & covered topics over the last ye
  
 ---
 
-## In 2022
+## In 2023
 
+#### DDD Europe (Amsterdam)
+
+ - [High-Speed DDD](): talk retenu à Voxxed Luxembourg
+
+ - [The scale-up, The Autonomy and the nuclear submarine​](): reviewed version of our talk with [Pauline JAMIN](https://twitter.com/paulinejamin) about the challenges of fostering Autonomy in a scale-up context (lots of new discoveries). ![uk](uk.jpg)
+
+ - [Agile Toulouse Unconference](): 5 sessions proposées lors de cet événement : Introduction à Process Communication (en 2 sessions de 1h), Outside-in Diamond ◆ TDD pour écrire des tests Antifragiles & orientés métier (en mode discussion avec le public), animation du kata "the office" carpaccio, et une session tableau blanc au soleil pour tester le matériau de la future conf "High-Speed DDD".
+
+---
+
+## In 2022
 
 #### DDDFR (Lyon)
  - [Show me your domain: Cash Flow monitoring & forecasting](https://www.youtube.com/watch?v=FklGeG-2f_I&list=PLGl1Jc8ErU1wIRD0Of4nXLUecxjrjeJOk&index=1): talk with [Caroline DESPLANQUE](https://twitter.com/@carolinedpl) where we presented the domain of Cash flow Forecasting in front of our Context Map.  ![uk](uk.jpg)
 
+#### Alpes Craft (Grenoble)
+ - [Outside-in Diamond ◆ TDD pour écrire des tests Antifragiles & orientés métier](): version longue (grosse session de Q & A avec le public nombreux) de ce talk mais dont la capture video a été perdue malheureusement. 
 
 #### Breizhcamp (Rennes)
  - [La scale-up, l'autonomie et le sous-marin nucléaire](https://www.youtube.com/watch?v=WurK0nYWcSM): talk with [Pauline JAMIN](https://twitter.com/paulinejamin) about the challenges of fostering Autonomy in a scale-up context.
@@ -77,6 +91,8 @@ This is a sum-up of all my public intervention & covered topics over the last ye
  - [eXtreme](https://www.youtube.com/watch?v=AJLL4PZa54g): my eXtreme Programming talk made at TADx
  - [Write Antifragile & Domain-Driven tests with ”Outside-in diamond” ◆ TDD](https://www.youtube.com/watch?v=djdMp9i04Sc&feature=youtu.be): a talk made for DDD Africa user group on how I ended up doing TDD for many years ![uk](uk.jpg)
  - [Live coding - Beyond the hexagonal architecture: Functional Core & ...](https://github.com/42skillz/livecoding-beyond-hexagonal-architecture/blob/main/README.md) The english version of our Functional Core live coding (with Bruno) at Virtual DDD ![uk](uk.jpg)
+
+---
 
 ## In 2020
  - [eXtreme](https://youtu.be/xrqEsp4JUVY): a keynote about eXtreme Programming and its real specificity
