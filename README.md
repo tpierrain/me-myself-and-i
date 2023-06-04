@@ -10,7 +10,7 @@ VP of Engineering in a booming European scale-up (Agicap), Thomas is a former en
 Long-time promoter of hexagonal architecture (through articles, talks, trainings or live coding sessions - including one with Alistair Cockburn) Thomas is now advocating for a specific style of TDD called Outside-in Diamond 🔷 TDD . This fits perfectly with Alistair's pattern, and also allows for more secure, antifragile, and Domain-Driven tests to be written.
 
 
-__More than 64 talks made worldwide since 2014__ (lots of live-coding sessions, talks, keynotes, etc) 
+__More than 65 talks made worldwide since 2014__ (lots of live-coding sessions, talks, keynotes, etc) 
 
 Most well-known conferences I've made as speaker: DDD Europe (Amsterdam), µCon (London), Cukenfest (London), DDD eXchange (London), XP conf (Porto), Explore DDD (Denver), KanDDDinsky (Berlin), Devoxx (Paris),  NewCrafts (Paris), FlowCon (France), Lean Kanban France (Paris), SoftShake (Geneva), MS Experiences '16 (Paris), MixIT! (Lyon), BDX.io (Bordeaux), Sunny Tech (Montpellier), Agile Tour (Lille, Bordeaux), Alpes Craft (Grenoble)...
 
@@ -55,11 +55,11 @@ This is a sum-up of all my public intervention & covered topics over the last ye
 
 #### DDD Europe (Amsterdam)
 
- - [High-Speed DDD](): talk retenu à Voxxed Luxembourg
+ - [High-Speed DDD](https://luxembourg.voxxeddays.com/en/): talk retenu à Voxxed Luxembourg
 
- - [The scale-up, The Autonomy and the nuclear submarine​](): reviewed version of our talk with [Pauline JAMIN](https://twitter.com/paulinejamin) about the challenges of fostering Autonomy in a scale-up context (lots of new discoveries). ![uk](uk.jpg)
+ - [The scale-up, The Autonomy and the nuclear submarine​](https://2023.dddeurope.com/speakers/thomas-pierrain/): reviewed version of our talk with [Pauline JAMIN](https://twitter.com/paulinejamin) about the challenges of fostering Autonomy in a scale-up context (lots of new discoveries). ![uk](uk.jpg)
 
- - [Agile Toulouse Unconference](): 5 sessions proposées lors de cet événement : Introduction à Process Communication (en 2 sessions de 1h), Outside-in Diamond ◆ TDD pour écrire des tests Antifragiles & orientés métier (en mode discussion avec le public), animation du kata "the office" carpaccio, et une session tableau blanc au soleil pour tester le matériau de la future conf "High-Speed DDD".
+ - [Agile Toulouse Unconference](https://tour.agiletoulouse.fr/): 5 sessions proposées lors de cet événement : Introduction à Process Communication (en 2 sessions de 1h), Outside-in Diamond ◆ TDD pour écrire des tests Antifragiles & orientés métier (en mode discussion avec le public), animation du kata "the office" carpaccio, et une session tableau blanc au soleil pour tester le matériau de la future conf : le DDD quand tout va trop vite (aka. "High-Speed DDD").
 
 ---
 
