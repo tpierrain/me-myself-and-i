@@ -55,7 +55,7 @@ This is a sum-up of all my public intervention & covered topics over the last ye
 
 #### DDD Europe (Amsterdam)
 
- - [High-Speed DDD]([https://luxembourg.voxxeddays.com/en/](https://www.youtube.com/watch?v=tAGG4-UtfGw)): talk retenu à Voxxed Luxembourg
+ - [High-Speed DDD](https://www.youtube.com/watch?v=tAGG4-UtfGw): talk retenu à Voxxed Luxembourg
 
  - [The scale-up, The Autonomy and the nuclear submarine​](https://2023.dddeurope.com/speakers/thomas-pierrain/): reviewed version of our talk with [Pauline JAMIN](https://twitter.com/paulinejamin) about the challenges of fostering Autonomy in a scale-up context (lots of new discoveries). ![uk](uk.jpg)
 
