@@ -378,7 +378,7 @@ Some feedbacks (in french) are available [here](http://www.softfluent.fr/blog/ex
 ### Reactive programming, & Refactoring techniques
 First year for me as a public speaker, I've studied a lot and trained very hard to make it work (verbal, non-verbal). Discovering by chance what I consider the best book ever written for public speakers (*Resonate*, by Nancy Duarte), I was thrilled to share this discovery with my mate [Cyrille Dupuydauby](https://twitter.com/Cyrdup) and to use it with him in order to build our "[Basses latences, hauts débits : les secrets de la finance pour avoir des systèmes réactifs](https://www.youtube.com/watch?v=SHptUbGxXMU)" talk. Considering the warm feedbacks we had and the number of time we played this talk about Reactive Programming over the years (the core concepts, not the trendy libraries), this was a really good investment ;-)
 
-Loving to live-code, I was also pleased to play [Refactoring de code legacy avec des trucs en "N"](http://www.programmez.com/actualites/mug-lyon-refactoring-de-code-legacy-avec-des-trucs-en-n-21635) here and there. Impressed by [David Gageot](https://twitter.com/dgageot)' usage of Golden Master to refactor legacy code in Java, I had decided to make a .NET ecosystem version of it to share it with non-java audience.
+Loving to live-code, I was also pleased to play [Refactoring de code legacy avec des trucs en "N"](https://youtu.be/I3rNyxnD7as?si=72i05LgimB92fl7h) here and there. Impressed by [David Gageot](https://twitter.com/dgageot)' usage of Golden Master to refactor legacy code in Java, I had decided to make a .NET ecosystem version of it to share it with non-java audience.
 
 ### 2014 in details:
 
@@ -389,7 +389,7 @@ Loving to live-code, I was also pleased to play [Refactoring de code legacy avec
 - [As you meant it (NFluent)](http://fr.slideshare.net/ThomasPierrain/nfluent-brown-bag-lunch-january-2014)
 
 ### Mug Lyon
-- [Refactoring de code legacy avec des trucs en "N"]([http://www.programmez.com/actualites/mug-lyon-refactoring-de-code-legacy-avec-des-trucs-en-n-21635](https://youtu.be/I3rNyxnD7as?si=72i05LgimB92fl7h)https://youtu.be/I3rNyxnD7as?si=72i05LgimB92fl7h) (live coding)
+- [Refactoring de code legacy avec des trucs en "N"](https://youtu.be/I3rNyxnD7as?si=72i05LgimB92fl7h) (live coding)
 
 ### Brown Bag Lunchs
 - a lot...
