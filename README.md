@@ -389,7 +389,7 @@ Loving to live-code, I was also pleased to play [Refactoring de code legacy avec
 - [As you meant it (NFluent)](http://fr.slideshare.net/ThomasPierrain/nfluent-brown-bag-lunch-january-2014)
 
 ### Mug Lyon
-- [Refactoring de code legacy avec des trucs en "N"](http://www.programmez.com/actualites/mug-lyon-refactoring-de-code-legacy-avec-des-trucs-en-n-21635) (live coding)
+- [Refactoring de code legacy avec des trucs en "N"]([http://www.programmez.com/actualites/mug-lyon-refactoring-de-code-legacy-avec-des-trucs-en-n-21635](https://youtu.be/I3rNyxnD7as?si=72i05LgimB92fl7h)https://youtu.be/I3rNyxnD7as?si=72i05LgimB92fl7h) (live coding)
 
 ### Brown Bag Lunchs
 - a lot...
