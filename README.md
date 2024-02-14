@@ -38,6 +38,7 @@ Loving to speak with others and to live-code on stage, I'm a big fan of [Nancy D
 
 This is a sum-up of all my public intervention & covered topics over the last years:
 
+- __[2024](#in-2024)__ - Process Comm, Autonomy and High-speed DDD (revisited)
 - __[2023](#in-2023)__ - Process Comm, Autonomy and High-speed DDD
 - __[2022](#in-2022)__ - Hypergrowth, Scale-up, Autonomy & (outside-in diamond) TDD
 - __[2021](#in-2021)__ - Product management, Beyond Hexagonal Architecture (Functional Core) & Outside-in Diamond ![diamond](diamond.png) TDD
@@ -48,6 +49,16 @@ This is a sum-up of all my public intervention & covered topics over the last ye
  - __[2016](#in-2016)__ - DDD, Network, Craftsmanship & Legacy
  - __[2015](#in-2015)__ - TDD, Hexagonal architecture & Craftsmanship
  - __[2014](#in-2014)__ - Reactive programming, & Refactoring techniques
+
+---
+
+## In 2024
+
+#### DevoxxFR (Paris) - upcoming
+ - __High-Speed DDD (revisited)__ : reviewed version of my Voxxed Luxembourg talk (in french)
+
+ - __Équilibrez le Stress, Maximisez la Collaboration : communiquez sans heurts à l’aide de la Process Communication (deep-dive intro)__ : a deep-dive introduction (180') of Process Communication (in french)
+
  
 ---
 
