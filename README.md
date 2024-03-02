@@ -70,7 +70,11 @@ This is a sum-up of all my public intervention & covered topics over the last ye
 
  - [The scale-up, The Autonomy and the nuclear submarine​](https://youtu.be/dAA9rVg6bb8?si=uBuPMQ4chNg0ylNM): reviewed version of our talk with [Pauline JAMIN](https://twitter.com/paulinejamin) about the challenges of fostering Autonomy in a scale-up context (lots of new discoveries). ![uk](uk.jpg)
 
- - [Agile Toulouse Unconference](https://tour.agiletoulouse.fr/): 5 sessions offered during this event: Introduction to Process Communication (in two 1-hour sessions), Outside-in Diamond ◆ TDD to write Antifragile & business-oriented tests (in discussion mode with the public), animation of "the office" kata carpaccio, and a whiteboard session in the sun to test the material of the future conference: DDD when everything goes too fast (aka. "High-Speed DDD").
+ - [Agile Toulouse Unconference](https://tour.agiletoulouse.fr/): 5 sessions offered during this event:
+    - Introduction to Process Communication (in two 1-hour sessions)
+    - Outside-in Diamond 🔷 TDD to write Antifragile & business-oriented tests (in discussion mode with the public)
+    - Animation of "the office" kata carpaccio
+    - and a whiteboard session in the sun to test the material of the future conference: DDD when everything goes too fast (aka. "High-Speed DDD").
 
 ---
 
