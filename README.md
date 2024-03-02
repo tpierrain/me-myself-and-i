@@ -64,11 +64,15 @@ This is a sum-up of all my public intervention & covered topics over the last ye
 
 ## In 2023
 
+#### Voxxed Luxembourg (Luxembourg)
+
+- [High-Speed DDD](https://www.youtube.com/watch?v=tAGG4-UtfGw) : talk about how to efficiently deliver software with impact, even with hard time-to-market constraints
+
 #### DDD Europe (Amsterdam)
 
- - [High-Speed DDD](https://www.youtube.com/watch?v=tAGG4-UtfGw) : talk retenu à Voxxed Luxembourg
-
  - [The scale-up, The Autonomy and the nuclear submarine​](https://youtu.be/dAA9rVg6bb8?si=uBuPMQ4chNg0ylNM): reviewed version of our talk with [Pauline JAMIN](https://twitter.com/paulinejamin) about the challenges of fostering Autonomy in a scale-up context (lots of new discoveries). ![uk](uk.jpg)
+
+#### Agile Toulouse (Toulouse)
 
  - [Agile Toulouse Unconference](https://tour.agiletoulouse.fr/): (June 1-2 2023) Invited by the organization, I animated 5 sessions during this event:
     - Introduction to Process Communication (part 1, the basics)
