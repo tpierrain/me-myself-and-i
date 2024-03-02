@@ -70,7 +70,7 @@ This is a sum-up of all my public intervention & covered topics over the last ye
 
  - [The scale-up, The Autonomy and the nuclear submarine​](https://youtu.be/dAA9rVg6bb8?si=uBuPMQ4chNg0ylNM): reviewed version of our talk with [Pauline JAMIN](https://twitter.com/paulinejamin) about the challenges of fostering Autonomy in a scale-up context (lots of new discoveries). ![uk](uk.jpg)
 
- - [Agile Toulouse Unconference](https://tour.agiletoulouse.fr/): 5 sessions proposées lors de cet événement : Introduction à Process Communication (en 2 sessions de 1h), Outside-in Diamond ◆ TDD pour écrire des tests Antifragiles & orientés métier (en mode discussion avec le public), animation du kata "the office" carpaccio, et une session tableau blanc au soleil pour tester le matériau de la future conf : le DDD quand tout va trop vite (aka. "High-Speed DDD").
+ - [Agile Toulouse Unconference](https://tour.agiletoulouse.fr/): 5 sessions offered during this event: Introduction to Process Communication (in two 1-hour sessions), Outside-in Diamond ◆ TDD to write Antifragile & business-oriented tests (in discussion mode with the public), animation of "the office" kata carpaccio, and a whiteboard session in the sun to test the material of the future conference: DDD when everything goes too fast (aka. "High-Speed DDD").
 
 ---
 
@@ -80,7 +80,7 @@ This is a sum-up of all my public intervention & covered topics over the last ye
  - [Show me your domain: Cash Flow monitoring & forecasting](https://www.youtube.com/watch?v=FklGeG-2f_I&list=PLGl1Jc8ErU1wIRD0Of4nXLUecxjrjeJOk&index=1): talk with [Caroline DESPLANQUE](https://twitter.com/@carolinedpl) where we presented the domain of Cash flow Forecasting in front of our Context Map.  ![uk](uk.jpg)
 
 #### Alpes Craft (Grenoble)
- - [Outside-in Diamond ◆ TDD pour écrire des tests Antifragiles & orientés métier](): version longue (grosse session de Q & A avec le public nombreux) de ce talk mais dont la capture video a été perdue malheureusement. 
+ - [Outside-in Diamond ◆ TDD pour écrire des tests Antifragiles & orientés métier](): long version (big Q & A session with a large audience) of this talk but the video capture of which was unfortunately lost.
 
 #### Breizhcamp (Rennes)
  - [La scale-up, l'autonomie et le sous-marin nucléaire](https://www.youtube.com/watch?v=WurK0nYWcSM): talk with [Pauline JAMIN](https://twitter.com/paulinejamin) about the challenges of fostering Autonomy in a scale-up context.
