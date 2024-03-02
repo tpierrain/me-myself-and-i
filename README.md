@@ -68,7 +68,7 @@ This is a sum-up of all my public intervention & covered topics over the last ye
 
  - [High-Speed DDD](https://www.youtube.com/watch?v=tAGG4-UtfGw) : talk retenu à Voxxed Luxembourg
 
- - [The scale-up, The Autonomy and the nuclear submarine​](https://2023.dddeurope.com/speakers/thomas-pierrain/): reviewed version of our talk with [Pauline JAMIN](https://twitter.com/paulinejamin) about the challenges of fostering Autonomy in a scale-up context (lots of new discoveries). ![uk](uk.jpg)
+ - [The scale-up, The Autonomy and the nuclear submarine​]([https://2023.dddeurope.com/speakers/thomas-pierrain/](https://youtu.be/dAA9rVg6bb8?si=uBuPMQ4chNg0ylNM)): reviewed version of our talk with [Pauline JAMIN](https://twitter.com/paulinejamin) about the challenges of fostering Autonomy in a scale-up context (lots of new discoveries). ![uk](uk.jpg)
 
  - [Agile Toulouse Unconference](https://tour.agiletoulouse.fr/): 5 sessions proposées lors de cet événement : Introduction à Process Communication (en 2 sessions de 1h), Outside-in Diamond ◆ TDD pour écrire des tests Antifragiles & orientés métier (en mode discussion avec le public), animation du kata "the office" carpaccio, et une session tableau blanc au soleil pour tester le matériau de la future conf : le DDD quand tout va trop vite (aka. "High-Speed DDD").
 
