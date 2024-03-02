@@ -70,7 +70,7 @@ This is a sum-up of all my public intervention & covered topics over the last ye
 
  - [The scale-up, The Autonomy and the nuclear submarine​](https://youtu.be/dAA9rVg6bb8?si=uBuPMQ4chNg0ylNM): reviewed version of our talk with [Pauline JAMIN](https://twitter.com/paulinejamin) about the challenges of fostering Autonomy in a scale-up context (lots of new discoveries). ![uk](uk.jpg)
 
- - [Agile Toulouse Unconference](https://tour.agiletoulouse.fr/): 5 sessions offered during this event:
+ - [Agile Toulouse Unconference](https://tour.agiletoulouse.fr/): (June 1-2 2023) I animated 5 sessions during this event:
     - Introduction to Process Communication (part 1, the basics)
     - Introduction to Process Communication (part 2, the toolbox)
     - Outside-in Diamond 🔷 TDD to write Antifragile & business-oriented tests (in discussion mode with the public)
