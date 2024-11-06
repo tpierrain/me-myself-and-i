@@ -10,7 +10,7 @@ VP of Engineering in a booming European scale-up (Agicap), Thomas is a former en
 Long-time promoter of hexagonal architecture (through articles, talks, trainings or live coding sessions - including one with Alistair Cockburn) Thomas is now advocating for a specific style of TDD called Outside-in Diamond 🔷 TDD . This fits perfectly with Alistair's pattern, and also allows for more secure, antifragile, and Domain-Driven tests to be written.
 
 
-__More than 65 talks made worldwide since 2014__ (lots of live-coding sessions, talks, keynotes, etc) 
+__More than 67 talks made worldwide since 2014__ (lots of live-coding sessions, talks, keynotes, etc) 
 
 Most well-known conferences I've made as speaker: DDD Europe (Amsterdam), µCon (London), Cukenfest (London), DDD eXchange (London), XP conf (Porto), Explore DDD (Denver), KanDDDinsky (Berlin), Devoxx (Paris),  NewCrafts (Paris), FlowCon (France), Lean Kanban France (Paris), SoftShake (Geneva), MS Experiences '16 (Paris), MixIT! (Lyon), BDX.io (Bordeaux), Sunny Tech (Montpellier), Agile Tour (Lille, Bordeaux), Alpes Craft (Grenoble)...
 
@@ -24,7 +24,7 @@ VP of Engineering dans une scale-up Européenne en plein essor (Agicap), Thomas 
 Promoteur de longue date du TDD et de l’Architecture Hexagonale (qu’il a même eu l’occasion de live-coder une fois aux côté d’Alistair Cockburn), Lors de ces 15 dernières années, Thomas a développé un style un peu particulier de TDD nommé : __Outside-In Diamond 🔷 TDD__. Celui-ci permet d’écrire des tests encore plus fiables, antifragiles, mais surtout orientés métier.
 
 
-Un peu __plus de 64 talks réalisés depuis 2014 à travers le monde__ (pleins de sessions de live-coding, quelques keynotes et beaucoup de talks) 
+Un peu __plus de 67 talks réalisés depuis 2014 à travers le monde__ (pleins de sessions de live-coding, quelques keynotes et beaucoup de talks) 
 
 Les conférences les plus connues auxquelles j'ai pu intervenir en tant que speaker: DDD Europe (Amsterdam), µCon (London), Cukenfest (London), DDD eXchange (London), XP conf (Porto), Explore DDD (Denver), KanDDDinsky (Berlin), Devoxx (Paris),  NewCrafts (Paris), FlowCon (France), Lean Kanban France (Paris), SoftShake (Geneva), MS Experiences '16 (Paris), MixIT! (Lyon), BDX.io (Bordeaux), Sunny Tech (Montpellier), Agile Tour (Lille, Bordeaux), Alpes Craft (Grenoble)...
 
