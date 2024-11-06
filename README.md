@@ -30,8 +30,9 @@ Les conférences les plus connues auxquelles j'ai pu intervenir en tant que spea
 
 ---
 
-## Blog
-http://tpierrain.blogspot.com/
+## Blogs & writing
+* [My articles on Medium](https://medium.com/@tpierrain) (+32)
+* My former blog: http://tpierrain.blogspot.com/
 
 ## Topics of interest
 Loving to speak with others and to live-code on stage, I'm a big fan of [Nancy Duarte's Resonate](http://www.duarte.com/book/resonate-legacy/). As a speaker, I try to *mainstream* things I do at work (DDD, Software Craftsmanship practices, Reactive Programming and low latency stuffs, Architecture, etc.).
