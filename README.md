@@ -54,10 +54,13 @@ This is a sum-up of all my public intervention & covered topics over the last ye
 
 ## In 2024
 
-#### DevoxxFR (Paris) - upcoming
- - __High-Speed DDD (revisited)__ : reviewed version of my Voxxed Luxembourg talk (in french)
+#### KanDDDinsky Berlin
+- __The Hive: a scaling and supple architecture style for your growing and complex domain__: video not yet published. __[slides](https://slides.com/julientopcu/the-hive-a-scaling-and-supple-architecture-style-for-your-growing-and-complex-domain)__ / __[code](https://gitlab.com/beyondxscratch/hive-pattern)__
 
- - __Équilibrez le Stress, Maximisez la Collaboration : communiquez sans heurts à l’aide de la Process Communication (deep-dive intro)__ : a deep-dive introduction (180') of Process Communication (in french)
+#### DevoxxFR (Paris)
+ - __[High-Speed DDD (revisited)](https://www.youtube.com/watch?v=chOTMfhiNgs)__ : reviewed version of my Voxxed Luxembourg talk
+
+ - __[Équilibrez le Stress, Maximisez la Collaboration : communiquez sans heurts à l’aide de la Process Communication (deep-dive intro)](https://www.youtube.com/watch?v=9vA2NciX1QQ)__ : a deep-dive introduction (180') of Process Communication (in french)
 
  
 ---
