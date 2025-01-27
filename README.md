@@ -55,7 +55,7 @@ This is a sum-up of all my public intervention & covered topics over the last ye
 
 ## In 2024
 
-#### KanDDDinsky Berlin
+#### KanDDDinsky (Berlin)
 - __The Hive: a scaling and supple architecture style for your growing and complex domain__: with my friend Julien Topçu. Video not yet published. ![uk](uk.jpg) __[slides](https://slides.com/julientopcu/the-hive-a-scaling-and-supple-architecture-style-for-your-growing-and-complex-domain)__ / __[code](https://gitlab.com/beyondxscratch/hive-pattern)__
 
 #### DevoxxFR (Paris)
@@ -98,34 +98,34 @@ This is a sum-up of all my public intervention & covered topics over the last ye
 #### Breizhcamp (Rennes)
  - [La scale-up, l'autonomie et le sous-marin nucléaire](https://www.youtube.com/watch?v=WurK0nYWcSM): talk with [Pauline JAMIN](https://twitter.com/paulinejamin) about the challenges of fostering Autonomy in a scale-up context.
 
-#### Artisan developpeur
+#### Artisan developpeur (Remote)
 - [Debrief Battle Artisan developeur](https://youtu.be/bbzQ5ZLc91Y): Discussion around the question: *Is Code quality compliant with startup?* (time to talk about Kent Beck 3X model, startups and scaling, code quality, Domain Driven Design, refactoring, staff engineering & roles)
 
 - [Podcast Artisan developeur](https://compagnon.artisandeveloppeur.fr/veille/podcast-hypercroissance-et-economie-avec-thomas-pierrain) podcast about hypergrowth and autonomy.  ![podcast](podcast.png)
 
-#### Devoxx FR
+#### Devoxx FR (Paris)
  - [La scale-up, l'autonomie et le sous-marin nucléaire](https://youtu.be/FPZw6gy04T4): talk with [Pauline JAMIN](https://twitter.com/paulinejamin) about the challenges of fostering Autonomy in a scale-up context.
 
 
 ---
 
 ## In 2021
- - [De l'autre côté du miroir](https://youtu.be/yOBmGW-FGE8): Keynote for the opening of the **School of Product** (Sept 21th in Paris). A mix between Product management, Domain Driven Design and how to be efficient as dev team.
- - [Podcast sur le TDD, eXtreme Programming, le cargo cult](https://on.soundcloud.com/uWXusWDJppevTWf58) ![podcast](podcast.png)
- - [eXtreme](https://www.youtube.com/watch?v=AJLL4PZa54g): my eXtreme Programming talk made at TADx
- - [Write Antifragile & Domain-Driven tests with ”Outside-in diamond” ◆ TDD](https://www.youtube.com/watch?v=djdMp9i04Sc&feature=youtu.be): a talk made for DDD Africa user group on how I ended up doing TDD for many years ![uk](uk.jpg)
- - [Live coding - Beyond the hexagonal architecture: Functional Core & ...](https://github.com/42skillz/livecoding-beyond-hexagonal-architecture/blob/main/README.md) The english version of our Functional Core live coding (with Bruno) at Virtual DDD ![uk](uk.jpg)
+ - [De l'autre côté du miroir](https://youtu.be/yOBmGW-FGE8): Keynote for the opening of the **School of Product** (**Sept 21th in Paris**). A mix between Product management, Domain Driven Design and how to be efficient as dev team.
+ - [Podcast sur le TDD, eXtreme Programming, le cargo cult](https://on.soundcloud.com/uWXusWDJppevTWf58) ![podcast](podcast.png) (Remote)
+ - [eXtreme](https://www.youtube.com/watch?v=AJLL4PZa54g): my eXtreme Programming talk made at TADx (Remote)
+ - [Write Antifragile & Domain-Driven tests with ”Outside-in diamond” ◆ TDD](https://www.youtube.com/watch?v=djdMp9i04Sc&feature=youtu.be): a talk made for DDD Africa user group on how I ended up doing TDD for many years ![uk](uk.jpg) (Remote)
+ - [Live coding - Beyond the hexagonal architecture: Functional Core & ...](https://github.com/42skillz/livecoding-beyond-hexagonal-architecture/blob/main/README.md) The english version of our Functional Core live coding (with Bruno) at Virtual DDD ![uk](uk.jpg) (Remote)
 
 ---
 
 ## In 2020
- - [eXtreme](https://youtu.be/xrqEsp4JUVY): a keynote about eXtreme Programming and its real specificity
- - [Une nuit dans l'hexagone](https://www.youtube.com/watch?v=07x54QhhFFY) Fish-bowl panels at #DDDFR with french devs about their usages of Hexagonal Architecture
- - [DDD clinic](https://www.youtube.com/watch?v=Cb7VDgcnOhk) A nice Q&A night with DDDFR and other European DDD specialists ![uk](uk.jpg)
- - [Functional Core, l’alternative FP à l’architecture hexagonale](https://www.youtube.com/watch?v=T_9mqhrY3QA) at "La rentrée des speakers" online conference. It was the first time Bruno and I were live-coding about Functional Core.
+ - [eXtreme](https://youtu.be/xrqEsp4JUVY): a keynote about eXtreme Programming and its real specificity (Remote)
+ - [Une nuit dans l'hexagone](https://www.youtube.com/watch?v=07x54QhhFFY) Fish-bowl panels at #DDDFR with french devs about their usages of Hexagonal Architecture (Remote)
+ - [DDD clinic](https://www.youtube.com/watch?v=Cb7VDgcnOhk) A nice Q&A night with DDDFR and other European DDD specialists ![uk](uk.jpg) (Remote)
+ - [Functional Core, l’alternative FP à l’architecture hexagonale](https://www.youtube.com/watch?v=T_9mqhrY3QA) at "La rentrée des speakers" online conference. It was the first time Bruno and I were live-coding about Functional Core. (Remote)
 
 ## In 2019
-### (Theater play about) strategic DDD, Process Comm, Event Storming & Example Mapping, CQRS/ES
+### (Theater play about) strategic DDD, Process Comm, Event Storming & Example Mapping, CQRS/ES (Paris)
 With a 3 acts Theater play (written by Bruno and I), a 2 days workshop about how to go from Problem space to solution space and another keynote, this year was very intense regarding writing and event preparation for me. I also discovered (and liked) the awesome Sunny Tech conference (in Montpellier) and was proud to be the keynoter for the first edition of AlpesCraft (in Grenoble).
 
 
