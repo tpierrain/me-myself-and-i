@@ -40,7 +40,7 @@ Loving to speak with others and to live-code on stage, I'm a big fan of [Nancy D
 This is a sum-up of all my public intervention & covered topics over the last years:
 
 - __[2025](#in-2025)__ - The Hive (modular monotlith strategy)
-- __[2024](#in-2024)__ - The Hive (modular monotlith strategy), Process Comm, and High-speed DDD (revisited)
+- __[2024](#in-2024)__ - Process Comm, and High-speed DDD (revisited), The Hive (modular monotlith strategy)
 - __[2023](#in-2023)__ - Process Comm, Autonomy and High-speed DDD
 - __[2022](#in-2022)__ - Hypergrowth, Scale-up, Autonomy & (outside-in diamond) TDD
 - __[2021](#in-2021)__ - Product management, Beyond Hexagonal Architecture (Functional Core) & Outside-in Diamond ![diamond](diamond.png) TDD
