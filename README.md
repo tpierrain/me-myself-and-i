@@ -56,7 +56,7 @@ This is a sum-up of all my public intervention & covered topics over the last ye
 
 ## In 2025
 
-#### MixIT! (Lyon) - (upcoming)
+#### MixIT! (Lyon, upcoming)
 - __Le pattern Hive : une stratégie de modularisation pour votre monolithe modulaire ou vos microservices__: in french, with [Julien Topçu](https://bsky.app/profile/julientopcu.com)
 
 #### SnowCamp (Grenoble)
