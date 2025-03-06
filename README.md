@@ -67,7 +67,7 @@ This is a sum-up of all my public intervention & covered topics over the last ye
 ## In 2024
 
 #### KanDDDinsky (Berlin)
-- __The Hive: a scaling and supple architecture style for your growing and complex domain__: with my friend Julien Topçu. Video not yet published. ![uk](uk.jpg) __[slides](https://slides.com/julientopcu/the-hive-a-scaling-and-supple-architecture-style-for-your-growing-and-complex-domain)__ / __[code](https://gitlab.com/beyondxscratch/hive-pattern)__
+- __[The Hive: a scaling and supple architecture style for your growing and complex domain](https://youtu.be/JZBsy6PsCRY?si=mJoMVEyjAzu7IJ3F)__: with my friend Julien Topçu. ![uk](uk.jpg) __[slides](https://slides.com/julientopcu/the-hive-a-scaling-and-supple-architecture-style-for-your-growing-and-complex-domain)__ / __[code](https://gitlab.com/beyondxscratch/hive-pattern)__
 
 #### DevoxxFR (Paris)
  - __[High-Speed DDD (revisited)](https://www.youtube.com/watch?v=chOTMfhiNgs)__ : reviewed version of my Voxxed Luxembourg talk
