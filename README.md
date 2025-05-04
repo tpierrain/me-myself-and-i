@@ -39,7 +39,7 @@ Loving to speak with others and to live-code on stage, I'm a big fan of [Nancy D
 
 This is a sum-up of all my public intervention & covered topics over the last years:
 
-- __[2025](#in-2025)__ - The Hive (modular monotlith strategy)
+- __[2025](#in-2025)__ - The Hive (modular monotlith strategy), and the DDD Horror picture show
 - __[2024](#in-2024)__ - Process Comm, and High-speed DDD (revisited), The Hive (modular monotlith strategy)
 - __[2023](#in-2023)__ - Process Comm, Autonomy and High-speed DDD
 - __[2022](#in-2022)__ - Hypergrowth, Scale-up, Autonomy & (outside-in diamond) TDD
@@ -56,8 +56,11 @@ This is a sum-up of all my public intervention & covered topics over the last ye
 
 ## In 2025
 
-#### MixIT! (Lyon, upcoming)
+#### MixIT! (Lyon)
 - __Le pattern Hive : une stratégie de modularisation pour votre monolithe modulaire ou vos microservices__: in french, with [Julien Topçu](https://bsky.app/profile/julientopcu.com)
+
+#### Devoxx France (Paris)
+- __The DDD Horror Picture Show__: in french, with [Pauline JAMIN](https://bsky.app/profile/@paulinejamin.bsky.social)
 
 #### SnowCamp (Grenoble)
 - __Le pattern Hive : une stratégie de modularisation pour votre monolithe modulaire ou vos microservices__: in french, with [Julien Topçu](https://bsky.app/profile/julientopcu.com)
