@@ -12,7 +12,7 @@ Long-time promoter of hexagonal architecture (through articles, talks, trainings
 
 __More than 70 talks made worldwide since 2014__ (lots of live-coding sessions, talks, keynotes, etc) 
 
-Most well-known conferences I've made as speaker: DDD Europe (Amsterdam), µCon (London), Cukenfest (London), DDD eXchange (London), XP conf (Porto), Explore DDD (Denver), KanDDDinsky (Berlin), Devoxx (Paris),  NewCrafts (Paris), FlowCon (France), Lean Kanban France (Paris), SoftShake (Geneva), MS Experiences '16 (Paris), MixIT! (Lyon), BDX.io (Bordeaux), Sunny Tech (Montpellier), Agile Tour (Lille, Bordeaux), Alpes Craft (Grenoble)...
+Most well-known conferences I've made as speaker: DDD Europe (Amsterdam), µCon (London), Cukenfest (London), DDD eXchange (London), XP conf (Porto), Explore DDD (Denver), KanDDDinsky (Berlin), Devoxx (Paris),  NewCrafts (Paris), FlowCon (France), Lean Kanban France (Paris), SoftShake (Geneva), MS Experiences '16 (Paris), MixIT! (Lyon), BDX.io (Bordeaux), Sunny Tech (Montpellier), Agile Tour (Lille, Bordeaux), SnowCamp (Grenoble), Alpes Craft (Grenoble)...
 
 ---
 
@@ -26,7 +26,7 @@ Promoteur de longue date du TDD et de l’Architecture Hexagonale (qu’il a mê
 
 Un peu __plus de 70 talks réalisés depuis 2014 à travers le monde__ (pleins de sessions de live-coding, quelques keynotes et beaucoup de talks) 
 
-Les conférences les plus connues auxquelles j'ai pu intervenir en tant que speaker: DDD Europe (Amsterdam), µCon (London), Cukenfest (London), DDD eXchange (London), XP conf (Porto), Explore DDD (Denver), KanDDDinsky (Berlin), Devoxx (Paris),  NewCrafts (Paris), FlowCon (France), Lean Kanban France (Paris), SoftShake (Geneva), MS Experiences '16 (Paris), MixIT! (Lyon), BDX.io (Bordeaux), Sunny Tech (Montpellier), Agile Tour (Lille, Bordeaux), Alpes Craft (Grenoble)...
+Les conférences les plus connues auxquelles j'ai pu intervenir en tant que speaker: DDD Europe (Amsterdam), µCon (London), Cukenfest (London), DDD eXchange (London), XP conf (Porto), Explore DDD (Denver), KanDDDinsky (Berlin), Devoxx (Paris),  NewCrafts (Paris), FlowCon (France), Lean Kanban France (Paris), SoftShake (Geneva), MS Experiences '16 (Paris), MixIT! (Lyon), BDX.io (Bordeaux), Sunny Tech (Montpellier), Agile Tour (Lille, Bordeaux), SnowCamp (Grenoble), Alpes Craft (Grenoble)...
 
 ---
 
