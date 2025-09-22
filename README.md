@@ -56,9 +56,17 @@ This is a sum-up of all my public intervention & covered topics over the last ye
 
 ## In 2025
 
-#### Artisan Developpeur
-- Refactoring de la mort : https://artisandeveloppeur.fr/refactoring-de-la-mort-avec-thomas-pierrain/
-- 
+#### NewCraft (Paris)
+ - __The DDD horror picture show__ in english, with with [Pauline JAMIN](https://bsky.app/profile/paulinejamin.bsky.social) ![uk](uk.jpg)
+
+#### KanDDDinsky (Berlin)
+ - __The DDD horror picture show__ in english, with with [Pauline JAMIN](https://bsky.app/profile/paulinejamin.bsky.social) ![uk](uk.jpg)
+
+#### Devoxx BE (Antwerp)
+ - __Live Coding The Hive: building a microservices-ready modular monolith:__ in english, with with [Julien Topçu](https://bsky.app/profile/julientopcu.com) ![uk](uk.jpg)
+
+#### Artisan Developpeur (podcast)
+- Refactoring de la mort : https://artisandeveloppeur.fr/refactoring-de-la-mort-avec-thomas-pierrain/ ![podcast](podcast.png)
 
 #### MixIT! (Lyon)
 - __Le pattern Hive : une stratégie de modularisation pour votre monolithe modulaire ou vos microservices__: in french, with [Julien Topçu](https://bsky.app/profile/julientopcu.com)
