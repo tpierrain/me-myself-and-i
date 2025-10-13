@@ -2,7 +2,7 @@
 
 __Thomas PIERRAIN__ (aka __[use case driven](https://twitter.com/tpierrain)__ on twitter)
 
-![profile](./TwitterProfile.jpg)
+![profile](./theHiveBelgium.jpg)
 
 ## Bio
 VP of Engineering in a booming European scale-up (Agicap), Thomas is a former entrepreneur, consultant, architect and eXtreme Programmer obsessed with use cases (as opposed to the solution-oriented approach that we tend to choose in our job a little too much) during more than 25 years. Also co-organizer of the DDD France (and former BDD Paris) meetups, Thomas likes to use autonomy, DDD and TDD to boost his efficiency and that of others at work.
@@ -10,7 +10,7 @@ VP of Engineering in a booming European scale-up (Agicap), Thomas is a former en
 Long-time promoter of hexagonal architecture (through articles, talks, trainings or live coding sessions - including one with Alistair Cockburn) Thomas is now advocating for a specific style of TDD called Outside-in Diamond 🔷 TDD . This fits perfectly with Alistair's pattern, and also allows for more secure, antifragile, and Domain-Driven tests to be written.
 
 
-__More than 70 talks made worldwide since 2014__ (lots of live-coding sessions, talks, keynotes, etc) 
+__More than 75 talks made worldwide since 2014__ (lots of live-coding sessions, talks, keynotes, etc) 
 
 Most well-known conferences I've made as speaker: DDD Europe (Amsterdam), µCon (London), Cukenfest (London), DDD eXchange (London), XP conf (Porto), Explore DDD (Denver), KanDDDinsky (Berlin), Devoxx (Paris),  NewCrafts (Paris), FlowCon (France), Lean Kanban France (Paris), SoftShake (Geneva), MS Experiences '16 (Paris), MixIT! (Lyon), BDX.io (Bordeaux), Sunny Tech (Montpellier), Agile Tour (Lille, Bordeaux), SnowCamp (Grenoble), Alpes Craft (Grenoble)...
 
@@ -24,7 +24,7 @@ VP of Engineering dans une scale-up Européenne en plein essor (Agicap), Thomas 
 Promoteur de longue date du TDD et de l’Architecture Hexagonale (qu’il a même eu l’occasion de live-coder une fois aux côté d’Alistair Cockburn), Lors de ces 15 dernières années, Thomas a développé un style un peu particulier de TDD nommé : __Outside-In Diamond 🔷 TDD__. Celui-ci permet d’écrire des tests encore plus fiables, antifragiles, mais surtout orientés métier.
 
 
-Un peu __plus de 70 talks réalisés depuis 2014 à travers le monde__ (pleins de sessions de live-coding, quelques keynotes et beaucoup de talks) 
+Un peu __plus de 75 talks réalisés depuis 2014 à travers le monde__ (pleins de sessions de live-coding, quelques keynotes et beaucoup de talks) 
 
 Les conférences les plus connues auxquelles j'ai pu intervenir en tant que speaker: DDD Europe (Amsterdam), µCon (London), Cukenfest (London), DDD eXchange (London), XP conf (Porto), Explore DDD (Denver), KanDDDinsky (Berlin), Devoxx (Paris),  NewCrafts (Paris), FlowCon (France), Lean Kanban France (Paris), SoftShake (Geneva), MS Experiences '16 (Paris), MixIT! (Lyon), BDX.io (Bordeaux), Sunny Tech (Montpellier), Agile Tour (Lille, Bordeaux), SnowCamp (Grenoble), Alpes Craft (Grenoble)...
 
@@ -66,7 +66,7 @@ This is a sum-up of all my public intervention & covered topics over the last ye
  - __[LIVE CODING The Hive: building a microservices ready modular monolith](https://www.youtube.com/watch?v=VKcRNtj0tzc):__ in english, with with [Julien Topçu](https://bsky.app/profile/julientopcu.com) ![uk](uk.jpg)
 
 #### Artisan Developpeur (podcast)
-- __[Refactoring de la mort](https://podcast.ausha.co/artisan-developpeur/refactoring-de-la-mort-avec-thomas-pierrain)__ : https://artisandeveloppeur.fr/refactoring-de-la-mort-avec-thomas-pierrain/ ![podcast](podcast.png)
+- __[Refactoring de la mort](https://artisandeveloppeur.fr/refactoring-de-la-mort-avec-thomas-pierrain/)__ : ![podcast](podcast.png)
 
 #### MixIT! (Lyon)
 - __[Le pattern Hive : une stratégie de modularisation pour votre monolithe modulaire ou vos microservices](https://www.youtube.com/watch?v=TL_nVaOs47g)__: in french, with [Julien Topçu](https://bsky.app/profile/julientopcu.com)
