@@ -446,3 +446,5 @@ Loving to live-code, I was also pleased to play [Refactoring de code legacy avec
 
 ### Brown Bag Lunchs
 - a lot...
+
+.
