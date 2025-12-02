@@ -5,7 +5,7 @@ __Thomas PIERRAIN__ (aka __[use case driven](https://twitter.com/tpierrain)__ on
 ![profile](./theHiveBelgium.jpg)
 
 ## Bio
-VP of Engineering in a booming European scale-up (Agicap), Thomas is a former entrepreneur, consultant, architect and eXtreme Programmer obsessed with use cases (as opposed to the solution-oriented approach that we tend to choose in our job a little too much) during more than 25 years. Also co-organizer of the DDD France (and former BDD Paris) meetups, Thomas likes to use autonomy, DDD and TDD to boost his efficiency and that of others at work.
+VP of Engineering in a booming European scale-up (Agicap) for tbe last 4 years, Thomas is a former entrepreneur, consultant, architect and eXtreme Programmer obsessed with use cases (as opposed to the solution-oriented approach that we tend to choose in our job a little too much) during more than 25 years. Also co-organizer of the DDD France (and former BDD Paris) meetups, Thomas likes to use autonomy, DDD and TDD to boost his efficiency and that of others at work.
 
 Long-time promoter of hexagonal architecture (through articles, talks, trainings or live coding sessions - including one with Alistair Cockburn) Thomas is now advocating for a specific style of TDD called Outside-in Diamond 🔷 TDD . This fits perfectly with Alistair's pattern, and also allows for more secure, antifragile, and Domain-Driven tests to be written.
 
@@ -19,7 +19,7 @@ _Most well-known conferences I've made as speaker: DDD Europe (Amsterdam), µCon
 (version Française)
 
 
-VP of Engineering dans une scale-up Européenne en plein essor (Agicap), Thomas est un ancien entrepreneur, consultant, architecte et eXtreme Programmer obsédé par les usages (par opposition à l'approche orientée solution qu'on a un peu trop tendance à choisir dans notre métier). Également co-organisateur des meetups DDD FR et anciennement BDD Paris, Thomas aime utiliser le DDD et le TDD pour booster son efficacité et celle des autres au travail.
+VP of Engineering dans une grosse scale-up Européenne (Agicap) ces 4 dernières années, Thomas est un ancien entrepreneur, consultant, architecte et eXtreme Programmer obsédé par les usages (par opposition à l'approche orientée solution qu'on a un peu trop tendance à choisir dans notre métier). Également co-organisateur des meetups DDD FR et anciennement BDD Paris, Thomas aime utiliser le DDD et le TDD pour booster son efficacité et celle des autres au travail.
 
 Promoteur de longue date du TDD et de l’Architecture Hexagonale (qu’il a même eu l’occasion de live-coder une fois aux côté d’Alistair Cockburn), Lors de ces 15 dernières années, Thomas a développé un style un peu particulier de TDD nommé : __Outside-In Diamond 🔷 TDD__. Celui-ci permet d’écrire des tests encore plus fiables, antifragiles, mais surtout orientés métier.
 
