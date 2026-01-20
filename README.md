@@ -217,7 +217,7 @@ The very same Example Mapping workshop that we animated during [NewCrafts Paris]
 
 Then, Bruno and I did a live-coding talk illustrating the power (and challenges) of Pair Programming at [Explore DDD (Denver)](http://exploreddd.com/speakers/thomas-pierrain.html) in September and then in french at [BDX.IO](https://www.bdx.io/#/home) and  __[Becomx](http://becomx.com/)__.
 
-Last but not least, I've made __[a keynote in french about ethics](https://www.facebook.com/582109264/posts/10156742368324265/)__ related to how software is eating the world where I talked a lot about privacy and how the "free app" model was impacted our lives much deeper than we think.
+Last but not least, I've made __[a keynote in french about ethics](https://youtu.be/nV6Fy3EeoQs?si=p_y_Qunxrr5jcHUW)__ related to how software is eating the world where I talked a lot about privacy and how the "free app" model was impacted our lives much deeper than we think.
 
 ### 2018 in details:
 
@@ -230,7 +230,7 @@ Last but not least, I've made __[a keynote in french about ethics](https://www.f
  - __Example mapping workshop__: a nice edition of our regular Example mapping workshop.
 
 #### Agile tour Bordeaux
- - Closing Keynote: [Et si on parlait un peu Ethique?](https://www.facebook.com/582109264/posts/10156742368324265/) in french. Note: it really starts after 11m 26sec
+ - Closing Keynote: [Et si on parlait un peu Ethique?](https://youtu.be/nV6Fy3EeoQs?si=p_y_Qunxrr5jcHUW) in french. Note: it really starts after 11m 26sec
 
 #### KanDDDinsky (Berlin)
  - __Distill the Core Domain from Your Legacy App__: probably the last time where Bruno BOUCARD and myself were doing our 2 hours of live-coding on how to refactor Legacy code using DDD tactical patterns ![uk](uk.jpg)
