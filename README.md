@@ -230,7 +230,7 @@ Last but not least, I've made __[a keynote in french about ethics](https://youtu
  - __Example mapping workshop__: a nice edition of our regular Example mapping workshop.
 
 #### Agile tour Bordeaux
- - Closing Keynote: [Et si on parlait un peu Ethique?](https://youtu.be/nV6Fy3EeoQs?si=p_y_Qunxrr5jcHUW) in french. Note: it really starts after 11m 26sec
+ - Closing Keynote: [Et si on parlait un peu Ethique?](https://youtu.be/nV6Fy3EeoQs?si=p_y_Qunxrr5jcHUW) in french.
 
 #### KanDDDinsky (Berlin)
  - __Distill the Core Domain from Your Legacy App__: probably the last time where Bruno BOUCARD and myself were doing our 2 hours of live-coding on how to refactor Legacy code using DDD tactical patterns ![uk](uk.jpg)
