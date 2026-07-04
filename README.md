@@ -31,6 +31,7 @@ _Les conférences les plus connues auxquelles j'ai pu intervenir en tant que spe
 
 ## Blogs & writing
 * [My articles on Medium](https://medium.com/@tpierrain) (+32)
+* My __"Second Brain"__ series (2026) — building a private, RAG-powered personal assistant inside Claude that forgets nothing and helps you connect the dots: [articles on Medium](https://medium.com/@tpierrain) & the open-source [second-brain-generator (Kenjaku)](https://github.com/tpierrain/second-brain-generator).
 * My former blog: http://tpierrain.blogspot.com/
 
 ## Topics of interest
@@ -38,6 +39,7 @@ Loving to speak with others and to live-code on stage, I'm a big fan of [Nancy D
 
 This is a sum-up of all my public intervention & covered topics over the last years:
 
+- __[2026](#in-2026)__ - The Hive (live coding, microservices-ready modular monolith), High-Speed DDD (revisited) & surviving incidents
 - __[2025](#in-2025)__ - The Hive (modular monotlith strategy), the DDD Horror picture show
 - __[2024](#in-2024)__ - Process Comm, and High-speed DDD (revisited), The Hive (modular monotlith strategy)
 - __[2023](#in-2023)__ - Process Comm, Autonomy and High-speed DDD
@@ -50,6 +52,28 @@ This is a sum-up of all my public intervention & covered topics over the last ye
  - __[2016](#in-2016)__ - DDD, Network, Craftsmanship & Legacy
  - __[2015](#in-2015)__ - TDD, Hexagonal architecture & Craftsmanship
  - __[2014](#in-2014)__ - Reactive programming, & Refactoring techniques
+
+---
+
+## In 2026
+
+#### Adeo Dev Summit ×Decathlon (Lille)
+ - __Live coding The Hive: building a microservices-ready modular monolith__: with [Julien Topçu](https://bsky.app/profile/julientopcu.com), at Adeo & Decathlon's internal Dev Summit.
+
+#### Betclic (Bordeaux)
+ - __High-Speed DDD (revisited)__: an internal tech talk about how to efficiently deliver software with impact, even with hard time-to-market constraints.
+
+#### GeeCon (Krakow, Poland)
+ - __Live Coding The Hive: building a microservices-ready modular monolith__: with [Julien Topçu](https://bsky.app/profile/julientopcu.com) ![uk](uk.jpg)
+
+#### Lyon Craft (Lyon)
+ - __[L'art de survivre aux incidents](https://lyon-craft.fr/sessions/l-art-de-survivre-aux-incidents.html)__: a brand new talk on why our systems stay so fragile despite their robust components — because *"on ne peut rendre fiable que ce que l'on comprend"*.
+
+#### Devoxx France (Paris)
+ - __[The Hive : coder un monolithe modulaire prêt pour les microservices](https://www.youtube.com/watch?v=5VDpsY-Eg4Q)__: in french, with [Julien Topçu](https://bsky.app/profile/julientopcu.com)
+
+#### Spring I/O (Barcelona)
+ - __Live Coding The Hive: building a microservices-ready modular monolith__: with [Julien Topçu](https://bsky.app/profile/julientopcu.com) ![uk](uk.jpg)
 
 ---
 
