@@ -2,7 +2,7 @@
 
 __Thomas PIERRAIN__ (aka __[use case driven](https://twitter.com/tpierrain)__ on twitter)
 
-![profile](./theHiveBelgium.jpg)
+![profile](./on-stage-devoxxfr.png)
 
 ## Bio
 VP of Technology at Shodo, Thomas has been building software for nearly three decades: entrepreneur, consultant, architect, and eXtreme Programmer. He cut his teeth on demanding systems (low latency, high availability, bitemporal event-sourcing, CQRS) in finance and hospitality, and advocates a use-case-driven approach, pushing back against our industry's habitual solution-first reflex. A co-organizer of DDD France for the past ten years and a pioneering advocate of hexagonal architecture — including internationally — he has also shaped his own patterns, like The Hive and Outside-in Diamond TDD, and given more than 100 talks worldwide since 2014. These days, that same craft, now paired with AI, pulls him toward a bigger goal: augmenting people and organizations instead of replacing them. More recently, he designed and shared Kenjaku, an open-source Second Brain Generator — one building block among others to help companies move from scattered AI tinkering to a real collective augmentation strategy.
