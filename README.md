@@ -15,9 +15,11 @@ _Most well-known conferences I've made as speaker:_
 - 🇧🇪 **Belgium** — Devoxx BE (Anvers)
 - 🇺🇸 **USA** — Explore DDD (Denver)
 - 🇵🇹 **Portugal** — XP conf (Porto)
+- 🇪🇸 **Spain** — Spring I/O (Barcelona)
+- 🇵🇱 **Poland** — GeeCon (Krakow)
 - 🇨🇭 **Switzerland** — SoftShake (Genève)
 - 🇱🇺 **Luxembourg** — Voxxed Days Luxembourg
-- 🇫🇷 **France** — Devoxx France (Paris), NewCrafts (Paris), FlowCon (France), Lean Kanban France (Paris), MS Experiences '16 (Paris), MixIT! (Lyon), BDX.io (Bordeaux), Sunny Tech (Montpellier), Agile Tour (Lille, Bordeaux), BreizhCamp (Rennes), SnowCamp (Grenoble), Alpes Craft (Grenoble), School of Product (Paris), Codeurs en Seine (Rouen), French Ministry of Digital (Paris), Paris JUG (Paris)..._
+- 🇫🇷 **France** — Devoxx France (Paris), NewCrafts (Paris), FlowCon (France), Lean Kanban France (Paris), MS Experiences '16 (Paris), MixIT! (Lyon), BDX.io (Bordeaux), Sunny Tech (Montpellier), Agile Tour (Lille, Bordeaux), BreizhCamp (Rennes), SnowCamp (Grenoble), Alpes Craft (Grenoble), Lyon Craft (Lyon), School of Product (Paris), Codeurs en Seine (Rouen), French Ministry of Digital (Paris), Paris JUG (Paris)..._
 
 ---
 
@@ -33,9 +35,11 @@ _Les conférences les plus connues auxquelles j'ai pu intervenir en tant que spe
 - 🇧🇪 **Belgique** — Devoxx BE (Anvers)
 - 🇺🇸 **États-Unis** — Explore DDD (Denver)
 - 🇵🇹 **Portugal** — XP conf (Porto)
+- 🇪🇸 **Espagne** — Spring I/O (Barcelona)
+- 🇵🇱 **Pologne** — GeeCon (Krakow)
 - 🇨🇭 **Suisse** — SoftShake (Genève)
 - 🇱🇺 **Luxembourg** — Voxxed Days Luxembourg
-- 🇫🇷 **France** — Devoxx France (Paris), NewCrafts (Paris), FlowCon (France), Lean Kanban France (Paris), MS Experiences '16 (Paris), MixIT! (Lyon), BDX.io (Bordeaux), Sunny Tech (Montpellier), Agile Tour (Lille, Bordeaux), BreizhCamp (Rennes), SnowCamp (Grenoble), Alpes Craft (Grenoble), School of Product (Paris), Codeurs en Seine (Rouen), French Ministry of Digital (Paris), Paris JUG (Paris)..._
+- 🇫🇷 **France** — Devoxx France (Paris), NewCrafts (Paris), FlowCon (France), Lean Kanban France (Paris), MS Experiences '16 (Paris), MixIT! (Lyon), BDX.io (Bordeaux), Sunny Tech (Montpellier), Agile Tour (Lille, Bordeaux), BreizhCamp (Rennes), SnowCamp (Grenoble), Alpes Craft (Grenoble), Lyon Craft (Lyon), School of Product (Paris), Codeurs en Seine (Rouen), French Ministry of Digital (Paris), Paris JUG (Paris)..._
 
 ---
 
