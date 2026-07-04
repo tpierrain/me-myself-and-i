@@ -5,7 +5,13 @@ __Thomas PIERRAIN__ (aka __[use case driven](https://bsky.app/profile/tpierrain.
 ![profile](./on-stage-devoxxfr.png)
 
 ## Bio
-VP of Technology at Shodo, Thomas has been building software for nearly three decades: entrepreneur, consultant, architect, and eXtreme Programmer. He cut his teeth on demanding systems (low latency, high availability, bitemporal event-sourcing, CQRS) in finance and hospitality, and advocates a use-case-driven approach, pushing back against our industry's habitual solution-first reflex. A co-organizer of DDD France for the past ten years and a pioneering advocate of hexagonal architecture — including internationally — he has also shaped his own patterns, like The Hive and Outside-in Diamond TDD, and given more than 100 talks worldwide since 2014. These days, that same craft, now paired with AI, pulls him toward a bigger goal: augmenting people and organizations instead of replacing them. More recently, he designed and shared Kenjaku, an open-source Second Brain Generator — one building block among others to help companies move from scattered AI tinkering to a real collective augmentation strategy.
+VP of Technology at Shodo, Thomas has been building software for nearly three decades: entrepreneur, consultant, architect, and eXtreme Programmer. He cut his teeth on demanding systems (low latency, high availability, bitemporal event-sourcing, CQRS) in finance and hospitality, and __advocates a use-case-driven approach, pushing back against our industry's habitual solution-first reflex__. 
+
+A co-organizer of DDD France for the past ten years and __a pioneering advocate of hexagonal architecture__ — including internationally — he has __also shaped his own patterns, like The Hive and Outside-in Diamond TDD__, and given __more than 100 talks worldwide since 2014__. 
+
+These days, __that same craft, now paired with AI, pulls him toward a bigger goal: augmenting people and organizations instead of replacing them__. More recently, he designed and shared __Kenjaku, an open-source Second Brain Generator__ — one building block among others to help companies move from scattered AI tinkering to a real collective augmentation strategy.
+
+---
 
 _Most well-known conferences I've made as speaker:_
 
@@ -25,7 +31,13 @@ _Most well-known conferences I've made as speaker:_
 
 (version Française)
 
-VP of Technology chez Shodo, Thomas construit des logiciels depuis presque trois décennies : entrepreneur, consultant, architecte et eXtreme Programmer. Il a fait ses armes sur des systèmes exigeants (faible latence, haute disponibilité, event-sourcing bitemporel, CQRS) dans la finance et l'hôtellerie, et défend une approche use-case-driven, à rebours du réflexe « solution d'abord » de notre industrie. Co-organisateur du DDD France depuis 10 ans, ambassadeur précurseur de l'architecture hexagonale, y compris à l'international, il a aussi façonné ses propres patterns comme The Hive et l'Outside-in Diamond TDD, et donné plus de 100 talks dans le monde depuis 2014. Aujourd'hui, ce même artisanat, désormais couplé à l'IA, le pousse vers un objectif plus grand : augmenter les gens et les organisations au lieu de les remplacer. Plus récemment, il a conçu et partagé Kenjaku : un Second Brain Generator open source, un des maillons parmi d'autres pour aider les entreprises à passer de l'état de tâtonnement IA à une vraie stratégie d'augmentation collective.
+VP of Technology chez Shodo, Thomas construit des logiciels depuis presque trois décennies : entrepreneur, consultant, architecte et eXtreme Programmer. Il a fait ses armes sur des systèmes exigeants (faible latence, haute disponibilité, event-sourcing bitemporel, CQRS) dans la finance et l'hôtellerie, et __défend une approche use-case-driven, à rebours du réflexe « solution d'abord » de notre industrie__. 
+
+Co-organisateur du DDD France depuis 10 ans, ambassadeur __précurseur de l'architecture hexagonale, y compris à l'international__, il __a aussi façonné ses propres patterns comme The Hive et l'Outside-in Diamond TDD__, et __donné plus de 100 talks dans le monde depuis 2014__. 
+
+Aujourd'hui, __ce même artisanat, désormais couplé à l'IA, le pousse vers un objectif plus grand : augmenter les gens et les organisations au lieu de les remplacer__. Plus récemment, il a conçu et partagé __Kenjaku : un Second Brain Generator open source__, un des maillons parmi d'autres pour aider les entreprises à passer de l'état de tâtonnement IA à une vraie stratégie d'augmentation collective.
+
+---
 
 _Les conférences les plus connues auxquelles j'ai pu intervenir en tant que speaker:_
 
