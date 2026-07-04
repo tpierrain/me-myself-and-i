@@ -7,7 +7,17 @@ __Thomas PIERRAIN__ (aka __[use case driven](https://twitter.com/tpierrain)__ on
 ## Bio
 VP of Technology at Shodo, Thomas has been building software for nearly three decades: entrepreneur, consultant, architect, and eXtreme Programmer. He cut his teeth on demanding systems (low latency, high availability, bitemporal event-sourcing, CQRS) in finance and hospitality, and advocates a use-case-driven approach, pushing back against our industry's habitual solution-first reflex. A co-organizer of DDD France for the past ten years and a pioneering advocate of hexagonal architecture — including internationally — he has also shaped his own patterns, like The Hive and Outside-in Diamond TDD, and given more than 100 talks worldwide since 2014. These days, that same craft, now paired with AI, pulls him toward a bigger goal: augmenting people and organizations instead of replacing them. More recently, he designed and shared Kenjaku, an open-source Second Brain Generator — one building block among others to help companies move from scattered AI tinkering to a real collective augmentation strategy.
 
-_Most well-known conferences I've made as speaker: DDD Europe (Amsterdam), µCon (London), Cukenfest (London), DDD eXchange (London), XP conf (Porto), Explore DDD (Denver), KanDDDinsky (Berlin), Devoxx France (Paris), Devoxx BE (Anvers), Voxxed Days Luxembourg, NewCrafts (Paris), FlowCon (France), Socrates Foundations Day (Soltau, Allemagne), Lean Kanban France (Paris), SoftShake (Genève), MS Experiences '16 (Paris), MixIT! (Lyon), BDX.io (Bordeaux), Sunny Tech (Montpellier), Agile Tour (Lille, Bordeaux), BreizhCamp (Rennes), SnowCamp (Grenoble), Alpes Craft (Grenoble), Expand conference (Amsterdam), School of Product (Paris), Codeurs en Seine (Rouen), French Ministry of Digital (Paris), Paris JUG (Paris)..._
+_Most well-known conferences I've made as speaker:_
+
+- 🇬🇧 **United Kingdom** — µCon (London), Cukenfest (London), DDD eXchange (London)
+- 🇳🇱 **Netherlands** — DDD Europe (Amsterdam), Expand conference (Amsterdam)
+- 🇩🇪 **Germany** — KanDDDinsky (Berlin), Socrates Foundations Day (Soltau)
+- 🇧🇪 **Belgium** — Devoxx BE (Anvers)
+- 🇺🇸 **USA** — Explore DDD (Denver)
+- 🇵🇹 **Portugal** — XP conf (Porto)
+- 🇨🇭 **Switzerland** — SoftShake (Genève)
+- 🇱🇺 **Luxembourg** — Voxxed Days Luxembourg
+- 🇫🇷 **France** — Devoxx France (Paris), NewCrafts (Paris), FlowCon (France), Lean Kanban France (Paris), MS Experiences '16 (Paris), MixIT! (Lyon), BDX.io (Bordeaux), Sunny Tech (Montpellier), Agile Tour (Lille, Bordeaux), BreizhCamp (Rennes), SnowCamp (Grenoble), Alpes Craft (Grenoble), School of Product (Paris), Codeurs en Seine (Rouen), French Ministry of Digital (Paris), Paris JUG (Paris)..._
 
 ---
 
@@ -15,7 +25,17 @@ _Most well-known conferences I've made as speaker: DDD Europe (Amsterdam), µCon
 
 VP of Technology chez Shodo, Thomas construit des logiciels depuis presque trois décennies : entrepreneur, consultant, architecte et eXtreme Programmer. Il a fait ses armes sur des systèmes exigeants (faible latence, haute disponibilité, event-sourcing bitemporel, CQRS) dans la finance et l'hôtellerie, et défend une approche use-case-driven, à rebours du réflexe « solution d'abord » de notre industrie. Co-organisateur du DDD France depuis 10 ans, ambassadeur précurseur de l'architecture hexagonale, y compris à l'international, il a aussi façonné ses propres patterns comme The Hive et l'Outside-in Diamond TDD, et donné plus de 100 talks dans le monde depuis 2014. Aujourd'hui, ce même artisanat, désormais couplé à l'IA, le pousse vers un objectif plus grand : augmenter les gens et les organisations au lieu de les remplacer. Plus récemment, il a conçu et partagé Kenjaku : un Second Brain Generator open source, un des maillons parmi d'autres pour aider les entreprises à passer de l'état de tâtonnement IA à une vraie stratégie d'augmentation collective.
 
-_Les conférences les plus connues auxquelles j'ai pu intervenir en tant que speaker: DDD Europe (Amsterdam), µCon (London), Cukenfest (London), DDD eXchange (London), XP conf (Porto), Explore DDD (Denver), KanDDDinsky (Berlin), Devoxx France (Paris), Devoxx BE (Anvers), Voxxed Days Luxembourg, NewCrafts (Paris), FlowCon (France), Socrates Foundations Day (Soltau, Allemagne), Lean Kanban France (Paris), SoftShake (Genève), MS Experiences '16 (Paris), MixIT! (Lyon), BDX.io (Bordeaux), Sunny Tech (Montpellier), Agile Tour (Lille, Bordeaux), BreizhCamp (Rennes), SnowCamp (Grenoble), Alpes Craft (Grenoble), Expand conference (Amsterdam), School of Product (Paris), Codeurs en Seine (Rouen), French Ministry of Digital (Paris), Paris JUG (Paris)..._
+_Les conférences les plus connues auxquelles j'ai pu intervenir en tant que speaker:_
+
+- 🇬🇧 **Royaume-Uni** — µCon (London), Cukenfest (London), DDD eXchange (London)
+- 🇳🇱 **Pays-Bas** — DDD Europe (Amsterdam), Expand conference (Amsterdam)
+- 🇩🇪 **Allemagne** — KanDDDinsky (Berlin), Socrates Foundations Day (Soltau)
+- 🇧🇪 **Belgique** — Devoxx BE (Anvers)
+- 🇺🇸 **États-Unis** — Explore DDD (Denver)
+- 🇵🇹 **Portugal** — XP conf (Porto)
+- 🇨🇭 **Suisse** — SoftShake (Genève)
+- 🇱🇺 **Luxembourg** — Voxxed Days Luxembourg
+- 🇫🇷 **France** — Devoxx France (Paris), NewCrafts (Paris), FlowCon (France), Lean Kanban France (Paris), MS Experiences '16 (Paris), MixIT! (Lyon), BDX.io (Bordeaux), Sunny Tech (Montpellier), Agile Tour (Lille, Bordeaux), BreizhCamp (Rennes), SnowCamp (Grenoble), Alpes Craft (Grenoble), School of Product (Paris), Codeurs en Seine (Rouen), French Ministry of Digital (Paris), Paris JUG (Paris)..._
 
 ---
 
