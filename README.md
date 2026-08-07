@@ -9,7 +9,11 @@ VP of Technology at Shodo, Thomas has been building software for nearly three de
 
 A co-organizer of DDD France for the past ten years and __a pioneering advocate of hexagonal architecture__ — including internationally — he has __also shaped his own patterns, like The Hive and Outside-in Diamond TDD__, and given __more than 100 talks worldwide since 2014__. 
 
-These days, __that same craft, now paired with AI, pulls him toward a bigger goal: augmenting people and organizations instead of replacing them__. More recently, he designed and shared __Kenjaku, an open-source Second Brain Generator__ — one building block among others to help companies move from scattered AI tinkering to a real collective augmentation strategy.
+These days, __that same craft, now paired with AI, pulls him toward a bigger goal: augmenting people and organizations instead of replacing them__. He doesn't just use the tools — __he builds harnesses for his clients__. And, as __a long-time open-source contributor__ ([NFluent](https://github.com/tpierrain/NFluent), [Diverse](https://github.com/tpierrain/Diverse)), he opens up the ones he builds for himself: __[Kenjaku](https://github.com/tpierrain/kenjaku)__, his own second brain — elaborated and battle-tested over many months of daily use — now a free and open-source __local__ RAG-powered product that answers only from your own sources, always cited, never invented; and __[Clepsydre](https://github.com/tpierrain/clepsydre)__, a live context-window gauge that tells you to `/clear` before context rot makes you dumb.
+
+### Short bio (for CFPs)
+
+> VP of Technology at Shodo. Three decades of software, 100+ talks since 2014, his own patterns (The Hive, Outside-in Diamond TDD) and a long track record in open source (NFluent, Diverse). Now working on AI coding, he doesn't just use the tools: __he builds harnesses for his clients, and open-sources the ones he builds for himself__ — __Kenjaku__, his own second brain after many months of daily use, now a free and open-source __local__ RAG product that never invents an answer, and __Clepsydre__, a live context-window gauge that tells you when to `/clear`.
 
 ---
 
@@ -35,7 +39,11 @@ VP of Technology chez Shodo, Thomas construit des logiciels depuis presque trois
 
 Co-organisateur du DDD France depuis 10 ans, ambassadeur __précurseur de l'architecture hexagonale, y compris à l'international__, il __a aussi façonné ses propres patterns comme The Hive et l'Outside-in Diamond TDD__, et __donné plus de 100 talks dans le monde depuis 2014__. 
 
-Aujourd'hui, __ce même artisanat, désormais couplé à l'IA, le pousse vers un objectif plus grand : augmenter les gens et les organisations au lieu de les remplacer__. Plus récemment, il a conçu et partagé __Kenjaku : un Second Brain Generator open source__, un des maillons parmi d'autres pour aider les entreprises à passer de l'état de tâtonnement IA à une vraie stratégie d'augmentation collective.
+Aujourd'hui, __ce même artisanat, désormais couplé à l'IA, le pousse vers un objectif plus grand : augmenter les gens et les organisations au lieu de les remplacer__. Il ne se contente pas d'utiliser les outils : __il construit des harnais pour ses clients__. Et, __contributeur open source de longue date__ ([NFluent](https://github.com/tpierrain/NFluent), [Diverse](https://github.com/tpierrain/Diverse)), il ouvre ceux qu'il construit pour lui-même : __[Kenjaku](https://github.com/tpierrain/kenjaku)__, son propre second cerveau, élaboré et éprouvé pendant de nombreux mois d'usage quotidien, devenu un produit gratuit et open source à base de __RAG local__ qui ne répond que depuis vos propres sources, toujours citées, jamais inventées, et __[Clepsydre](https://github.com/tpierrain/clepsydre)__, une jauge live de fenêtre de contexte qui vous dit de faire `/clear` avant que le context rot ne vous rende bête.
+
+### Version courte (pour les CFP)
+
+> VP of Technology chez Shodo. Trois décennies de logiciel, plus de 100 talks depuis 2014, ses propres patterns (The Hive, Outside-in Diamond TDD) et une longue pratique de l'open source (NFluent, Diverse). Aujourd'hui sur l'IA, il ne se contente pas d'utiliser les outils : __il construit des harnais pour ses clients, et ouvre ceux qu'il construit pour lui-même__ : __Kenjaku__, son propre second cerveau après de nombreux mois d'usage quotidien, devenu un produit gratuit et open source à base de __RAG local__ qui n'invente jamais une réponse, et __Clepsydre__, une jauge live de fenêtre de contexte qui vous dit quand faire `/clear`.
 
 ---
 
@@ -57,8 +65,14 @@ _Les conférences les plus connues auxquelles j'ai pu intervenir en tant que spe
 
 ## Blogs & writing
 * [My articles on Medium](https://medium.com/@tpierrain) (+32)
-* My __"Second Brain"__ series (2026) — building a private, RAG-powered personal assistant inside Claude that forgets nothing and helps you connect the dots: [articles on Medium](https://medium.com/@tpierrain) & the open-source [second-brain-generator (Kenjaku)](https://github.com/tpierrain/second-brain-generator).
+* My __"Second Brain"__ series (2026) — building a private, local RAG-powered personal assistant inside Claude that forgets nothing and helps you connect the dots: [articles on Medium](https://medium.com/@tpierrain) & the open-source [Kenjaku](https://github.com/tpierrain/kenjaku).
 * My former blog: http://tpierrain.blogspot.com/
+
+## Open source
+* __[Kenjaku](https://github.com/tpierrain/kenjaku)__ (2026) — my own second brain, elaborated and battle-tested over many months of daily use, turned into a free and open-source __local__ RAG-powered product: it answers only from your own sources, always cited, never invented.
+* __[Clepsydre](https://github.com/tpierrain/clepsydre)__ (2026) — a live context-window gauge for the Claude Code CLI: it tells you to `/clear` before context rot makes you dumb.
+* __[NFluent](https://github.com/tpierrain/NFluent)__ — an ergonomic .NET assertion library to smooth your TDD experience (`Check.That()`).
+* __[Diverse](https://github.com/tpierrain/Diverse)__ — the fuzzer pico-library to make your .NET tests more diverse.
 
 ## Topics of interest
 Loving to speak with others and to live-code on stage, I'm a big fan of [Nancy Duarte's Resonate](http://www.duarte.com/book/resonate-legacy/). As a speaker, I try to *mainstream* things I do at work (DDD, Software Craftsmanship practices, Reactive Programming and low latency stuffs, Architecture, etc.).
