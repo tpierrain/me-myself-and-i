@@ -79,7 +79,7 @@ Loving to speak with others and to live-code on stage, I'm a big fan of [Nancy D
 
 This is a sum-up of all my public intervention & covered topics over the last years:
 
-- __[2026](#in-2026)__ - What changes once AI makes code cheap ("Le plus dur commence quand ça fonctionne."), The Hive (live coding, microservices-ready modular monolith), High-Speed DDD (revisited) & surviving incidents
+- __[2026](#in-2026)__ - Agentic AI and what it changes for teams, context engineering & harness engineering, software engineering & system design (The Hive, a microservices-ready modular monolith), incident management & resilience, High-Speed DDD
 - __[2025](#in-2025)__ - The Hive (modular monotlith strategy), the DDD Horror picture show
 - __[2024](#in-2024)__ - Process Comm, and High-speed DDD (revisited), The Hive (modular monotlith strategy)
 - __[2023](#in-2023)__ - Process Comm, Autonomy and High-speed DDD
