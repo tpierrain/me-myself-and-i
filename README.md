@@ -98,10 +98,10 @@ This is a sum-up of all my public intervention & covered topics over the last ye
 ## In 2026
 
 #### Naboo (Paris)
- - __Le plus dur commence quand ça fonctionne.__: in french, a talk on what is left to do once AI makes producing code cheap. Companion article: [The hardest part begins when it works](https://medium.com/@tpierrain/the-hardest-part-begins-when-it-works-408371946988).
+ - __[Le plus dur commence quand ça fonctionne.](https://www.linkedin.com/posts/thomas-p-0664769_with-ai-the-hardest-part-begins-when-it-activity-7513841780232986624-SL-h)__: in french, a talk on what is left to do once AI makes producing code cheap.
 
 #### cortAIx Club, Thales (Issy-les-Moulineaux)
- - __Le plus dur commence quand ça fonctionne.__: in french, with Jordan Nourry, at the evening of Thales' AI accelerator.
+ - __[Le plus dur commence quand ça fonctionne.](https://www.linkedin.com/posts/thomas-p-0664769_with-ai-the-hardest-part-begins-when-it-activity-7513841780232986624-SL-h)__: in french, with Jordan Nourry, at the evening of Thales' AI accelerator.
 
 #### If This Then Dev (podcast)
  - __[Architecture : Pourquoi les sujets humains font toute la différence](https://www.ifttd.io/episodes/architecture)__: episode #374 with Bruno Soulez, in french ![podcast](podcast.png)
