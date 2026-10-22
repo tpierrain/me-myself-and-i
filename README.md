@@ -79,7 +79,7 @@ Loving to speak with others and to live-code on stage, I'm a big fan of [Nancy D
 
 This is a sum-up of all my public intervention & covered topics over the last years:
 
-- __[2026](#in-2026)__ - The Hive (live coding, microservices-ready modular monolith), High-Speed DDD (revisited) & surviving incidents
+- __[2026](#in-2026)__ - What changes once AI makes code cheap ("Le plus dur commence quand ça fonctionne."), The Hive (live coding, microservices-ready modular monolith), High-Speed DDD (revisited) & surviving incidents
 - __[2025](#in-2025)__ - The Hive (modular monotlith strategy), the DDD Horror picture show
 - __[2024](#in-2024)__ - Process Comm, and High-speed DDD (revisited), The Hive (modular monotlith strategy)
 - __[2023](#in-2023)__ - Process Comm, Autonomy and High-speed DDD
@@ -96,6 +96,15 @@ This is a sum-up of all my public intervention & covered topics over the last ye
 ---
 
 ## In 2026
+
+#### Naboo (Paris)
+ - __Le plus dur commence quand ça fonctionne.__: in french, a talk on what is left to do once AI makes producing code cheap. Companion article: [The hardest part begins when it works](https://medium.com/@tpierrain/the-hardest-part-begins-when-it-works-408371946988).
+
+#### cortAIx Club, Thales (Issy-les-Moulineaux)
+ - __Le plus dur commence quand ça fonctionne.__: in french, with Jordan Nourry, at the evening of Thales' AI accelerator.
+
+#### If This Then Dev (podcast)
+ - __[Architecture : Pourquoi les sujets humains font toute la différence](https://www.ifttd.io/episodes/architecture)__: episode #374 with Bruno Soulez, in french ![podcast](podcast.png)
 
 #### Adeo Dev Summit ×Decathlon (Lille)
  - __Live coding The Hive: building a microservices-ready modular monolith__: with [Julien Topçu](https://bsky.app/profile/julientopcu.com), at Adeo & Decathlon's internal Dev Summit.
@@ -114,6 +123,30 @@ This is a sum-up of all my public intervention & covered topics over the last ye
 
 #### Spring I/O (Barcelona)
  - __Live Coding The Hive: building a microservices-ready modular monolith__: with [Julien Topçu](https://bsky.app/profile/julientopcu.com) ![uk](uk.jpg)
+
+
+### Articles written in 2026
+
+__AI in the team: what changes for developers and organisations__
+ - [Back in the equation](https://medium.com/@tpierrain/back-in-the-equation-218cecb4c2cd): introducing Slicer, a design harness that asks developers to make the decisions instead of validating what the AI produced.
+ - [The hardest part begins when it works.](https://medium.com/@tpierrain/the-hardest-part-begins-when-it-works-408371946988): six months of agentic AI with about 75 developers, and why passivity is a bigger risk than bugs (the written version of my 2026 keynote).
+ - [Dual-track product discovery was never blocked by technology. AI just broke the real barrier](https://medium.com/@tpierrain/dual-track-product-discovery-was-never-blocked-by-technology-ai-just-broke-the-real-barrier-c340cd7b6c3a): why AI finally makes running discovery and delivery side by side affordable.
+
+__Working smaller, shipping fewer bugs with AI: context, sessions and harnesses__
+ - [Did you notice? CLAUDE.md feeds those who produce and judge, not those who explore](https://medium.com/@tpierrain/did-you-notice-claude-md-feeds-those-who-produce-and-judge-not-those-who-explore-199fe0505381): a Claude Code detail that changed how I write my CLAUDE.md files.
+ - [My two modes today: Interactive to ship, Loop to explore](https://medium.com/@tpierrain/my-two-modes-today-interactive-to-ship-loop-to-explore-f5e91a3d51a9): when to drive the agent turn by turn, and when to let it loop.
+ - [Your agent gives you chronos. It cannot give you kairos.](https://medium.com/@tpierrain/your-agent-gives-you-chronos-it-cannot-give-you-kairos-1b5125a0d0f6): agents make time cheap, but choosing the moments that need a human is still our job.
+ - [Knowing when to capitalize instead of just fixing: the harness-maker's craft](https://medium.com/@tpierrain/knowing-when-to-capitalize-instead-of-just-fixing-the-harness-makers-craft-d2afc7a2fb60): turning each agent incident into something that prevents the next one.
+ - [What if /clear was no longer our job?](https://medium.com/@tpierrain/what-if-clear-was-no-longer-our-job-16fe571ae206): drawing context boundaries in time and in space.
+ - [A good harness makes /clear free](https://medium.com/@tpierrain/a-good-harness-makes-clear-free-5f22c0e01d34): keep the work state in the repo, so starting a fresh session costs nothing.
+ - [Same model, so why do some devs ship more bugs?](https://medium.com/@tpierrain/same-model-so-why-do-some-devs-ship-more-bugs-484c7053bff9): long sessions quietly degrade the agent's attention, and nothing warns you.
+ - [Des pointeurs, pas des copies, banane !](https://medium.com/@tpierrain/des-pointeurs-pas-des-copies-banane-56c9d197b80b) (in french): how a memory file reloaded at every session brought context rot back.
+
+__The "Second Brain" series: building a local RAG-powered assistant ([Kenjaku](https://github.com/tpierrain/kenjaku))__
+ - [My second brain pivoted twice in 3 days](https://medium.com/@tpierrain/my-second-brain-pivoted-twice-in-3-days-0e6a723faf34): how the project started, and changed direction twice.
+ - [I hired a no-bullshit coach in my second brain](https://medium.com/@tpierrain/i-hired-a-no-bullshit-coach-in-my-second-brain-e7b1ce5702c5): a sparring partner that challenges my own decisions, plugged into my notes.
+ - [Why my second brain was talking without understanding](https://medium.com/@tpierrain/why-my-second-brain-was-talking-without-understanding-103d5c305341) ([french version](https://medium.com/@tpierrain/pourquoi-mon-second-cerveau-parlait-sans-comprendre-6848fcf98421)): giving it a semantic memory.
+ - [Embeddings and RAG explained to my parents](https://medium.com/@tpierrain/embeddings-and-rag-explained-to-my-parents-006f76dd4c14): the key concepts, without the jargon.
 
 ---
 
