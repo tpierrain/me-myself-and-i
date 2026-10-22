@@ -98,7 +98,7 @@ This is a sum-up of all my public intervention & covered topics over the last ye
 ## In 2026
 
 #### Naboo (Paris)
- - __[Le plus dur commence quand ça fonctionne.](https://www.linkedin.com/posts/thomas-p-0664769_with-ai-the-hardest-part-begins-when-it-activity-7513841780232986624-SL-h)__: in french, a talk on what is left to do once AI makes producing code cheap.
+ - __[Le plus dur commence quand ça fonctionne.](https://www.linkedin.com/posts/thomas-p-0664769_with-ai-the-hardest-part-begins-when-it-activity-7513841780232986624-SL-h)__: in french, a talk on what is left to do once AI makes producing code cheap. Companion article: [The hardest part begins when it works](https://medium.com/@tpierrain/the-hardest-part-begins-when-it-works-408371946988).
 
 #### cortAIx Club, Thales (Issy-les-Moulineaux)
  - __[Le plus dur commence quand ça fonctionne.](https://www.linkedin.com/posts/thomas-p-0664769_with-ai-the-hardest-part-begins-when-it-activity-7513841780232986624-SL-h)__: in french, with Jordan Nourry, at the evening of Thales' AI accelerator.
