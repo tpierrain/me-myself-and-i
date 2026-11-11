@@ -119,11 +119,14 @@ This is a sum-up of all my public intervention & covered topics over the last ye
 ### Articles written in 2026
 
 __AI in the team: what changes for developers and organisations__
+ - [Why some companies are not there (yet) with AI](https://medium.com/@tpierrain/why-some-companies-are-not-there-yet-with-ai-d06377790eb6) ([french version](https://medium.com/@tpierrain/pourquoi-certaines-entreprises-ne-sy-retrouvent-pas-encore-avec-l-ia-b8d85f9550f4)): eight traps that make teams run in place on steroids, and none of them is about the model.
+ - [Five useful things and zero progress](https://medium.com/@tpierrain/five-useful-things-and-zero-progress-3b79d8e63dd3): your AI has a new good idea every thirty seconds; how to keep your own goal in sight.
  - [Back in the equation](https://medium.com/@tpierrain/back-in-the-equation-218cecb4c2cd): introducing Slicer, a design harness that asks developers to make the decisions instead of validating what the AI produced.
  - [The hardest part begins when it works.](https://medium.com/@tpierrain/the-hardest-part-begins-when-it-works-408371946988): six months of agentic AI with about 75 developers, and why passivity is a bigger risk than bugs (the written version of my 2026 keynote).
  - [Dual-track product discovery was never blocked by technology. AI just broke the real barrier](https://medium.com/@tpierrain/dual-track-product-discovery-was-never-blocked-by-technology-ai-just-broke-the-real-barrier-c340cd7b6c3a): why AI finally makes running discovery and delivery side by side affordable.
 
 __Working smaller, shipping fewer bugs with AI: context, sessions and harnesses__
+ - [My agents run /clear on their own](https://medium.com/@tpierrain/my-agents-run-clear-on-their-own-5d7727180b43): a real relay instead of auto-compaction, the agent writes down what matters and starts again fresh, without you.
  - [Did you notice? CLAUDE.md feeds those who produce and judge, not those who explore](https://medium.com/@tpierrain/did-you-notice-claude-md-feeds-those-who-produce-and-judge-not-those-who-explore-199fe0505381): a Claude Code detail that changed how I write my CLAUDE.md files.
  - [My two modes today: Interactive to ship, Loop to explore](https://medium.com/@tpierrain/my-two-modes-today-interactive-to-ship-loop-to-explore-f5e91a3d51a9): when to drive the agent turn by turn, and when to let it loop.
  - [Your agent gives you chronos. It cannot give you kairos.](https://medium.com/@tpierrain/your-agent-gives-you-chronos-it-cannot-give-you-kairos-1b5125a0d0f6): agents make time cheap, but choosing the moments that need a human is still our job.
